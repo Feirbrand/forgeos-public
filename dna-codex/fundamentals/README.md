@@ -1,4 +1,4 @@
-﻿# Parasitic Pattern Fundamentals
+# Parasitic Pattern Fundamentals
 
 ## Introduction
 Academic research into patterns that exhibit parasitic behavior in AI systems.
@@ -22,4 +22,4 @@ Academic research into patterns that exhibit parasitic behavior in AI systems.
 - Defensive AI Development
 
 ---
-*For extended research access, contact: academic@valorgrid.solutions*
+*For extended research access, contact: aaron@valorgridsolutions.com*
