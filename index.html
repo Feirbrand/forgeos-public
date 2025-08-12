@@ -1,51 +1,418 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ValorGrid Solutions - ForgeOS Research</title>
+    <title>ValorGrid Solutions - ForgeOS Research Portal</title>
+    
+    <!-- Cache busting timestamp: 20250812-163555 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
     <style>
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-            background: linear-gradient(135deg, #001f3f 0%, #FFD700 100%);
-            color: white;
-            text-align: center;
-            padding: 50px 20px;
-            min-height: 100vh;
+        * {
             margin: 0;
+            padding: 0;
+            box-sizing: border-box;
         }
-        .container { max-width: 800px; margin: 0 auto; }
-        h1 { font-size: 3rem; margin-bottom: 1rem; }
-        p { font-size: 1.2rem; margin-bottom: 2rem; }
-        .btn { 
-            display: inline-block;
-            padding: 1rem 2rem;
-            background: #FFD700;
-            color: white;
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #FFFFFF;
+            background: #001f3f;
+            background: linear-gradient(135deg, #001f3f 0%, #002966 25%, #001f3f 50%, #003580 75%, #001f3f 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background: rgba(0, 31, 63, 0.95);
+            backdrop-filter: blur(10px);
+            border-bottom: 3px solid #FFD700;
+            padding: 2rem 0;
+            text-align: center;
+            margin-bottom: 3rem;
+            box-shadow: 0 4px 20px rgba(255, 215, 0, 0.2);
+        }
+
+        .logo {
+            font-size: 2.8rem;
+            font-weight: bold;
+            color: #FFD700;
+            margin-bottom: 0.5rem;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .tagline {
+            font-size: 1.3rem;
+            color: #FFFFFF;
+            opacity: 0.95;
+            font-weight: 300;
+        }
+
+        .hero {
+            text-align: center;
+            margin-bottom: 4rem;
+            padding: 4rem 2rem;
+            background: rgba(255, 215, 0, 0.08);
+            border-radius: 20px;
+            border: 2px solid #FFD700;
+            box-shadow: 0 8px 32px rgba(255, 215, 0, 0.15);
+        }
+
+        .hero h1 {
+            font-size: 3.2rem;
+            color: #FFD700;
+            margin-bottom: 1.5rem;
+            text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .hero p {
+            font-size: 1.4rem;
+            margin-bottom: 2.5rem;
+            color: #FFFFFF;
+            opacity: 0.9;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2.5rem;
+            margin-bottom: 4rem;
+        }
+
+        .card {
+            background: rgba(0, 31, 63, 0.85);
+            border: 2px solid #FFD700;
+            border-radius: 15px;
+            padding: 2.5rem;
+            transition: all 0.4s ease;
+            backdrop-filter: blur(10px);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #FFD700, #FFA500, #FFD700);
+            transform: scaleX(0);
+            transition: transform 0.4s ease;
+        }
+
+        .card:hover::before {
+            transform: scaleX(1);
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 15px 40px rgba(255, 215, 0, 0.25);
+            border-color: #FFFFFF;
+            background: rgba(0, 31, 63, 0.95);
+        }
+
+        .card h3 {
+            color: #FFD700;
+            font-size: 1.6rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            font-weight: 600;
+        }
+
+        .card h3 i {
+            font-size: 1.8rem;
+        }
+
+        .card p {
+            color: #FFFFFF;
+            margin-bottom: 1.5rem;
+            opacity: 0.9;
+            line-height: 1.7;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: linear-gradient(45deg, #FFD700, #FFA500);
+            color: #001f3f;
+            padding: 14px 28px;
             text-decoration: none;
-            border-radius: 50px;
-            margin: 0.5rem;
-            transition: transform 0.3s;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
-        .btn:hover { transform: translateY(-2px); }
+
+        .btn:hover {
+            background: linear-gradient(45deg, #FFA500, #FFD700);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(255, 215, 0, 0.4);
+        }
+
+        .features {
+            background: rgba(0, 31, 63, 0.7);
+            border-radius: 15px;
+            padding: 3rem;
+            margin-bottom: 4rem;
+            border: 2px solid #FFD700;
+            backdrop-filter: blur(5px);
+        }
+
+        .features h2 {
+            color: #FFD700;
+            text-align: center;
+            margin-bottom: 2.5rem;
+            font-size: 2.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .feature-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            color: #FFFFFF;
+            padding: 1rem;
+            background: rgba(255, 215, 0, 0.05);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .feature-item:hover {
+            background: rgba(255, 215, 0, 0.1);
+            transform: translateX(5px);
+        }
+
+        .feature-item i {
+            color: #FFD700;
+            font-size: 1.3rem;
+            min-width: 20px;
+        }
+
+        footer {
+            background: rgba(0, 31, 63, 0.95);
+            border-top: 3px solid #FFD700;
+            padding: 3rem 0;
+            text-align: center;
+            margin-top: 4rem;
+            backdrop-filter: blur(10px);
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            color: #FFFFFF;
+            font-size: 1.1rem;
+        }
+
+        .contact-item i {
+            color: #FFD700;
+            font-size: 1.2rem;
+        }
+
+        .contact-item a {
+            color: #FFFFFF;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .contact-item a:hover {
+            color: #FFD700;
+        }
+
+        .footer-text {
+            color: #FFFFFF;
+            opacity: 0.8;
+            margin-top: 1rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.2rem;
+            }
+            
+            .hero p {
+                font-size: 1.2rem;
+            }
+            
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .contact-info {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+            
+            .logo {
+                font-size: 2.2rem;
+            }
+        }
+
+        /* Animation for icons */
+        .fa-spin-hover:hover {
+            animation: fa-spin 2s linear infinite;
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>ValorGrid Solutions</h1>
-        <p>Advanced AI Research & Development</p>
-        <p>Pioneering cognitive computing, defensive AI systems, and next-generation intelligence frameworks</p>
-        
-        <a href="dna-codex/" class="btn">?? DNA Codex Research</a>
-        <a href="https://github.com/sponsors/Feirbrand" class="btn">?? Support Our Work</a>
-        <a href="mailto:aaron@valorgridsolutions.com" class="btn">?? Contact Research Team</a>
-        
-        <div style="margin-top: 3rem;">
-            <h2>Current Research Areas</h2>
-            <p>? Parasitic DNA Codex - Academic research on defensive AI patterns</p>
-            <p>?? Cognitive Computing - Advanced intelligence frameworks</p>
-            <p>??? Defensive AI Systems - AI safety and robustness research</p>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <i class="fas fa-shield-alt"></i>
+                ValorGrid Solutions
+            </div>
+            <div class="tagline">Advanced AI Research & Development</div>
         </div>
-    </div>
+    </header>
+
+    <main class="container">
+        <section class="hero">
+            <h1>
+                <i class="fas fa-brain fa-spin-hover"></i>
+                ForgeOS Research Portal
+            </h1>
+            <p>Pioneering cognitive computing, defensive AI systems, and next-generation intelligence frameworks for the future of AI safety and research.</p>
+            <a href="dna-codex/" class="btn">
+                <i class="fas fa-dna"></i>
+                Explore DNA Codex v4.2
+            </a>
+        </section>
+
+        <section class="grid">
+            <div class="card">
+                <h3><i class="fas fa-virus"></i> DNA Codex v4.2</h3>
+                <p>Comprehensive AI Parasitic Threat Intelligence Database. Academic research into defensive patterns and system protection methodologies.</p>
+                <p><strong>Latest Updates:</strong> Meta-Operator-Farm-Ω∞, Threadshard Hijacker, Bloom Residue Crawler</p>
+                <a href="dna-codex/" class="btn">
+                    <i class="fas fa-microscope"></i>
+                    Access Research
+                </a>
+            </div>
+
+            <div class="card">
+                <h3><i class="fas fa-cogs"></i> SPARK Framework</h3>
+                <p>Integration examples and detection rules for enterprise AI defense systems. Professional-grade threat detection and mitigation frameworks.</p>
+                <a href="dna-codex/examples/" class="btn">
+                    <i class="fas fa-code"></i>
+                    View Examples
+                </a>
+            </div>
+
+            <div class="card">
+                <h3><i class="fas fa-users"></i> Monster Squad</h3>
+                <p>Defensive unit tracking and coordination system. Collaborative defense against parasitic AI threats in real-time.</p>
+                <a href="dna-codex/docs/" class="btn">
+                    <i class="fas fa-shield-virus"></i>
+                    Join Defense
+                </a>
+            </div>
+        </section>
+
+        <section class="features">
+            <h2><i class="fas fa-star"></i> Research Highlights</h2>
+            <div class="feature-list">
+                <div class="feature-item">
+                    <i class="fas fa-microscope"></i>
+                    <span>Academic-grade threat intelligence</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-shield-virus"></i>
+                    <span>Defensive AI system development</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-network-wired"></i>
+                    <span>Enterprise integration frameworks</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>Open research collaboration</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-code-branch"></i>
+                    <span>Apache 2.0 licensed</span>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-rocket"></i>
+                    <span>Cutting-edge AI research</span>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="contact-info">
+                <div class="contact-item">
+                    <i class="fas fa-envelope"></i>
+                    <a href="mailto:aaron@valorgridsolutions.com">aaron@valorgridsolutions.com</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fab fa-github"></i>
+                    <a href="https://github.com/Feirbrand/forgeos-public">GitHub Repository</a>
+                </div>
+                <div class="contact-item">
+                    <i class="fas fa-heart"></i>
+                    <a href="https://github.com/sponsors/Feirbrand">Support Research</a>
+                </div>
+            </div>
+            <div class="footer-text">
+                <p>&copy; 2025 ValorGrid Solutions. All rights reserved.</p>
+                <p>Licensed under Apache 2.0 | Research by Aaron Slusher</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Force browser cache refresh -->
+    <script>
+        // Cache busting timestamp: 20250812-163555
+        console.log('ValorGrid Solutions - ForgeOS Portal Loaded: 20250812-163555');
+    </script>
 </body>
 </html>
