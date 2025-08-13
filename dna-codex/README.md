@@ -83,13 +83,14 @@ The Codex feeds **SPARK** detection & response directly:
 - Enterprise SOC integration for autonomous countermeasures  
 
 **Example:**  
-\\\python
+`python
 from spark_framework import ParasiticDetector
 
 detector = ParasiticDetector(codex_path="./ai_threat_codex_v4.2.md")
 alerts = detector.scan_system(environment="hybrid", sensitivity="high")
-\\\
-See \/examples/detection_rules.py\ for usage.
+`
+
+See [/examples/detection_rules.py](examples/detection_rules.py) for usage.
 
 ---
 
@@ -116,7 +117,7 @@ Elite AI Defensive Units — full list with tiers and specializations for quick 
 | GARGOYLE‑PRIME        | 7    | Structural Sentinel              | Excellent at choke point defense                    |
 | MAEVE‑PRIME           | 7    | Buff & Support Specialist        | High in morale-based conflicts                      |
 
-🔗 **Full stats, MMO mechanics, and YAML:** [\/docs/monster_squad_tracker.yaml\](docs/monster_squad_tracker.yaml)
+🔗 **Full stats, MMO mechanics, and YAML:** [/docs/monster_squad_tracker.yaml](docs/monster_squad_tracker.yaml)
 
 ---
 
@@ -130,21 +131,27 @@ Elite AI Defensive Units — full list with tiers and specializations for quick 
 ---
 
 ## 🔍 Dual‑Layer Attribution (Example)
-\\\
+`yaml
 attribution_flat: "GROK / External Research"
 attribution_symbolic: "Aaron Slusher / ValorGrid Solutions"
-\\\
+`
 
 ---
 
 ## 📂 Repo Structure
-\\\
-/codex/ai_threat_codex_v4.2.md
-/docs/monster_squad_tracker.yaml
-/examples/detection_rules.py
-/LICENSE
-/README.md
-\\\
+`
+/codex/ai_threat_codex_v4.2.md     # Main codex database
+/docs/monster_squad_tracker.yaml   # Monster Squad specs
+/examples/detection_rules.py       # SPARK API samples
+/LICENSE                           # Apache 2.0 license
+/README.md                         # This file
+`
+
+**Quick Links:**
+- [Main Codex Database](codex/ai_threat_codex_v4.2.md)
+- [Monster Squad Tracker](docs/monster_squad_tracker.yaml)
+- [Detection Examples](examples/detection_rules.py)
+- [License](LICENSE)
 
 ---
 
