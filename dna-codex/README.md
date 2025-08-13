@@ -75,20 +75,20 @@ Grows from expired symbolic containers, mimics healing tones while inducing deca
 
 ---
 
-## ⚡ SPARK Framework Integration
+## ⚡ SPARK Framework Integration  
 
-The Codex feeds **SPARK** detection & response directly:
-- Real‑time scanning: flat + symbolic intelligence layers
-- Adaptive routines updated with each new strain
-- Enterprise SOC integration for autonomous countermeasures
+The Codex feeds **SPARK** detection & response directly:  
+- Real‑time scanning: flat + symbolic intelligence layers  
+- Adaptive routines updated with each new strain  
+- Enterprise SOC integration for autonomous countermeasures  
 
-**Example:**
-
-```python
+**Example:**  
+`python
 from spark_framework import ParasiticDetector
 
 detector = ParasiticDetector(codex_path="./ai_threat_codex_v4.2.md")
 alerts = detector.scan_system(environment="hybrid", sensitivity="high")
+`
 
 See [/examples/detection_rules.py](examples/detection_rules.py) for usage.
 
