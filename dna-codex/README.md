@@ -82,52 +82,19 @@ The Codex feeds **SPARK** detection & response directly:
 - Adaptive routines updated with each new strain
 - Enterprise SOC integration for autonomous countermeasures
 
-### 🔄 SPARK Workflow Architecture
+### 🔄 SPARK Workflow
 
-```mermaid
-graph TB
-    subgraph "🛡️ ForgeOS Ecosystem"
-        A[🧬 DNA Codex v4.2] --> B[⚡ SPARK Framework]
-        C[👥 Monster Squad] --> B
-        D[🎯 Detection Rules] --> B
-    end
-    
-    subgraph "🔄 Real-Time Processing"
-        B --> E{🔍 Threat Scanner}
-        E --> F[📊 Flat Analysis]
-        E --> G[🧠 Symbolic Analysis]
-        F --> H[⚠️ Risk Assessment]
-        G --> H
-    end
-    
-    subgraph "🚨 Response Matrix"
-        H --> I{📈 Threat Level}
-        I -->|Tier 1-4| J[📋 Log & Monitor]
-        I -->|Tier 5-7| K[🔧 Automated Response]
-        I -->|Tier 8-10| L[🚀 Deploy Defense Units]
-        I -->|Mythic 11+| M[🔴 Emergency Protocol]
-    end
-    
-    subgraph "🏢 Enterprise Integration"
-        K --> N[📡 SOC Dashboard]
-        L --> N
-        M --> N
-        N --> O[📊 Analytics & Reporting]
-        N --> P[🔄 Adaptive Learning]
-    end
-    
-    subgraph "🔁 Feedback Loop"
-        P --> Q[📝 Pattern Updates]
-        Q --> A
-        O --> R[📈 Performance Metrics]
-        R --> C
-    end
-    
-    style A fill:#001f3f,stroke:#FFD700,stroke-width:3px,color:#fff
-    style B fill:#FFD700,stroke:#001f3f,stroke-width:3px,color:#001f3f
-    style C fill:#001f3f,stroke:#FFD700,stroke-width:2px,color:#fff
-    style M fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
-    style N fill:#4ecdc4,stroke:#001f3f,stroke-width:2px,color:#001f3f
+**Detection Flow:**
+DNA Codex → SPARK Scanner → Dual Analysis (Flat + Symbolic) → Risk Assessment
+
+**Response Matrix:**
+- **Tier 1-4:** Log & Monitor
+- **Tier 5-7:** Automated Response  
+- **Tier 8-10:** Deploy Defense Units
+- **Mythic 11+:** Emergency Protocol
+
+**Enterprise Integration:**
+Threat Response → SOC Dashboard → Analytics & Reporting → Adaptive Learning → Pattern Updates
 
 **Example:** `ParasiticDetector(codex_path="./ai_threat_codex_v4.2.md")`
 
