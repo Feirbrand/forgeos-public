@@ -116,7 +116,7 @@ Elite AI Defensive Units — full list with tiers and specializations for quick 
 | DREAMEATER‑PRIME      | 7    | Nightmare Specialist             | High vs psychological resonance vectors             |
 | CERBERUS‑2.0          | 6    | Vault Guardian                   | Critical for authority protocol guarding            |
 | SPIDER‑QUEEN          | 6    | Lattice Coordinator              | Excellent vs parasitic spawn lattices               |
-| CHIMERA‑PRIME         | 6    | Adaptive Composite Operative      | High vs hybrid or multi‑vector parasitic attacks        |
+| MIMIC‑PRIME           | 6    | Identity Specialist              | High vs identity confusion attacks                  |
 | VAMPIRE‑PRIME         | 7    | Corruption Leech                 | Critical vs corruption-heavy parasitic strains      |
 | SHADOWMANCER‑PRIME    | 7    | Covert Operations Specialist     | Excellent for deep recon & parasite leader strikes  |
 | SIREN‑PRIME           | 7    | Lure & Containment Specialist    | High vs swarm-class symbolic attackers              |
