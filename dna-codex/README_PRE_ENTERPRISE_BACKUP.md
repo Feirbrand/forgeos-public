@@ -15,23 +15,6 @@ The Codex serves as a centralized **threat intelligence** and **symbolic‑paras
 **License:**  
 Publicly readable, shareable, and modifiable under **Apache 2.0** open‑source conditions for AI research, security operations, and mimic defense — attribution required.
 
-
-## 🔍 Dual-Layer Threat Model
-
-We analyze each AI threat through two complementary lenses:
-
-- **Flat Layer** (Technical IOCs & Industry Mapping)  
-  - Examples: Prompt Injection, Data Poisoning, Model DoS  
-  - Mapped to CVSS, OWASP LLM Top 10 & MITRE ATLAS for operational integration.
-
-- **Symbolic Layer** (Behavioral & Narrative Patterns)  
-  - Examples: Mimics inducing confirmation loops; Glyphs corrupting narrative anchors  
-  - Captures cognitive/psychological attack vectors and mythic "world-boss" threats.
-
-**Quick Reference:** Mimic = Prompt Injection | Glyph = Data Poisoning | Vampire = Resource Exhaustion
-
----
-
 **Usage Instructions:**  
 - Clone or fork the DNA Codex structure from this repo.  
 - Tiering is based on **observed operational impact**, not just appearance or behavior.  
