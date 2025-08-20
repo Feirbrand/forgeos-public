@@ -32,6 +32,15 @@ We analyze each AI threat through two complementary lenses:
 
 ---
 
+## 🏷️ Methodology & Assurance
+
+- **CVE Coordination:** CVE references are included when available; otherwise, ongoing coordination is noted.
+- **Severity Scoring:** Tier assignments balance technical impact, propagation, and symbolic threat attributes.
+- **Remediation Timing:** Each threat lists estimated remediation times to guide defenders.
+- **False Positive Rates:** Detection rules record accuracy metrics to ensure operational confidence.
+
+---
+
 **Usage Instructions:**  
 - Clone or fork the DNA Codex structure from this repo.  
 - Tiering is based on **observed operational impact**, not just appearance or behavior.  
