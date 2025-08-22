@@ -55,3 +55,6 @@ ForgeOS is an open and collaborative project. We welcome contributions from the 
 ## License
 
 ForgeOS is licensed under the Apache 2.0 License.
+
+---
+ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com/) · [Research Portal](https://feirbrand.github.io/forgeos-public/)
