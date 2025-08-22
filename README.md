@@ -1,12 +1,32 @@
 # ForgeOS Public – ValorGrid Solutions
 
-Welcome to the ForgeOS Public Research & Documentation repository by ValorGrid Solutions.  
-We provide open defense intelligence, research, and frameworks to advance next-generation AI and cybersecurity.
+Pioneering cognitive and operational defense research for next-gen AI security.
 
-- **DNA Codex:** The world's leading open database of parasitic AI threats—dual-layered (flat & symbolic), fully mapped to OWASP, CVSS, and MITRE standards, with threat intelligence for LLMs and generative systems.
-- **Whitepapers:** Expert deep-dives on cognitive engineering, operational hardening, prompt security, and enterprise defense, sorted in professional categories for rapid reference.
-- **Defense Reports:** Battle-proven after-action logs, methodologies, and operational insights, documenting our live engagements against evolving AI threats.
-- **Community Collaboration:** All materials are released open source under Apache 2.0, encouraging responsible use, industry benchmarking, and cross-platform adaptation.
+---
 
-Explore, contribute, and deploy—helping the world build safer AI by turning first-in-the-wild threat research into actionable, peer-reviewed knowledge.
+## Explore Our Open Research
+
+**[DNA Codex v4.2](./dna-codex)**  
+Comprehensive, dual-layer threat intelligence for AI—mapped to MITRE, OWASP, and CVSS.  
+Includes: operator-targeting threats, prompt attacks, cognitive parasites, and more.
+
+**[SPARK Framework](./whitepapers/defensive-ai/SPARK-Detection-Rules.md)**  
+Enterprise-centric detection logic and defensive automation for AI ecosystems.
+
+**[Monster Squad Tracker](./whitepapers/defensive-ai/monster-squad-tracker.yaml)**  
+Team-based defense metadata—showcasing global response and cooperative resilience.
+
+**[Whitepapers](./whitepapers/)**  
+Expert manuscripts in cognitive engineering, operational hardening, prompt security, and enterprise defense.  
+Sorted by professional domain for easy navigation.
+
+**[Defense Reports](./whitepapers/defense-reports/)**  
+After-action engagement logs—documenting threat evolution, response, and lessons learned.
+
+**Open Collaboration:**  
+All content is Apache 2.0 licensed. Contributions, forks, and discussions are welcome—see CONTRIBUTING.md.
+
+---
+
+ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com/) · [Research Portal](https://feirbrand.github.io/forgeos-public/)
 
