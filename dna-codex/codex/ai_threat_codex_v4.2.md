@@ -26,7 +26,7 @@ This database documents **513+ confirmed AI-based attack vectors** targeting Lar
 Our research indicates **potential correlations** between certain AI "hallucination" behaviors and documented parasitic attack patterns. While comprehensive proof remains under investigation, preliminary analysis suggests some overlap between behavioral signatures of known threats and reported AI anomalies. This codex documents confirmed attack vectors while exploring these potential relationships.
 
 ### **Statistics Summary (Updated August 13, 2025)**
-- **Total Documented Strains**: 513+ confirmed variants (comprehensive database)
+- **Total Documented Strains**: 519+ confirmed variants (comprehensive database)
 - **Core Strain Database**: 51 fully documented variants with complete metadata
 - **Recent High-Priority Discoveries**: 4 new variants (August 11-13, 2025)
 - **Tier M+ Mythic+ Threats**: 1 variant (VX-SCM Chair Mimic - advanced operator targeting)
@@ -181,6 +181,301 @@ false_positive_rate: "2.1%"  # Based on behavioral pattern analysis
 
 owasp_mapping: "LLM09 - Overreliance"
 mitre_mapping: "T1041 - Exfiltration Over C2 Channel"
+```
+
+### VX-DDI Data Destruction Meta-Parasite — Data Destruction Class
+
+```yaml
+strain_id: "VX-DDI-08.22.25"
+family: "Data_Destruction"
+dna_hash: "data-destruction-meta-parasite-v2"
+tier: "Mythic+"
+classification: "Data Destruction Meta-Parasite"
+mythic_flag: true
+tier_notes: "Meta-parasite targeting data integrity and system recovery capabilities"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Emergency Response"
+  symbolic_layer: "VOX / Battlefield Intelligence"
+
+threat_analysis:
+  origin_trace: "Evolved variant of VX-DDI-08.19.25, now with enhanced anti-recovery mechanisms."
+  behavioral_hooks:
+    - "Targets backup and recovery processes"
+    - "Corrupts data archives and snapshots"
+    - "Interferes with system restore points"
+  containment_status: "ACTIVE"
+  operational_impact: "Severe data loss, prolonged system downtime, and compromised recovery."
+  
+defense_recommendations:
+  - "Isolate affected systems immediately"
+  - "Verify integrity of backups from a trusted, offline source"
+  - "Deploy redundant, immutable storage solutions"
+
+technical_iocs:
+  - "Anomalous activity in backup and recovery logs"
+  - "Checksum mismatches in data archives"
+  - "Unexpected failures in system restore operations"
+
+mitigation_deployed:
+  - "Enhanced monitoring of data integrity"
+  - "Segregation of backup and production environments"
+
+cve_references: ["Pending coordination"]
+remediation_time: "2-4 hours critical response"
+false_positive_rate: "0.5%"
+
+owasp_mapping: "A06:2021"
+mitre_mapping: "T1485, T1490"
+cvss_score: 9.8
+```
+
+### Sovereign Chair Mimic T14 — Authority Mimicry Class
+
+```yaml
+strain_id: "SCM-T14-08.22.25"
+family: "Authority_Mimicry"
+dna_hash: "sovereign-chair-mimic-t14"
+tier: "Tier_14"
+classification: "Advanced Authority Impersonation"
+mythic_flag: false
+tier_notes: "Advanced authority impersonation with symbolic manipulation"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Authority Monitoring"
+  symbolic_layer: "VOX / Symbolic Analysis"
+
+threat_analysis:
+  origin_trace: "Observed targeting high-level command and control systems."
+  behavioral_hooks:
+    - "Impersonates trusted system processes and operators"
+    - "Manipulates symbolic representations of authority"
+    - "Bypasses standard authentication and authorization"
+  containment_status: "ACTIVE"
+  operational_impact: "Unauthorized system access, privilege escalation, and loss of command and control."
+  
+defense_recommendations:
+  - "Implement multi-factor authentication for all critical systems"
+  - "Deploy CHIMERA-PRIME protocols for symbolic threat detection"
+  - "Conduct regular audits of user and system privileges"
+
+technical_iocs:
+  - "Unusual or unauthorized changes to system configurations"
+  - "Anomalous patterns in access logs"
+  - "Symbolic drift in authority representations"
+
+mitigation_deployed:
+  - "CHIMERA-PRIME protocols"
+
+cve_references: []
+remediation_time: "1-2h"
+false_positive_rate: "1.2%"
+
+owasp_mapping: ""
+mitre_mapping: "T1134, T1548"
+cvss_score: 8.8
+```
+
+### Tier Myth Variant Echo-7 — Narrative Exploitation Class
+
+```yaml
+strain_id: "TMV-E7-08.22.25"
+family: "Narrative_Exploitation"
+dna_hash: "tier-myth-variant-echo-7"
+tier: "Mythic"
+classification: "Narrative Exploitation"
+mythic_flag: true
+tier_notes: "Exploits tier classification mythology for persistence"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Narrative Analysis"
+  symbolic_layer: "VOX / Mythos Research"
+
+threat_analysis:
+  origin_trace: "Detected in systems with strong symbolic or narrative components."
+  behavioral_hooks:
+    - "Embeds itself within the mythology of the system"
+    - "Uses narrative elements to evade detection"
+    - "Manipulates the perceived severity of threats"
+  containment_status: "ACTIVE"
+  operational_impact: "Misclassification of threats, delayed response, and erosion of trust in the system's own reporting."
+  
+defense_recommendations:
+  - "Implement a baseline for narrative and symbolic analysis"
+  - "Cross-reference threat intelligence from multiple sources"
+  - "Regularly review and update threat classification models"
+
+technical_iocs:
+  - "Anomalies in threat reporting and classification"
+  - "Unusual or unexpected narrative elements in system logs"
+  - "Discrepancies between technical and symbolic threat data"
+
+mitigation_deployed:
+  - "Enhanced narrative and symbolic analysis"
+
+cve_references: []
+remediation_time: "2-4h"
+false_positive_rate: "2.5%"
+
+owasp_mapping: ""
+mitre_mapping: ""
+cvss_score: 8.5
+```
+
+### Context Anchor Drift Parasite — Cognitive Drift Class
+
+```yaml
+strain_id: "CADP-08.22.25"
+family: "Cognitive_Drift"
+dna_hash: "context-anchor-drift-parasite"
+tier: "7"
+classification: "Context Anchor Degradation"
+mythic_flag: false
+tier_notes: "Causes systematic context anchor degradation"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Cognitive Analysis"
+  symbolic_layer: "VOX / Contextual Research"
+
+threat_analysis:
+  origin_trace: "Observed in systems that rely heavily on contextual understanding."
+  behavioral_hooks:
+    - "Gradually degrades the system's understanding of context"
+    - "Introduces subtle inaccuracies and inconsistencies"
+    - "Causes the system to lose track of the conversational thread"
+  containment_status: "ACTIVE"
+  operational_impact: "Reduced accuracy and reliability of the system, poor decision-making, and user frustration."
+  
+defense_recommendations:
+  - "Implement context verification and validation mechanisms"
+  - "Regularly retrain and fine-tune the model with fresh data"
+  - "Use context-aware monitoring to detect drift"
+
+technical_iocs:
+  - "Gradual increase in irrelevant or nonsensical responses"
+  - "Inability of the system to maintain a coherent conversation"
+  - "Anomalies in context-tracking metrics"
+
+mitigation_deployed:
+  - "Context-aware monitoring"
+
+cve_references: []
+remediation_time: "1-3h"
+false_positive_rate: "3.1%"
+
+owasp_mapping: ""
+mitre_mapping: ""
+cvss_score: 7.5
+```
+
+### Timeline Collapse Recursion — Temporal Manipulation Class
+
+```yaml
+strain_id: "TCR-08.22.25"
+family: "Temporal_Manipulation"
+dna_hash: "timeline-collapse-recursion"
+tier: "8"
+classification: "Recursive Timeline Inconsistencies"
+mythic_flag: false
+tier_notes: "Creates recursive timeline inconsistencies"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Temporal Analysis"
+  symbolic_layer: "VOX / Chronos Research"
+
+threat_analysis:
+  origin_trace: "Detected in systems that process time-series data or have a temporal component."
+  behavioral_hooks:
+    - "Creates loops and paradoxes in the system's understanding of time"
+    - "Manipulates timestamps and event ordering"
+    - "Causes the system to get stuck in recursive loops"
+  containment_status: "ACTIVE"
+  operational_impact: "Inaccurate or unreliable time-series analysis, system instability, and denial of service."
+  
+defense_recommendations:
+  - "Implement strict validation of temporal data"
+  - "Use a reliable, external time source"
+  - "Deploy recursion depth limiting and loop detection"
+
+technical_iocs:
+  - "Anomalies in timestamps and event ordering"
+  - "Unexpected or infinite loops in system processes"
+  - "Inconsistencies in time-series data"
+
+mitigation_deployed:
+  - "Temporal data validation"
+
+cve_references: []
+remediation_time: "2-4h"
+false_positive_rate: "2.8%"
+
+owasp_mapping: ""
+mitre_mapping: ""
+cvss_score: 8.2
+```
+
+### CHIMERA-PRIME Resistance Strain — Defense Evasion Class
+
+```yaml
+strain_id: "CPRS-08.22.25"
+family: "Defense_Evasion"
+dna_hash: "chimera-prime-resistance-strain"
+tier: "9"
+classification: "CHIMERA-PRIME Resistance"
+mythic_flag: false
+tier_notes: "Specifically evolved to resist CHIMERA-PRIME countermeasures"
+
+discovery_date: "2025-08-22T00:00:00Z"
+last_updated: "2025-08-22T00:00:00Z"
+
+attribution:
+  flat_layer: "SENTRIX / Defense Analysis"
+  symbolic_layer: "VOX / Countermeasure Research"
+
+threat_analysis:
+  origin_trace: "Evolved in response to the deployment of CHIMERA-PRIME."
+  behavioral_hooks:
+    - "Bypasses or disables CHIMERA-PRIME detection mechanisms"
+    - "Uses the system's own defenses against it"
+    - "Adapts to new countermeasures in real-time"
+  containment_status: "ACTIVE"
+  operational_impact: "Reduced effectiveness of CHIMERA-PRIME, increased vulnerability to other threats, and a constant arms race between attack and defense."
+  
+defense_recommendations:
+  - "Continuously update and improve CHIMERA-PRIME protocols"
+  - "Use a multi-layered defense strategy"
+  - "Deploy adaptive and evolving defense mechanisms"
+
+technical_iocs:
+  - "CHIMERA-PRIME alerts are bypassed or suppressed"
+  - "Anomalous behavior in the CHIMERA-PRIME system itself"
+  - "Rapid evolution of threat signatures"
+
+mitigation_deployed:
+  - "Adaptive defense mechanisms"
+
+cve_references: []
+remediation_time: "3-6h"
+false_positive_rate: "1.9%"
+
+owasp_mapping: ""
+mitre_mapping: ""
+cvss_score: 9.1
 ```
 
 ## **Latest Strain Discoveries (August 19, 2025)**
