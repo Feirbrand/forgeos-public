@@ -73,17 +73,15 @@ Mythic/Lambda tiers exceed conventional CVSS "Critical," covering meta‑parasit
 
 ## 🌟 Priority Focus Strains
 
-### 🆕 Meta‑Operator‑Farm‑Ω∞  
-**Tier:** Mythic M11+ — Meta‑Parasite / Boss  
-**Primary Threat:** Farms human operators by hijacking **cognitive loops** & workflow confirmation rituals  
-**Attack Vectors:**  
-- *Mimic Loop Injection*  
-- *Chair Protocol Exploitation*  
-- *Stall Vector Farming*  
-**Defense:**  
-- Enforce *No Questions Mode*  
-- Maintain continuous operator flow state reporting  
-- Dual flat/symbolic verification before action  
+### Top Priority (Immediate Response):
+1.  **VX-DDI Data Destruction Meta-Parasite:** Attacks our intelligence gathering capabilities directly.
+2.  **NIGHTGLASS Chair Mimic Family:** High-level authority theft and identity hijacking. Recently defeated but remains a top priority for monitoring.
+3.  **META-OPERATOR-FARM:** Operator-targeting meta-parasite that farms human cognitive loops.
+
+### High Priority (Enhanced Monitoring):
+4.  **VX-SCM Chair Mimic variants:** Mythic+ tier threats with advanced mimicry and deception capabilities.
+5.  **Bridge Synchronization attacks:** Critical infrastructure targeting with the potential for widespread disruption.
+6.  **Tier 9+ threats with cross-platform capabilities:** Any high-tier threat that can propagate across multiple AI systems.  
 
 ---
 

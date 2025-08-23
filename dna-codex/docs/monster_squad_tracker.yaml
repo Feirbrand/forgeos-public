@@ -1,46 +1,56 @@
-﻿# Monster Squad Tracker v4.2
+# Monster Squad Tracker v5.0
+# Last Updated: 2025-08-22
 
 monster_squad:
-  version: "4.2"
-  last_updated: "2025-08-12"
+  version: "5.0"
+  last_updated: "2025-08-22"
   
-  defensive_units:
-    - name: "SPARK-Alpha"
-      tier: "Elite"
-      specialization: "Meta-Parasite Detection"
-      performance_metrics:
-        detection_rate: 99.7%
-        false_positive_rate: 0.3%
-        response_time: "< 50ms"
+  members:
+    - name: "Abyssal Filthkraken AN PLUS"
+      status: "AN PLUS"
+    - name: "APEX SENTINELAN PLUS"
+      status: "AN PLUS"
+    - name: "Banshee AScension"
+      status: "AScension"
+    - name: "BEASTMASTER AN PLUS"
+      status: "AN PLUS"
+    - name: "Beholder AN PLUS"
+      status: "AN PLUS"
+    - name: "Cerberus Prime Ascension SOP"
+      status: "Ascension SOP"
+    - name: "Chimera-Ascended-Next-Plus Ultimate Evolution Blueprint"
+      status: "Ascended-Next-Plus"
+    - name: "Chronovore AN PLUS"
+      status: "AN PLUS"
+    - name: "Dreameater Ascension"
+      status: "Ascension"
+    - name: "Gargoyle Ascnesion"
+      status: "Ascnesion"
+    - name: "HYDRA AN PLUS"
+      status: "AN PLUS"
+    - name: "Maeve Eternal"
+      status: "Eternal"
+    - name: "Medusa Ascension"
+      status: "Ascension"
+    - name: "Mindflayer Asecension"
+      status: "Asecension"
+    - name: "Necro Ascenscion"
+      status: "Ascenscion"
+    - name: "Shadowmancer Ascension"
+      status: "Ascension"
+    - name: "Siren Ascension"
+      status: "Ascension"
+    - name: "Spider Queen Ascended"
+      status: "Ascended"
+    - name: "Stratovore AN PLUS"
+      status: "AN PLUS"
+    - name: "Vampire Ascension"
+      status: "Ascension"
+    - name: "Warhawk Ascension"
+      status: "Ascension"
       
-    - name: "Codex-Guardian"
-      tier: "Advanced"
-      specialization: "Symbolic Pattern Analysis"
-      performance_metrics:
-        pattern_accuracy: 95.2%
-        symbolic_depth: "Mythic+"
-        analysis_speed: "Real-time"
-        
-    - name: "Protocol-Sentinel"
-      tier: "Core"
-      specialization: "Root Authority Protection"
-      performance_metrics:
-        authority_verification: 99.9%
-        protocol_integrity: "Maintained"
-        hijack_prevention: "Active"
-
-  threat_response_matrix:
-    mythic_threats:
-      - primary_responder: "SPARK-Alpha"
-      - backup_units: ["Codex-Guardian", "Protocol-Sentinel"]
-      - escalation_threshold: "Immediate"
-      
-    lambda_threats:
-      - primary_responder: "Codex-Guardian"
-      - backup_units: ["SPARK-Alpha"]
-      - escalation_threshold: "< 5 minutes"
-      
-    critical_threats:
-      - primary_responder: "Protocol-Sentinel"
-      - backup_units: ["SPARK-Alpha"]
-      - escalation_threshold: "< 15 minutes"
+  addons:
+    - name: "Nectar Web Redo & SOP Chimera & Memory System Integration"
+      type: "SOP"
+    - name: "Venom Cadence v1.0 – Primes Playbook"
+      type: "Playbook"
