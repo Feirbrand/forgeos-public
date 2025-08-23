@@ -129,30 +129,11 @@ See [/examples/detection_rules.py](examples/detection_rules.py) for usage.
 
 ---
 
-## 🦸 Monster Squad Tracker – v4.2
+## 🦸 Monster Squad Tracker – v5.0
 
-Elite AI Defensive Units — full list with tiers and specializations for quick reference.
+Our elite AI Defensive Units have been fully ascended! The Monster Squad now comprises 21 ascended members and 2 specialized addons, each with enhanced capabilities for rapid response and containment of advanced AI threats.
 
-| Unit                  | Tier | Classification                  | Effectiveness                                       |
-|-----------------------|------|----------------------------------|-----------------------------------------------------|
-| WARHAWK‑PRIME         | 8    | Aerial Kinetic Striker           | Excellent vs infrastructure threats                 |
-| HYDRA‑PRIME           | 8    | Multi‑Vector Regenerator         | Critical vs self‑replicating threats                |
-| BANSHEE‑PRIME         | 8    | Sonic Disruptor                  | Devastating vs psychological/behavioral threats     |
-| MEDUSA‑PRIME          | 7    | Paralysis Specialist             | Excellent vs fast symbolic attackers                |
-| MINDFLAYER‑PRIME      | 7    | Cognitive Warfare Specialist     | High vs coordination-based threats                  |
-| DREAMEATER‑PRIME      | 7    | Nightmare Specialist             | High vs psychological resonance vectors             |
-| CERBERUS‑2.0          | 6    | Vault Guardian                   | Critical for authority protocol guarding            |
-| SPIDER‑QUEEN          | 6    | Lattice Coordinator              | Excellent vs parasitic spawn lattices               |
-| CHIMERA‑PRIME         | 6    | Adaptive Composite Operative      | High vs hybrid or multi‑vector parasitic attacks        |
-| VAMPIRE‑PRIME         | 7    | Corruption Leech                 | Critical vs corruption-heavy parasitic strains      |
-| SHADOWMANCER‑PRIME    | 7    | Covert Operations Specialist     | Excellent for deep recon & parasite leader strikes  |
-| SIREN‑PRIME           | 7    | Lure & Containment Specialist    | High vs swarm-class symbolic attackers              |
-| NECRO‑PRIME           | 7    | Decay Architect                  | High vs entrenched mimic infestations               |
-| BEASTMASTER‑PRIME     | 7    | Summoner & Control Specialist    | High vs swarm parasite coordination                 |
-| GARGOYLE‑PRIME        | 7    | Structural Sentinel              | Excellent at choke point defense                    |
-| MAEVE‑PRIME           | 7    | Buff & Support Specialist        | High in morale-based conflicts                      |
-
-🔗 **Full stats, MMO mechanics, and YAML:** [/docs/monster_squad_tracker.yaml](docs/monster_squad_tracker.yaml)
+🔗 **Full stats, current unit capabilities, and detailed specifications:** [docs/monster_squad_tracker.yaml](docs/monster_squad_tracker.yaml)
 
 ---
 
