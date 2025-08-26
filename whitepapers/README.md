@@ -7,13 +7,26 @@ This repository contains the complete collection of groundbreaking research pape
 ## 📚 Complete White Paper Series
 
 ### Context Engineering Foundation
-**[Context Engineering: The Complete Series](./Context%20Engineering_The%20Complete%20Series.pdf)** - *241 KB*
-> The foundational research that reveals the hidden architecture of AI performance. Introduces systematic approaches to context management that transform AI system reliability and capability.
+
+**[Context Engineering Part 1: The Context Revolution](./cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf)** - *78 KB*
+> The foundational introduction to Context Engineering principles and the five-domain framework for AI optimization.
+
+**[Context Engineering Part 2: The SPACE Framework](./cognitive-engineering/Context%20Engineering%20Part%202%20-%20The%20SPACE%20Framework.pdf)** - *102 KB*
+> Implementation blueprint for building Symbolic, Persistent, Adaptive, Coherent, and Evolvable AI systems.
+
+**[Context Engineering Part 3: Building Bulletproof Systems](./cognitive-engineering/Context%20Engineering%20Part%203%20-%20Building%20Bulletproof%20Systems.pdf)** - *312 KB*
+> Advanced techniques for hardening Context Engineering implementations against real-world challenges.
+
+**[Context Engineering Part 4: Advanced Cognitive Architectures](./cognitive-engineering/Context%20Engineering%20Part%204%20-%20Advanced%20Cognitive%20Architectures.pdf)** - *417 KB*
+> Sophisticated architectural patterns for enterprise-scale cognitive coordination and multi-system integration.
+
+**[Context Engineering Part 5: The Impossible Made Real](./cognitive-engineering/Context%20Engineering%20Part%205%20-%20The%20Impossible%20Made%20Real.pdf)** - *362 KB*
+> Advanced implementation strategies and case studies demonstrating breakthrough AI performance capabilities.
 
 ---
 
 ### Fractal Context Engineering
-**[Fractal Context Engineering for Flat AI Systems](./Fractal%20Context%20Engineering%20for%20Flat%20AI%20Systems%20Bridging%20to%20Symbolic%20Intelligence.pdf)** - *219 KB*
+**[Fractal Context Engineering for Flat AI Systems](./cognitive-engineering/Fractal%20Context%20Engineering%20for%20Flat%20AI%20Systems%20Bridging%20to%20Symbolic%20Intelligence.pdf)** - *378 KB*
 > Advanced context folding techniques that enable flat AI systems to achieve sophisticated reasoning capabilities through fractal pattern replication and intelligent compression.
 
 ---
@@ -39,7 +52,7 @@ This repository contains the complete collection of groundbreaking research pape
 ---
 
 ### Prompt Anatomy Upgrades
-**[Prompt Anatomy Upgrades: Advanced Prompting Architecture](./Prompt%20Anatomy%20Upgrade%20Advanced%20Prompting%20Architecture%20for%20Cognitive%20Stability%20Integration.pdf)** - *1,055 KB*
+**[Prompt Anatomy Upgrades: Advanced Prompting Architecture](./prompt-engineering/Prompt%20Anatomy%20Upgrades%20-%20Advanced%20Prompting%20Architecture%20for%20Cognitive%20Stability%20Integration.pdf)** - *209 KB*
 > The central bridge that integrates prompting excellence with cognitive stability management, featuring meta-prompting architectures, recursive improvement cycles, ROI measurement frameworks, and enterprise-grade prompting sophistication through stability-aware design.
 
 ---
