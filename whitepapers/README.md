@@ -31,29 +31,6 @@ This repository contains the complete collection of groundbreaking research pape
 
 ---
 
-<<<<<<< HEAD
-=======
-### DriftLock Cognitive Stability Series
-
-#### Foundation
-**[DriftLock Foundation: Intent Anchoring for Flat AI Systems](./DriftLock%20-%20Foundation%20Intent%20Anchoring%20for%20Flat%20AI%20Systems.pdf)** - *240 KB*
-> Revolutionary intent anchoring technology that prevents cognitive drift and maintains AI system stability across extended operations.
-
-#### Architecture  
-**[DriftLock Architecture: Advanced Implementation Patterns](./DriftLock%20-%20Architecture%20Advanced%20Implementation%20Patterns.pdf)** - *601 KB*
-> Sophisticated implementation patterns for multi-tier anchor hierarchies, distributed resonance networks, and adaptive feedback loops that enable enterprise-scale cognitive coordination.
-
-#### Operations
-**[DriftLock Operations: Performance Optimization and Scaling](./DriftLock%20-%20Operations%20Performance%20Optimization.pdf)** - *625 KB*
-> Production-grade optimization strategies, intelligent resource management, and operational excellence frameworks for maintaining cognitive stability at enterprise scale.
-
-#### Integration
-**[DriftLock Integration: Enterprise Ecosystem Coordination](./DriftLock%20-%20Integration%20Enterprise%20Ecosystem.pdf)** - *616 KB*
-> Advanced application patterns for coordinating cognitive stability across complex enterprise AI ecosystems, including legacy integration and multi-modal coordination.
-
----
-
->>>>>>> 7e0169685f56e08c0759cc869fe196aa3d6df9be
 ### Prompt Anatomy Upgrades
 **[Prompt Anatomy Upgrades: Advanced Prompting Architecture](./prompt-engineering/Prompt%20Anatomy%20Upgrades%20-%20Advanced%20Prompting%20Architecture%20for%20Cognitive%20Stability%20Integration.pdf)** - *209 KB*
 > The central bridge that integrates prompting excellence with cognitive stability management, featuring meta-prompting architectures, recursive improvement cycles, ROI measurement frameworks, and enterprise-grade prompting sophistication through stability-aware design.
