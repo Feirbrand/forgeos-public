@@ -34,19 +34,19 @@ This repository contains the complete collection of groundbreaking research pape
 ### DriftLock Cognitive Stability Series
 
 #### Foundation
-**[DriftLock Foundation: Intent Anchoring for Flat AI Systems](./DriftLock%20Foundation%20Intent%20Anchoring%20for%20Flat%20AI%20Systems.pdf)** - *240 KB*
+**[DriftLock Foundation: Intent Anchoring for Flat AI Systems](./DriftLock%20-%20Foundation%20Intent%20Anchoring%20for%20Flat%20AI%20Systems.pdf)** - *240 KB*
 > Revolutionary intent anchoring technology that prevents cognitive drift and maintains AI system stability across extended operations.
 
 #### Architecture  
-**[DriftLock Architecture: Advanced Implementation Patterns](./DriftLock%20Architecture%20Advanced%20Implementation%20Patterns%20for%20Flat%20AI%20Systems%20pt1.pdf)** - *601 KB*
+**[DriftLock Architecture: Advanced Implementation Patterns](./DriftLock%20-%20Architecture%20Advanced%20Implementation%20Patterns.pdf)** - *601 KB*
 > Sophisticated implementation patterns for multi-tier anchor hierarchies, distributed resonance networks, and adaptive feedback loops that enable enterprise-scale cognitive coordination.
 
 #### Operations
-**[DriftLock Operations: Performance Optimization and Scaling](./DriftLock%20Operation%20%20Performance%20Optimization%20and%20Scaling%20for%20Production%20AI%20Systems%20pt1.pdf)** - *625 KB*
+**[DriftLock Operations: Performance Optimization and Scaling](./DriftLock%20-%20Operations%20Performance%20Optimization.pdf)** - *625 KB*
 > Production-grade optimization strategies, intelligent resource management, and operational excellence frameworks for maintaining cognitive stability at enterprise scale.
 
 #### Integration
-**[DriftLock Integration: Enterprise Ecosystem Coordination](./DriftLock%20Integration%20Enterprise%20Ecosystem%20Coordination%20and%20Advanced%20Applications%20pt1.pdf)** - *616 KB*
+**[DriftLock Integration: Enterprise Ecosystem Coordination](./DriftLock%20-%20Integration%20Enterprise%20Ecosystem.pdf)** - *616 KB*
 > Advanced application patterns for coordinating cognitive stability across complex enterprise AI ecosystems, including legacy integration and multi-modal coordination.
 
 ---
