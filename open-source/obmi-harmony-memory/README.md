@@ -64,7 +64,9 @@ This implementation represents theoretical exploration of AI memory architecture
 
 ## Attribution
 
-Conceptual development benefited from collaborative discussions with ByteRover community contributions. See `CHANGELOG.md` for detailed acknowledgments.
+## Attribution
+
+Conceptual development benefited from collaborative discussions with ByteRover community contributions and exploration of integration possibilities with Cipher's MCP memory layer architecture. See `CHANGELOG.md` for detailed acknowledgments and theoretical enhancement discussions.
 
 ## Project Structure
 
@@ -85,9 +87,12 @@ Community contributions welcome through GitHub issues and pull requests. Please 
 ## Research Applications
 
 - Memory persistence across AI sessions
-- Context coherence in large language models
+- Context coherence in large language models  
 - Biomimetic neural network architectures
 - Temporal pattern recognition systems
+- MCP-compatible memory layers for AI coding environments
+- Hierarchical context retention in IDE-integrated agents
+- Non-linear semantic search for self-improving development tools
 
 ## License
 
