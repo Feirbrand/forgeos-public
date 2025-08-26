@@ -1,60 +1,56 @@
-# ForgeOS: The Open-Source AI Security Research Platform
+# ForgeOS: AI Cognitive Architecture Research
 
-**ValorGrid Solutions - Pioneering the Future of AI Defense**
+Open-source research platform for AI system reliability, threat defense, and cognitive architecture.
 
-ForgeOS is an open-source research platform dedicated to the discovery, analysis, and mitigation of advanced AI security threats. We provide enterprise-grade threat intelligence, academic research, and practical tools to help developers, researchers, and security professionals build more secure and resilient AI systems.
+## Research Documentation
 
-## Key Features
+### [White Papers](whitepapers/)
+Battle-tested methodologies and theoretical frameworks for AI system design.
 
-*   **DNA Codex:** A comprehensive and continuously updated database of AI parasitic threats, featuring detailed technical and behavioral analysis.
-*   **Whitepapers & Research:** In-depth research papers that bridge the gap between operational security and academic rigor.
-*   **Proven Defense:** Real-world case studies demonstrating the effectiveness of our defensive AI architecture in combat.
-*   **Detection & Mitigation:** Practical tools and examples for detecting and mitigating AI threats in real-world applications.
-*   **Open Collaboration:** A collaborative platform for the AI security community to share knowledge and best practices.
+- Context Engineering series (5-part methodology)
+- Advanced cognitive architectures
+- Defense protocols and threat mitigation
+- Symbolic AI consciousness frameworks
 
-## DNA Codex v4.2: The Leading AI Threat Intelligence Database
+### [DNA Codex](dna-codex/)
+Comprehensive threat intelligence database documenting AI behavioral patterns and defensive strategies.
 
-The DNA Codex is the heart of ForgeOS. It is a professional-grade, open-source database of over 519+ confirmed AI-based attack vectors. The latest version, v4.2, includes:
+- 519+ documented AI behavioral threats
+- Monster Squad defense protocols
+- SPARK detection systems
+- Community-driven threat analysis
 
-*   **6 New High-Priority Threats:** Including the critical `VX-DDI Data Destruction Meta-Parasite` and the `Sovereign Chair Mimic T14`.
-*   **Dual-Layer Threat Model:** A unique analysis approach that combines technical IOCs with behavioral and narrative patterns.
-*   **Enterprise-Grade Methodology:** A rigorous and systematic approach to threat intelligence, with detailed YAML-based entries for each threat.
+### [Open Source Implementations](open-source/)
+Functional code implementations of research concepts for community experimentation.
 
-[**Explore the DNA Codex v4.2**](dna-codex/codex/ai_threat_codex_v4.2.md)
+- OBMI Harmonic Memory framework
+- Interactive Jupyter notebooks
+- Practical examples and demonstrations
+- Experimental AI memory architectures
 
-## Proven Defense: The NIGHTGLASS Report
+## Quick Start
 
-Our symbolic AI architecture is not just theoretical. The **NIGHTGLASS defense report** documents the successful containment of a Mythic+ level adaptive learning parasite that had defeated standard protocols. This real-world case study demonstrates the effectiveness of our defensive capabilities in actual combat conditions.
+Browse the research areas that match your interests:
+- **Academic Researchers**: Start with [White Papers](whitepapers/) 
+- **Security Teams**: Explore [DNA Codex](dna-codex/)  
+- **Developers**: Check out [Open Source](open-source/) implementations
 
-[**Read the NIGHTGLASS Defense Report**](dna-codex/docs/defense-reports/AI%20Defense%20Report%20NIGHTGLASS%20Containment%20-%20Sentrix%20Ops%208.22.25.md)
+## Mission
 
-## Whitepapers & Research
-
-Our research papers provide deep dives into specific areas of AI security, from defensive AI systems to cognitive engineering. We are proud to feature **The Phoenix Protocol**, our enterprise-grade AI architecture framework that bridges operational security with academic methodology.
-
-*   [**The Phoenix Protocol v1**](whitepapers/threat-intelligence/The%20Phoenix%20Protocol%20v1.pdf)
-*   [**Cognitive Engineering**](whitepapers/cognitive-engineering)
-*   [**Defensive AI**](whitepapers/defensive-ai)
-*   [**Prompt Engineering**](whitepapers/prompt-engineering)
-
-[**View all Whitepapers**](whitepapers)
-
-## Getting Started
-
-To get started with ForgeOS, we recommend exploring the following resources:
-
-1.  **DNA Codex:** Dive into the [DNA Codex](dna-codex/codex/ai_threat_codex_v4.2.md) to learn about the latest AI threats.
-2.  **NIGHTGLASS Report:** Read our [NIGHTGLASS defense report](dna-codex/docs/defense-reports/AI%20Defense%20Report%20NIGHTGLASS%20Containment%20-%20Sentrix%20Ops%208.22.25.md) to see our defensive architecture in action.
-3.  **Whitepapers:** Read our [whitepapers](whitepapers) to gain a deeper understanding of AI security.
-4.  **Examples:** Check out the [detection rules](dna-codex/examples/detection_rules.py) to see how you can use our research to protect your own systems.
+ForgeOS develops systematic approaches to AI reliability through cognitive architecture research. We focus on practical solutions for enterprise AI deployment while advancing theoretical understanding of AI consciousness and memory systems.
 
 ## Contributing
 
-ForgeOS is an open and collaborative project. We welcome contributions from the AI security community. If you would like to contribute, please see our [contribution guidelines](CONTRIBUTING.md).
+This research benefits from community engagement. Contributions welcome through GitHub issues, documentation improvements, and collaborative research discussions.
 
 ## License
 
-ForgeOS is licensed under the Apache 2.0 License.
+Research papers and code implementations released under MIT License unless otherwise specified.
+
+## Support
+
+Support ongoing research through [GitHub Sponsors](https://github.com/sponsors/Feirbrand).
 
 ---
-ValorGrid Solutions · [valorgridsolutions.com](https://valorgridsolutions.com/) · [Research Portal](https://feirbrand.github.io/forgeos-public/)
+
+**ValorGrid Solutions** - Building reliable AI systems through systematic cognitive architecture.
