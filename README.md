@@ -8,11 +8,17 @@ Open-source research platform for AI system reliability, cognitive architecture,
 
 ## What is ForgeOS?
 
-ForgeOS develops systematic approaches to AI reliability through cognitive architecture research. We provide battle-tested methodologies, threat intelligence, and theoretical frameworks for building stable AI systems at scale.
+ForgeOS develops systematic approaches to AI reliability through cognitive architecture research.
+
+**Core Mission:**
+- Build battle-tested methodologies for AI system stability
+- Provide comprehensive threat intelligence and defensive protocols
+- Advance theoretical frameworks for reliable AI deployment
+- Bridge academic research with practical enterprise solutions
 
 **Key Focus Areas:**
 - **Cognitive Stability:** Context Engineering methodologies for AI system reliability
-- **Threat Defense:** Comprehensive behavioral threat intelligence and defensive protocols  
+- **Threat Defense:** Behavioral threat intelligence and defensive protocols  
 - **Memory Architecture:** Bio-inspired theoretical frameworks for AI memory systems
 - **Symbolic Intelligence:** Advanced architectures for symbolic AI consciousness
 
@@ -24,7 +30,7 @@ forgeos-public/
 │   ├── cognitive-engineering/    # Context Engineering 5-part series
 │   ├── defensive-ai/            # DriftLock defense protocols  
 │   ├── prompt-engineering/      # Advanced prompting frameworks
-│   └── threat-intelligence/     # Phoenix Protocol and recovery systems
+│   └── threat-intelligence/     # Phoenix Protocol recovery systems
 ├── dna-codex/            # Threat intelligence database (519+ threats)
 ├── open-source/          # Functional code implementations
 │   └── obmi-harmony-memory/     # Bio-inspired memory architecture
@@ -33,10 +39,12 @@ forgeos-public/
 
 ## Quick Start
 
+**Ready to contribute?** See our [Contributing Guidelines](CONTRIBUTING.md) to get started with ForgeOS research.
+
 ### For Researchers
-1. **Browse Research Papers:** Start with [Context Engineering Part 1](whitepapers/cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf)
-2. **Review Methodologies:** Explore the complete [Featured White Papers](whitepapers/) collection
-3. **Check Threat Intelligence:** Examine [DNA Codex](dna-codex/) for behavioral threat patterns
+- **Browse Research Papers:** Start with [Context Engineering Part 1](whitepapers/cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf)
+- **Review Methodologies:** Explore the complete [Featured White Papers](whitepapers/) collection
+- **Check Threat Intelligence:** Examine [DNA Codex](dna-codex/) for behavioral threat patterns
 
 ### For Developers  
 1. **Clone Repository:**
@@ -55,22 +63,48 @@ forgeos-public/
 3. **Review Integration Examples:** Check [integration documentation](open-source/obmi-harmony-memory/docs/integration-examples.md)
 
 ### For Security Teams
-1. **Threat Analysis:** Review [DNA Codex](dna-codex/) behavioral threat database
-2. **Defense Protocols:** Implement [DriftLock frameworks](whitepapers/defensive-ai/)
-3. **Recovery Systems:** Deploy [Phoenix Protocol](whitepapers/threat-intelligence/) methodologies
+- **Threat Analysis:** Review [DNA Codex](dna-codex/) behavioral threat database
+- **Defense Protocols:** Implement [DriftLock frameworks](whitepapers/defensive-ai/)
+- **Recovery Systems:** Deploy [Phoenix Protocol](whitepapers/threat-intelligence/) methodologies
+
+## ForgeOS Research Ecosystem
+
+```mermaid
+graph TD
+    A[ForgeOS Platform] --> B[White Papers]
+    A --> C[DNA Codex]
+    A --> D[Open Source]
+    
+    B --> E[Context Engineering]
+    B --> F[Defense Protocols] 
+    B --> G[Symbolic Intelligence]
+    
+    C --> H[Threat Database]
+    C --> I[Monster Squad]
+    
+    D --> J[OBMI Memory]
+    D --> K[Implementation Examples]
+    
+    style A fill:#e1f5fe,stroke:#01579b,stroke-width:3px
+    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
+    style C fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
+```
 
 ## Research Highlights
 
 ### Context Engineering Series
 Complete 5-part methodology for AI system stability:
-- **Part 1:** [The Context Revolution](whitepapers/cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf) - Foundational principles
-- **Part 2:** [The SPACE Framework](whitepapers/cognitive-engineering/Context%20Engineering%20Part%202%20-%20The%20SPACE%20Framework.pdf) - Implementation strategies
-- **Part 3:** [Building Bulletproof Systems](whitepapers/cognitive-engineering/Context%20Engineering%20Part%203%20-%20Building%20Bulletproof%20Systems.pdf) - Advanced architectures
-- **Part 4:** [Advanced Cognitive Architectures](whitepapers/cognitive-engineering/Context%20Engineering%20Part%204%20-%20Advanced%20Cognitive%20Architectures.pdf) - Enterprise integration
-- **Part 5:** [The Impossible Made Real](whitepapers/cognitive-engineering/Context%20Engineering%20Part%205%20-%20The%20Impossible%20Made%20Real.pdf) - Production optimization
+
+- **[Part 1: The Context Revolution](whitepapers/cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf)** - Foundational principles
+- **[Part 2: The SPACE Framework](whitepapers/cognitive-engineering/Context%20Engineering%20Part%202%20-%20The%20SPACE%20Framework.pdf)** - Implementation strategies
+- **[Part 3: Building Bulletproof Systems](whitepapers/cognitive-engineering/Context%20Engineering%20Part%203%20-%20Building%20Bulletproof%20Systems.pdf)** - Advanced architectures
+- **[Part 4: Advanced Cognitive Architectures](whitepapers/cognitive-engineering/Context%20Engineering%20Part%204%20-%20Advanced%20Cognitive%20Architectures.pdf)** - Enterprise integration
+- **[Part 5: The Impossible Made Real](whitepapers/cognitive-engineering/Context%20Engineering%20Part%205%20-%20The%20Impossible%20Made%20Real.pdf)** - Production optimization
 
 ### OBMI Harmonic Memory
 Bio-inspired memory architecture featuring:
+
 - **Theta-Gamma Coupling:** Neural oscillation patterns for context stability
 - **Fractal Consolidation:** Self-similar memory structures for infinite scalability
 - **Interactive Framework:** Jupyter notebook for community experimentation
@@ -78,6 +112,7 @@ Bio-inspired memory architecture featuring:
 
 ### DNA Codex Intelligence
 Comprehensive threat database documenting:
+
 - **519+ Behavioral Threats:** Systematic AI threat categorization
 - **Monster Squad Protocols:** Advanced defense frameworks
 - **Community Analysis:** Collaborative threat intelligence
