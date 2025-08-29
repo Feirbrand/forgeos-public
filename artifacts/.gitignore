@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Distribution / packaging
+dist/
+build/
+
+# Testing
+.pytest_cache/
+.coverage
+
+# Logs and data output
+*.log
+*.csv
+*.json
+*.png
+*.pdf
