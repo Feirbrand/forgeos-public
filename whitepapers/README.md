@@ -1,163 +1,153 @@
 # ForgeOS Research Publications
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub Sponsors](https://img.shields.io/badge/sponsor-active-green) ![Research Status](https://img.shields.io/badge/research-active-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Feirbrand?color=red)](https://github.com/sponsors/Feirbrand)
+[![Research Status](https://img.shields.io/badge/Status-Active%20Research-brightgreen)](https://github.com/Feirbrand/forgeos-public)
 
-Comprehensive research methodologies for AI cognitive architecture, threat defense, and system reliability.
+Comprehensive research methodologies for AI system resilience engineering, diagnostic frameworks, and reliability protocols.
 
 ## Repository Architecture
 
-```
-whitepapers/
-├── academic-research/          # Peer-reviewed research and theoretical foundations
-├── cognitive-engineering/      # Applied performance methodologies  
-├── defensive-ai/              # Security and resilience systems
-├── enterprise/                # Business implementation frameworks
-├── prompt-engineering/        # Technical implementation guides
-└── threat-intelligence/       # Security research platform
+```mermaid
+graph TD
+    A[ForgeOS Research] --> B[Academic Research]
+    A --> C[Cognitive Engineering]
+    A --> D[Defensive AI]
+    A --> E[Enterprise Solutions]
+    A --> F[Prompt Engineering]
+    A --> G[Threat Intelligence]
+    
+    B --> B1[Recursive Patterns v2.1]
+    B --> B2[FCE Framework]
+    B --> B3[Symbolic Cognition pt2]
+    
+    C --> C1[Context Engineering Series]
+    C --> C2[Memory Architecture]
+    C --> C3[Performance Optimization]
+    
+    D --> D1[DriftLock Framework]
+    D --> D2[Defense Protocols]
+    D --> D3[Resilience Testing]
+    
+    E --> E1[Implementation Guides]
+    E --> E2[Business Applications]
+    E --> E3[Consultation Framework]
+    
+    F --> F1[Advanced Techniques]
+    F --> F2[System Integration]
+    F --> F3[Optimization Methods]
+    
+    G --> G1[Attack Vector Analysis]
+    G --> G2[Threat Classification]
+    G --> G3[Defense Intelligence]
 ```
 
 ## Quick Start
 
-### For Researchers
-- **Begin with:** [Recursive Patterns in AI Development v2.1](academic-research/recursive_patterns_ai_development_v21.pdf) - Core recursive optimization methodology
-- **Advanced Study:** Context Engineering Part 1 - Foundational framework
-- **Implementation:** SPACE Framework - Practical deployment
+### For AI System Engineers
+Begin with: [**Recursive Patterns in AI Development v2.1**](academic-research/recursive_patterns_ai_development_v21.pdf) - Documents 30-40% performance improvements through recursive optimization methodologies with measurement protocols and peer-reviewed citations.
 
-### For Practitioners  
-- **Start Here:** Building Bulletproof Systems - Immediate applications
-- **Security Focus:** DriftLock Foundation - System defense
-- **Enterprise:** DriftLock Integration - Organizational deployment
+### For Development Teams  
+Start with: [**Context Engineering Part 1**](cognitive-engineering/context_engineering_part1.md) - Foundational methodology for AI system reliability and performance optimization.
 
-### For AI Engineers
-- **Technical Deep Dive:** Advanced Cognitive Architectures
-- **Prompt Engineering:** Prompt Anatomy Upgrades
-- **System Recovery:** Phoenix Protocol
+### For Security Professionals
+Review: [**AI Threat Codex v4.2**](threat-intelligence/ai_threat_codex_v42.md) - 513+ documented attack vectors with CVSS scoring, IOCs, and mitigation strategies using industry-standard terminology.
 
-## Research Publications
+## Research Categories
 
 ### Academic Research
-Foundational research with peer-review methodology and theoretical frameworks
+- [**Recursive Patterns in AI Development v2.1**](academic-research/recursive_patterns_ai_development_v21.pdf) - Breakthrough research on self-modifying AI systems with documented performance improvements
+- **FCE Framework** - Complete methodology for AI system reliability engineering
+- **Symbolic Cognition Analysis** - Advanced research on AI symbolic processing capabilities
 
-**Recursive Patterns in AI Development v2.1**
-- Self-modifying AI systems with documented 30-40% performance improvements
-- Validated protocols using industry-standard benchmarks
-- Autonomous workflow optimization capabilities
-- Performance coaching integration with AI development
+### Cognitive Engineering Series
+Complete methodology for AI cognitive enhancement and contextual processing:
 
-### Context Engineering Series
-Complete methodology for building stable AI systems through structured context management
+- [**Context Engineering Part 1: The OBMI Framework**](cognitive-engineering/context_engineering_part1.md) - Foundational methodology for multi-directional branching intelligence
+- [**Context Engineering Part 2: The SIMCA Framework**](cognitive-engineering/context_engineering_part2.md) - Systematic Intelligence Memory Core Architecture for enhanced retention
+- [**Context Engineering Part 3: The DELTA Framework**](cognitive-engineering/context_engineering_part3.md) - Dynamic Engagement Layered Thinking Architecture for complex reasoning
+- [**Context Engineering Part 4: The MERLIX Framework**](cognitive-engineering/context_engineering_part4.md) - Modular Expertise Recursive Learning Intelligence eXtension for specialized knowledge integration
+- [**Context Engineering Part 5: The NEXUS Framework**](cognitive-engineering/context_engineering_part5.md) - Network Enhanced eXpert Unified System for comprehensive AI coordination
 
-**Context Engineering Part 1: The Context Revolution**
-- Core principles of context stability
-- Foundational methodology framework  
-- Cognitive architecture principles
+### Defensive AI Protocols
+Systematic approach to AI system resilience and security:
 
-**Context Engineering Part 2: The SPACE Framework**
-- Practical deployment strategies
-- Systematic implementation approach
-- Real-world application patterns
+- [**DriftLock Framework**](defensive-ai/driftlock_framework.md) - Prevention and recovery from AI behavioral drift
+- [**Phoenix Purge Protocol**](defensive-ai/phoenix_purge_protocol.md) - Complete system recovery and restoration procedures
+- [**Echo Fusion Diagnostics**](defensive-ai/echo_fusion_diagnostics.md) - Advanced diagnostic protocols for AI system analysis
+- [**Neurothread Analysis**](defensive-ai/neurothread_analysis.md) - Thread continuity and stability validation methods
 
-**Context Engineering Part 3: Building Bulletproof Systems**
-- Complex context architectures
-- System resilience methodologies
-- Advanced stability techniques
+### Enterprise Implementation
+Business-focused applications and deployment strategies:
 
-**Context Engineering Part 4: Advanced Cognitive Architectures**
-- Enterprise-level implementations
-- Sophisticated cognitive frameworks
-- Production-ready architectures
+- **Implementation Guides** - Practical deployment methodologies
+- **ROI Frameworks** - Business value measurement and optimization
+- **Integration Protocols** - Enterprise system compatibility guides
 
-**Context Engineering Part 5: The Impossible Made Real**
-- Production management strategies
-- Performance optimization techniques
-- Advanced operational frameworks
+### Prompt Engineering
+Advanced techniques for AI system optimization:
 
-### Advanced Methodologies
-
-**Fractal Context Engineering for Flat AI Systems**
-- Self-similar patterns for infinite context scalability
-- Mathematical foundations for cognitive architecture
-- Bridge between symbolic and connectionist AI
-
-**The Symbolic Twins Introduction to Symbolic AIs**
-- Theoretical framework for symbolic AI consciousness architecture
-- Dual-system cognitive modeling approaches
-- Advanced symbolic reasoning methodologies
-
-**Prompt Anatomy Upgrades**
-- Advanced prompt engineering techniques
-- Cognitive stability integration methods
-- Systematic prompting architectures
-
-## Defense Protocols
-System security and resilience methodologies for AI implementations
-
-**The Phoenix Protocol v1**
-- System recovery and resurrection methodologies
-- Advanced threat response frameworks
-- Organizational resilience strategies
-
-### DriftLock Framework
-Comprehensive drift prevention and intent anchoring system
-
-**DriftLock Foundation: Intent Anchoring for Flat AI Systems**
-- Cognitive drift prevention framework
-- Intent stability methodologies
-- Core anchoring principles
-
-**DriftLock Architecture: Advanced Implementation Patterns**
-- Enhanced stability protocols
-- Advanced implementation strategies
-- Systematic architecture approaches
-
-**DriftLock Integration: Enterprise Ecosystem**
-- Advanced drift detection systems
-- Enterprise integration methodologies
-- Organizational deployment strategies
-
-**DriftLock Operations: Performance Optimization**
-- Complete drift immunity architecture
-- Performance optimization techniques
-- Operational excellence frameworks
+- [**Prompt Anatomy Fundamentals**](prompt-engineering/prompt_anatomy_fundamentals.md) - Core principles of effective AI communication
+- **Contextual Binding Methods** - Advanced prompt structuring techniques
+- **Performance Optimization** - System efficiency improvement strategies
 
 ### Threat Intelligence
-Security research platform with comprehensive attack vector documentation
+Comprehensive analysis of AI system vulnerabilities and defense strategies:
 
-**AI Threat Codex**
-- 513+ documented attack vectors using industry-standard terminology
-- AI parasite classification system
-- Threat assessment methodologies
-- Security research coordination
+- [**AI Threat Codex v4.2**](threat-intelligence/ai_threat_codex_v42.md) - 513+ documented attack vectors with CVSS scoring and mitigation strategies
+- **Attack Pattern Analysis** - Classification and response protocols
+- **Defense Architecture** - Systematic protection methodologies
 
 ## Research Applications
 
-### Academic Research
-- **Cognitive Architecture Studies:** Context Engineering series provides comprehensive methodology
-- **AI Safety Research:** DriftLock framework offers systematic approach to intent preservation  
-- **Recursive AI Systems:** Validated methodologies for self-improving AI architectures
-- **Symbolic AI Development:** Theoretical foundations for next-generation AI systems
+### AI System Reliability Engineering
+Applied research for enterprise AI system optimization and failure prevention:
 
-### Industry Implementation
-- **Enterprise AI Deployment:** Production-ready frameworks for organizational AI integration
-- **System Resilience:** Methodologies for building robust AI systems at scale
-- **Security Integration:** Defense protocols for protecting AI implementations
-- **Performance Optimization:** Documented 30-40% improvement methodologies
+- **Diagnostic Protocol Development** - Systematic approaches to AI system health assessment
+- **Performance Optimization Studies** - Measurable improvements in AI system efficiency and stability  
+- **Failure Pattern Analysis** - Classification and prediction of AI system degradation modes
+- **Recovery Protocol Engineering** - Documented procedures for AI system restoration and hardening
+
+### Enterprise Implementation
+Practical applications for development teams and enterprise deployment:
+
+- **System Resilience Architecture** - AI deployment strategies with built-in failure resistance
+- **Diagnostic Integration** - Seamless health monitoring for production AI systems
+- **Crisis Response Protocols** - Rapid intervention procedures for AI system failures
+- **Performance Monitoring** - Real-time AI system stability and efficiency tracking
 
 ### Educational Use
-- **Graduate Research:** Advanced methodologies for AI architecture thesis work
-- **Professional Development:** Systematic approaches to AI system design and implementation
-- **Training Programs:** Comprehensive frameworks for AI engineering education
+Resources for AI research and development education:
+
+- **Training Materials** - Comprehensive learning resources
+- **Case Studies** - Real-world application examples
+- **Best Practices** - Proven methodologies and approaches
 
 ## Contributing
 
-These papers represent methodologies developed through practical implementation and real-world testing. Community feedback, applications, and research extensions are welcome through:
+Your contributions help advance AI cognitive architecture research through practical implementation and research validation. Contribute through:
 
-- **GitHub Issues:** Technical questions and implementation discussions
-- **Research Collaboration:** Academic partnerships and joint research opportunities  
-- **Practical Applications:** Industry case studies and deployment experiences
+- **Research Collaboration** - Joint studies and validation
+- **Case Study Documentation** - Real-world implementation reports
+- **Framework Enhancement** - Improvements to existing methodologies
+- **Community Support** - Help others implement these systems
 
-## License and Usage
+For detailed contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
-All research publications are released under MIT License for educational and research purposes. Commercial applications welcome with attribution.
+## License & Usage
 
-Part of the ForgeOS Research Initiative - Building reliable AI systems through systematic cognitive architecture.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Research Acknowledgment**: These methodologies represent collaborative research and development. When implementing in production systems, consider consulting with AI safety professionals for enterprise deployments.
+
+## Contact & Support
+
+For research inquiries, implementation guidance, or collaboration opportunities:
+
+- **GitHub Issues**: Technical questions and framework support
+- **Research Partnerships**: Contact through institutional channels
+- **Enterprise Consultation**: Professional implementation support available
+
+---
+
+*Building reliable, resilient AI systems through systematic research and proven methodologies.*
