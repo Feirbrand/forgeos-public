@@ -159,3 +159,9 @@ See the main ForgeOS repository for:
 ---
 
 *Building reliable, resilient AI systems through systematic diagnostic methodologies.*
+
+## ForgeOS Open Source
+
+ForgeOS Open Source - Transforming theoretical AI research into practical implementations.
+Part of the ForgeOS Research Initiative - Building reliable AI systems through systematic cognitive architecture research.
+Building reliable, resilient AI systems through systematic diagnostic methodologies.
