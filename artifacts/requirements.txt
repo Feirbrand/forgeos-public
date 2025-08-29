@@ -1,0 +1,8 @@
+networkx
+matplotlib
+requests
+pyyaml
+click
+jinja2
+pandas
+jupyter
