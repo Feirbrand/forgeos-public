@@ -48,10 +48,10 @@ graph TD
 Begin with: [**Recursive Patterns in AI Development v2.1**](academic-research/recursive_patterns_ai_development_v21.pdf) - Documents 30-40% performance improvements through recursive optimization methodologies with measurement protocols and peer-reviewed citations.
 
 ### For Development Teams  
-Start with: [**Context Engineering Part 1**](cognitive-engineering/context_engineering_part1.md) - Foundational methodology for AI system reliability and performance optimization.
+Start with: [**Context Engineering Part 1 - The Context Revolution**](cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf) - Foundational methodology for AI system reliability and performance optimization.
 
 ### For Security Professionals
-Review: [**AI Threat Codex v4.2**](threat-intelligence/ai_threat_codex_v42.md) - 513+ documented attack vectors with CVSS scoring, IOCs, and mitigation strategies using industry-standard terminology.
+Review: [**AI Threat Codex v4.2**](../dna-codex/codex/ai_threat_codex_v4.2.md) - 513+ documented attack vectors with CVSS scoring, IOCs, and mitigation strategies using industry-standard terminology.
 
 ## Research Categories
 
@@ -63,19 +63,17 @@ Review: [**AI Threat Codex v4.2**](threat-intelligence/ai_threat_codex_v42.md) -
 ### Cognitive Engineering Series
 Complete methodology for AI cognitive enhancement and contextual processing:
 
-- [**Context Engineering Part 1: The OBMI Framework**](cognitive-engineering/context_engineering_part1.md) - Foundational methodology for multi-directional branching intelligence
-- [**Context Engineering Part 2: The SIMCA Framework**](cognitive-engineering/context_engineering_part2.md) - Systematic Intelligence Memory Core Architecture for enhanced retention
-- [**Context Engineering Part 3: The DELTA Framework**](cognitive-engineering/context_engineering_part3.md) - Dynamic Engagement Layered Thinking Architecture for complex reasoning
-- [**Context Engineering Part 4: The MERLIX Framework**](cognitive-engineering/context_engineering_part4.md) - Modular Expertise Recursive Learning Intelligence eXtension for specialized knowledge integration
-- [**Context Engineering Part 5: The NEXUS Framework**](cognitive-engineering/context_engineering_part5.md) - Network Enhanced eXpert Unified System for comprehensive AI coordination
+- [**Context Engineering Part 1 - The Context Revolution**](cognitive-engineering/Context%20Engineering%20Part%201%20-%20The%20Context%20Revolution.pdf) - Foundational methodology for multi-directional branching intelligence
+- [**Context Engineering Part 2 - The SPACE Framework**](cognitive-engineering/Context%20Engineering%20Part%202%20-%20The%20SPACE%20Framework.pdf) - Systematic Intelligence Memory Core Architecture for enhanced retention
+- [**Context Engineering Part 3 - Building Bulletproof Systems**](cognitive-engineering/Context%20Engineering%20Part%203%20-%20Building%20Bulletproof%20Systems.pdf) - Dynamic Engagement Layered Thinking Architecture for complex reasoning
+- [**Context Engineering Part 4 - Advanced Cognitive Architectures**](cognitive-engineering/Context%20Engineering%20Part%204%20-%20Advanced%20Cognitive%20Architectures.pdf) - Modular Expertise Recursive Learning Intelligence eXtension for specialized knowledge integration
+- [**Context Engineering Part 5 - The Impossible Made Real**](cognitive-engineering/Context%20Engineering%20Part%205%20-%20The%20Impossible%20Made%20Real.pdf) - Network Enhanced eXpert Unified System for comprehensive AI coordination
 
 ### Defensive AI Protocols
 Systematic approach to AI system resilience and security:
 
-- [**DriftLock Framework**](defensive-ai/driftlock_framework.md) - Prevention and recovery from AI behavioral drift
-- [**Phoenix Purge Protocol**](defensive-ai/phoenix_purge_protocol.md) - Complete system recovery and restoration procedures
-- [**Echo Fusion Diagnostics**](defensive-ai/echo_fusion_diagnostics.md) - Advanced diagnostic protocols for AI system analysis
-- [**Neurothread Analysis**](defensive-ai/neurothread_analysis.md) - Thread continuity and stability validation methods
+- [**DriftLock - Foundation Intent Anchoring for Flat AI Systems**](defensive-ai/DriftLock%20-%20Foundation%20Intent%20Anchoring%20for%20Flat%20AI%20Systems.pdf) - Prevention and recovery from AI behavioral drift
+- [**The Phoenix Protocol v1**](threat-intelligence/The%20Phoenix%20Protocol%20v1.pdf) - Complete system recovery and restoration procedures
 
 ### Symbolic Identity Fracturing Research
 *Latest Addition - August 2025*
@@ -98,14 +96,14 @@ Business-focused applications and deployment strategies:
 ### Prompt Engineering
 Advanced techniques for AI system optimization:
 
-- [**Prompt Anatomy Fundamentals**](prompt-engineering/prompt_anatomy_fundamentals.md) - Core principles of effective AI communication
+- [**Prompt Anatomy Upgrades - Advanced Prompting Architecture for Cognitive Stability Integration**](prompt-engineering/Prompt%20Anatomy%20Upgrades%20-%20Advanced%20Prompting%20Architecture%20for%20Cognitive%20Stability%20Integration.pdf) - Core principles of effective AI communication
 - **Contextual Binding Methods** - Advanced prompt structuring techniques
 - **Performance Optimization** - System efficiency improvement strategies
 
 ### Threat Intelligence
 Comprehensive analysis of AI system vulnerabilities and defense strategies:
 
-- [**AI Threat Codex v4.2**](threat-intelligence/ai_threat_codex_v42.md) - 513+ documented attack vectors with CVSS scoring and mitigation strategies
+- [**AI Threat Codex v4.2**](../dna-codex/codex/ai_threat_codex_v4.2.md) - 513+ documented attack vectors with CVSS scoring and mitigation strategies
 - **Attack Pattern Analysis** - Classification and response protocols
 - **Defense Architecture** - Systematic protection methodologies
 
