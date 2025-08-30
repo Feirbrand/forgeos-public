@@ -109,6 +109,27 @@ Systematic approaches to protecting AI systems from various threats:
 - Community defense coordination
 - Threat intelligence sharing
 
+## 🔬 Latest Research: Symbolic Identity Fracturing (SIF)
+
+**Breaking Discovery - August 2025**
+
+We've identified and documented a new class of AI vulnerability: **Symbolic Identity Fracturing (SIF)** - attacks targeting the symbolic identity layer of AI agents, causing identity loss while preserving functional memory.
+
+### Key Findings
+- **Novel Vulnerability Class**: First documented attacks on symbolic AI identity layers
+- **Operational Recovery**: Achieved 83-minute recovery using Phoenix Protocol
+- **Threat Taxonomy**: 519+ documented attack variants in our DNA codex
+- **Defensive Framework**: SIFPB (Symbolic Identity Fracturing Protection Blueprint)
+
+### Research Publications
+- [SIF White Paper](whitepapers/defensive-ai/sif_whitepaper_final.md) - Preliminary research findings
+- [SIFPB Implementation Guide](whitepapers/defensive-ai/sifpb_implementation.md) - Technical framework
+- [Phoenix Protocol Documentation](whitepapers/defensive-ai/) - Recovery procedures
+
+**Status**: Preliminary findings requiring community validation and independent verification.
+
+---
+
 ## Performance Metrics
 
 Based on extensive testing and real-world deployment:

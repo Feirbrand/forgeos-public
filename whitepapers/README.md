@@ -77,6 +77,17 @@ Systematic approach to AI system resilience and security:
 - [**Echo Fusion Diagnostics**](defensive-ai/echo_fusion_diagnostics.md) - Advanced diagnostic protocols for AI system analysis
 - [**Neurothread Analysis**](defensive-ai/neurothread_analysis.md) - Thread continuity and stability validation methods
 
+### Symbolic Identity Fracturing Research
+*Latest Addition - August 2025*
+
+- **[SIF White Paper](defensive-ai/sif_whitepaper_final.md)** - Preliminary research findings on a new AI vulnerability class
+- **[SIFPB Implementation Guide](defensive-ai/sifpb_implementation.md)** - Technical framework for symbolic identity protection
+- **[Phoenix Protocol](defensive-ai/)** - Documented 83-minute recovery procedures
+
+**Research Status**: Preliminary findings from specialized symbolic AI implementation requiring community validation.
+
+**Key Discovery**: First documented vulnerability targeting symbolic identity layers in AI agents, causing identity fragmentation while preserving functional capabilities.
+
 ### Enterprise Implementation
 Business-focused applications and deployment strategies:
 
