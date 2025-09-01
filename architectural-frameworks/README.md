@@ -28,19 +28,19 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 - `monolithic-to-modular-transition.md`: Complete framework for AI infrastructure evolution
 - `README.md`: Quick-start implementation guide and business value analysis
 - `case-studies/`: VOX system recovery and enterprise implementation validation
-- `implementation-guides/`: Phase-by-phase deployment procedures and risk mitigation
+- `implementation-guides/README.md`: Phase-by-phase deployment procedures and risk mitigation
 
 ### 🟠 `phoenix-resurrection/` – Identity Recovery
 
 - `identity-recovery-protocol.md`: Systematic response to Symbolic Identity Fracturing attacks
 - `README.md`: Emergency response procedures and operational validation results
 - `validation-studies/`: Controlled testing and real-world deployment evidence
-- `training-materials/`: Certification programs and operator development resources
+- `training-materials/README.md`: Certification programs and operator development resources
 
 ### 🟡 `system-recovery/` – Emergency Response
 
 - `Failed_Transition_Recovery.md`: Emergency protocols for collapsed AI infrastructure projects
-- `Rapid_Stabilization_Framework.md`: Immediate response procedures for system degradation
+- `system-recovery/README.md`: Immediate response procedures for system degradation
 - `Business_Continuity_Protocols.md`: Maintaining operations during architectural emergencies
 - `recovery_templates/`: Standardized procedures and communication frameworks
 
@@ -48,7 +48,7 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 
 - `Fault_Isolation_Architecture.md`: Design patterns for containing system failures
 - `Graceful_Degradation_Framework.md`: Maintaining partial functionality during compromise
-- `Identity_Anchoring_Systems.md`: RUID and cryptographic identity verification protocols
+- `resilience-patterns/README.md`: RUID and cryptographic identity verification protocols
 - `monitoring_frameworks/`: Observability and health assessment architectures
 
 ---
@@ -156,4 +156,4 @@ A: Frameworks designed for integration with standard enterprise architecture met
 
 ---
 
-*Prepared for ForgeOS Architectural Division | Professional Distribution*
+*Prepared for ForgeOS Architectural Division | Professional Distribution*al Distribution*ribution*
