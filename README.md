@@ -72,7 +72,7 @@ Advanced Study: Hybrid Architecture Vulnerabilities - Critical security research
 ### For Developers
 Start Here: Architectural Frameworks - Working implementations  
 Clone and Test: `git clone https://github.com/Feirbrand/forgeos-public.git`  
-Quick Demo: `python artifacts/diagnostic-tools/symbolic-prompt-parser.py`  
+Quick Demo: `python artifacts/utilities/prompt_parser.py`  
 Integration: See framework documentation for API usage  
 
 ### For Security Teams
@@ -206,8 +206,8 @@ cd forgeos-public
 pip install numpy networkx sympy
 
 # Test diagnostic frameworks
-python artifacts/diagnostic-tools/symbolic-prompt-parser.py
-python artifacts/monitoring-systems/behavioral-analysis.py
+python artifacts/utilities/prompt_parser.py
+python artifacts/utilities/echo_monitor.py
 ```
 
 ### Framework Integration
