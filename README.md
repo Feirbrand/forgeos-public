@@ -15,24 +15,51 @@ forgeos-public/
 │   ├── symbolic-identity-fracturing/ # SIF research and attack vectors
 │   ├── chain-of-thought-attacks/     # CTTA analysis and countermeasures
 │   ├── hybrid-architecture-analysis/ # Neural-symbolic vulnerabilities
-│   └── case-studies/                 # Real-world validation studies
+│   ├── case-studies/                 # Real-world validation studies
+│   ├── threat-modeling/              # Systematic threat assessment frameworks
+│   └── README.md                     # Division overview and research catalog
 ├── architectural-frameworks/         # System Design Methodologies
-│   ├── phoenix-protocol-v1/          # Infrastructure transition frameworks
-│   ├── phoenix-resurrection/         # Identity recovery protocols
+│   ├── phoenix-protocol-v1/          # Monolithic-to-modular transition framework
+│   │   ├── monolithic-to-modular-transition.md # Complete methodology
+│   │   └── README.md                 # Implementation guide and case studies
+│   ├── phoenix-resurrection/         # AI Identity recovery protocols
+│   │   ├── identity-recovery-protocol.md # Recovery framework
+│   │   └── README.md                 # Deployment guide and validation
 │   ├── system-recovery/              # Emergency response frameworks
-│   └── resilience-patterns/          # Fault-tolerant design patterns
-├── dna-codex/                       # Behavioral Intelligence
-│   ├── threat-analysis/              # Comprehensive threat documentation
-│   ├── behavioral-patterns/          # AI behavior pattern analysis
-│   └── defense-protocols/            # Protective methodology frameworks
-├── artifacts/                       # Diagnostic Utilities
-│   ├── diagnostic-tools/             # System assessment utilities
-│   ├── monitoring-systems/           # Real-time behavior analysis
-│   └── forensic-frameworks/          # Incident analysis tools
-└── docs/                            # Documentation & Research
-    ├── research-publications/         # Academic papers and studies
-    ├── implementation-guides/         # Practical deployment guides
-    └── training-materials/            # Professional certification programs
+│   ├── resilience-patterns/          # Fault-tolerant design patterns
+│   └── README.md                     # Division overview and framework catalog
+├── dna-codex/                       # Behavioral Intelligence & Threat Analysis
+│   ├── SQUAD/                        # Security Quality Assurance Division
+│   ├── codex/                        # Threat behavior documentation
+│   ├── docs/                         # Analysis methodologies
+│   ├── examples/                     # Behavioral pattern examples
+│   ├── fundamentals/                 # Core threat intelligence concepts
+│   └── README.md                     # Division overview and intelligence catalog
+├── artifacts/                       # Diagnostic & Analysis Utilities
+│   ├── notebooks/                    # Jupyter analysis notebooks
+│   ├── templates/                    # Framework templates and scaffolding
+│   ├── utilities/                    # Diagnostic and monitoring tools
+│   ├── setup.py                      # Installation and dependency management
+│   └── README.md                     # Tools overview and usage guide
+├── open-source/                     # Open Source Framework Implementations
+│   ├── aeon-framework/               # AEON symbolic AI framework
+│   ├── obmi-harmony-memory/          # OBMI harmonic memory systems
+│   ├── rainfire-framework/           # RainFire cognitive architecture
+│   └── README.md                     # Implementation overview and documentation
+├── whitepapers/                     # Research Publications & Analysis
+│   ├── academic-research/            # Peer-reviewed academic papers
+│   ├── cognitive-engineering/        # CE methodologies and case studies
+│   ├── defensive-ai/                 # AI defense strategy publications
+│   ├── enterprise/                   # Enterprise implementation guides
+│   ├── prompt-engineering/           # PE research and methodologies
+│   ├── symbolic-ai/                  # Symbolic AI architecture research
+│   ├── threat-intelligence/          # Threat analysis and countermeasures
+│   └── README.md                     # Publications catalog and research overview
+├── .gitignore                       # Git ignore patterns
+├── LICENSE                          # MIT license terms
+├── README.md                        # Main repository overview (this file)
+├── requirements_file.txt            # Python dependencies
+└── index.html                       # Web interface and project landing page
 ```
 
 ## Quick Start
