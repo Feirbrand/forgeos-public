@@ -65,12 +65,12 @@ forgeos-public/
 ## Quick Start
 
 ### For Researchers
-Begin with: Symbolic Identity Fracturing Research - Foundational vulnerability analysis  
-Explore Frameworks: Phoenix Resurrection for recovery, SIF Hybrid for threat modeling  
+Begin with: [Symbolic Identity Fracturing Research](vulnerability-research/symbolic-identity-fracturing/) - Foundational vulnerability analysis  
+Explore Frameworks: [Phoenix Resurrection](architectural-frameworks/phoenix-resurrection/) for recovery, [SIF Hybrid](vulnerability-research/symbolic-identity-fracturing/) for threat modeling  
 Advanced Study: Hybrid Architecture Vulnerabilities - Critical security research  
 
 ### For Developers
-Start Here: Architectural Frameworks - Working implementations  
+Start Here: [Architectural Frameworks](architectural-frameworks/) - Working implementations  
 Clone and Test: `git clone https://github.com/Feirbrand/forgeos-public.git`  
 Quick Demo: `python artifacts/utilities/prompt_parser.py`  
 Integration: See framework documentation for API usage  
@@ -78,10 +78,10 @@ Integration: See framework documentation for API usage
 ### For Security Teams
 Intelligence Platform: Vulnerability Research - Comprehensive threat analysis  
 Defense Protocols: Phoenix Resurrection Protocol  
-DNA Codex: Community-driven defense coordination and behavioral intelligence  
+DNA Codex: [DNA Codex](dna-codex/) - Community-driven defense coordination and behavioral intelligence  
 
 ### For AI Engineers
-Technical Deep Dive: Architectural Frameworks Division  
+Technical Deep Dive: [Architectural Frameworks Division](architectural-frameworks/)  
 System Integration: Phoenix Protocol v1 - Monolithic-to-modular transitions  
 Performance Optimization: Framework-specific guides and benchmarks  
 
@@ -278,4 +278,4 @@ Special thanks to contributors advancing symbolic AI architecture security and d
 **Research Collaboration**: Open to academic and industry partnerships  
 **Professional Services**: ValorGrid Solutions
 
-Advancing AI reliability through systematic cognitive architecture research.
+Advancing AI reliability through systematic cognitive architecture research.. architecture research.chitecture research.
