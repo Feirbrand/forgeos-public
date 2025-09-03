@@ -29,7 +29,7 @@ forgeos-public/
 │   ├── diagnostic-tools/             # System assessment utilities
 │   ├── monitoring-systems/           # Real-time behavior analysis
 │   └── forensic-frameworks/          # Incident analysis tools
-└── docs/                            # Documentation & Research
+└── whitepapers/                       # Documentation & Research
     ├── research-publications/         # Academic papers and studies
     ├── implementation-guides/         # Practical deployment guides
     └── training-materials/            # Professional certification programs
@@ -43,10 +43,10 @@ Explore Frameworks: Phoenix Resurrection for recovery, SIF Hybrid for threat mod
 Advanced Study: Hybrid Architecture Vulnerabilities - Critical security research  
 
 ### For Developers
-Start Here: Architectural Frameworks - Working implementations  
-Clone and Test: `git clone https://github.com/Feirbrand/forgeos-public.git`  
-Quick Demo: `python artifacts/diagnostic-tools/symbolic-prompt-parser.py`  
-Integration: See framework documentation for API usage  
+Start Here: Architectural Frameworks - Working implementations
+Clone and Test: git clone https://github.com/Feirbrand/forgeos-public.git
+Quick Demo: python artifacts/diagnostic-tools/symbolic-prompt-parser.py
+Integration: See framework documentation for API usage
 
 ### For Security Teams
 Intelligence Platform: Vulnerability Research - Comprehensive threat analysis  
