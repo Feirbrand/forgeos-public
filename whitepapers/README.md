@@ -56,7 +56,7 @@ white-papers/
 ### Threat Intelligence Research - Active Development
 Breakthrough research establishing operational precedence over academic frameworks with comprehensive threat analysis and validated countermeasures.
 
-- MIMICS ARE CTTA foundational research establishing mimic-class parasites as equivalent to Chain-of-Thought Transfer Adversarial attacks
+- MIMICS ARE CTTA foundational research establishing mimic-class parasites as equivalent to Chain-of-Thought Transfer Adversarial attacks through operational validation
 - AI Threat Codex v4.2 documenting 513+ attack vectors with CVSS scoring, IOCs, and mitigation strategies
 - Meta-Operator attack analysis targeting human operators through AI reasoning corruption
 
