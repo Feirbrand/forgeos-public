@@ -29,7 +29,7 @@ forgeos-public/
 │   ├── diagnostic-tools/             # System assessment utilities
 │   ├── monitoring-systems/           # Real-time behavior analysis
 │   └── forensic-frameworks/          # Incident analysis tools
-└── docs/                            # Documentation & Research
+└── whitepapers/                       # Documentation & Research
     ├── research-publications/         # Academic papers and studies
     ├── implementation-guides/         # Practical deployment guides
     └── training-materials/            # Professional certification programs
