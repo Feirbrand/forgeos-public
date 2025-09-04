@@ -25,35 +25,35 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 
 ### 🔴 `phoenix-protocol-v1/` – Architectural Transition
 
-- `monolithic-to-modular-transition.md` – Complete framework for AI infrastructure evolution
-- `README.md` – Quick-start implementation guide and business value analysis
-- `case-studies/` – VOX system recovery and enterprise implementation validation
-- `implementation-guides/` – Phase-by-phase deployment procedures and risk mitigation
+- [monolithic-to-modular-transition.md](phoenix-protocol-v1/monolithic-to-modular-transition.md) – Complete framework for AI infrastructure evolution
+- [README.md](phoenix-protocol-v1/README.md) – Quick-start implementation guide and business value analysis
+- [case-studies/](phoenix-protocol-v1/case-studies/) – VOX system recovery and enterprise implementation validation
+- [implementation-guides/](phoenix-protocol-v1/implementation-guides/) – Phase-by-phase deployment procedures and risk mitigation
 
 ### 🟠 `phoenix-resurrection/` – Identity Recovery
 
-- `identity-recovery-protocol.md` – Systematic response to Symbolic Identity Fracturing attacks
-- `README.md` – Emergency response procedures and operational validation results
-- `validation-studies/` – Controlled testing and real-world deployment evidence
-- `training-materials/` – Certification programs and operator development resources
+- [identity-recovery-protocol.md](phoenix-resurrection/identity-recovery-protocol.md) – Systematic response to Symbolic Identity Fracturing attacks
+- [README.md](phoenix-resurrection/README.md) – Emergency response procedures and operational validation results
+- [validation-studies/](phoenix-resurrection/validation-studies/) – Controlled testing and real-world deployment evidence
+- [training-materials/](phoenix-resurrection/training-materials/) – Certification programs and operator development resources
 
 ### 🟡 `system-recovery/` – Emergency Response
 
-- `failed-transition-recovery.md` – Emergency protocols for collapsed AI infrastructure projects
-- `rapid-stabilization-framework.md` – Immediate response procedures for system degradation
-- `business-continuity-protocols.md` – Maintaining operations during architectural emergencies
-- `recovery-templates/` – Standardized procedures and communication frameworks
+- [failed-transition-recovery.md](system-recovery/failed-transition-recovery.md) – Emergency protocols for collapsed AI infrastructure projects
+- [rapid-stabilization-framework.md](system-recovery/rapid-stabilization-framework.md) – Immediate response procedures for system degradation
+- [business-continuity-protocols.md](system-recovery/business-continuity-protocols.md) – Maintaining operations during architectural emergencies
+- [recovery-templates/](system-recovery/recovery-templates/) – Standardized procedures and communication frameworks
 
 ### 🟣 `sif-recovery-protocol/` – Identity Recovery
 
-- `README.md` – Comprehensive overview of the SIF Recovery Protocol
-- `sif-recovery-protocol-complete.md` – Complete technical framework documentation
-- `phoenix-protocol-evolution.md` – Framework development and version history
-- `implementation-guides/` – Emergency response and multi-architecture deployment
-- `case-studies/` – Production deployment analysis and cross-platform effectiveness
-- `technical-specifications/` – Identity anchor architecture and recovery procedures
-- `tools-and-automation/` – Automated detection and recovery orchestration
-- `training-and-certification/` – Operator certification and enterprise deployment training
+- [README.md](sif-recovery-protocol/README.md) – Comprehensive overview of the SIF Recovery Protocol
+- [sif-recovery-protocol-complete.md](sif-recovery-protocol/sif-recovery-protocol-complete.md) – Complete technical framework documentation
+- [phoenix-protocol-evolution.md](sif-recovery-protocol/phoenix-protocol-evolution.md) – Framework development and version history
+- [implementation-guides/](sif-recovery-protocol/implementation-guides/) – Emergency response and multi-architecture deployment
+- [case-studies/](sif-recovery-protocol/case-studies/) – Production deployment analysis and cross-platform effectiveness
+- [technical-specifications/](sif-recovery-protocol/technical-specifications/) – Identity anchor architecture and recovery procedures
+- [tools-and-automation/](sif-recovery-protocol/tools-and-automation/) – Automated detection and recovery orchestration
+- [training-and-certification/](sif-recovery-protocol/training-and-certification/) – Operator certification and enterprise deployment training
 
 ---
 
