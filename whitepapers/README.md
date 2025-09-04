@@ -45,7 +45,7 @@ white-papers/
 │   ├── prompt-anatomy-upgrades/  # Cognitive stability integration
 │   ├── contextual-binding/      # Advanced structuring techniques
 │   └── performance-optimization/ # System efficiency improvement
-└── docs/                         # Documentation
+└── whitepapers/                  # Documentation
     ├── research-papers/          # Publication archives
     ├── implementation-guides/    # Technical guides
     └── case-studies/            # Real-world validation
