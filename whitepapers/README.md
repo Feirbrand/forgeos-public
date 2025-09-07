@@ -22,7 +22,7 @@ White Papers Division provides comprehensive research publications, analytical f
 ```
 whitepapers/
 ├── threat-intelligence/           # AI Security & Threat Analysis
-│   ├── mimics-are-ctta.         # Foundational CTTA research
+│   ├── mimics-are-ctta/          # Foundational CTTA research
 │   └── The Phoenix Protocol v1/  # Monolithic to Modular
 ├── cognitive-engineering/         # AI Cognitive Architecture  
 │   ├── context-engineering-series/ # Complete CE methodology
@@ -38,7 +38,8 @@ whitepapers/
 ├── prompt-engineering/           # Advanced AI Communication
 │   └── prompt-anatomy-upgrades/  # Cognitive stability integration
 └── implementation-guides/        # Technical guides
-    └── sif-research-disclosure-framework # Ethical AI security research disclosure 
+    ├── sif-research-disclosure-framework/ # Ethical AI security research disclosure
+    └── memory-vulnerabilities-agentic-ai.md # Memory vulnerabilities whitepaper
     
 ```
 
