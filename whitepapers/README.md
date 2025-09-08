@@ -39,7 +39,8 @@ whitepapers/
 │   └── prompt-anatomy-upgrades/  # Cognitive stability integration
 └── implementation-guides/        # Technical guides
     ├── sif-research-disclosure-framework/ # Ethical AI security research disclosure
-    └── memory-vulnerabilities-agentic-ai.md # Memory vulnerabilities whitepaper
+    ├── memory-vulnerabilities-agentic-ai.md # Memory vulnerabilities whitepaper
+    └── database-vulnerabilities-enhanced.md # Database architecture security analysis
     
 ```
 
