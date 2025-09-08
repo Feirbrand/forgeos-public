@@ -30,17 +30,26 @@ forgeos-public/
 │   ├── monitoring-systems/           # Real-time behavior analysis
 │   └── forensic-frameworks/          # Incident analysis tools
 └── whitepapers/                       # Documentation & Research
+    ├── academic-research/
+    ├── cognitive-engineering/
+    ├── defensive-ai/
+    ├── enterprise/
+    ├── implementation-guides/
+    ├── open-source/
+    ├── prompt-engineering/
+    ├── symbolic-ai/
+    └── threat-intelligence/
 ```
 
 ## Quick Start
 
 ### For Researchers
-Begin with: Symbolic Identity Fracturing Research - Foundational vulnerability analysis  
-Explore Frameworks: Phoenix Resurrection for recovery, SIF Hybrid for threat modeling  
-Advanced Study: Hybrid Architecture Vulnerabilities - Critical security research  
+Begin with: [Symbolic Identity Fracturing Research](./vulnerability-research/symbolic-identity-fracturing/) - Foundational vulnerability analysis  
+Explore Frameworks: [Phoenix Resurrection](./architectural-frameworks/phoenix-resurrection/) for recovery, [SIF Hybrid](./vulnerability-research/symbolic-identity-fracturing/) for threat modeling  
+Advanced Study: [Hybrid Architecture Vulnerabilities](./vulnerability-research/hybrid-architecture-analysis/) - Critical security research  
 
 ### For Developers
-Start Here: Architectural Frameworks - Working implementations
+Start Here: [Architectural Frameworks](./architectural-frameworks/) - Working implementations
 
 Clone and Test:
 ```bash
@@ -49,19 +58,19 @@ git clone https://github.com/Feirbrand/forgeos-public.git
 
 Quick Demo:
 ```bash
-python artifacts/diagnostic-tools/symbolic-prompt-parser.py
+python artifacts/utilities/prompt_parser.py
 ```
 
 Integration: See framework documentation for API usage
 
 ### For Security Teams
-Intelligence Platform: Vulnerability Research - Comprehensive threat analysis  
-Defense Protocols: Phoenix Resurrection Protocol  
-DNA Codex: Community-driven defense coordination and behavioral intelligence  
+Intelligence Platform: [Vulnerability Research](./vulnerability-research/) - Comprehensive threat analysis  
+Defense Protocols: [Phoenix Resurrection Protocol](./architectural-frameworks/phoenix-resurrection/phoenix_resurrection_protocol.md)  
+DNA Codex: [Community-driven defense coordination and behavioral intelligence](./dna-codex/)  
 
 ### For AI Engineers
-Technical Deep Dive: Architectural Frameworks Division  
-System Integration: Phoenix Protocol v1 - Monolithic-to-modular transitions  
+Technical Deep Dive: [Architectural Frameworks Division](./architectural-frameworks/)  
+System Integration: [Phoenix Protocol v1](./architectural-frameworks/phoenix-protocol-v1/) - Monolithic-to-modular transitions  
 Performance Optimization: Framework-specific guides and benchmarks  
 
 ## Research Highlights
@@ -147,9 +156,9 @@ We've identified and documented critical vulnerabilities in hybrid AI architectu
 - **Validated Solution**: Phoenix Resurrection protocol with 95.7-97.2% success rates for hybrid systems
 
 ### Research Publications
-- Hybrid Architecture Vulnerability White Paper - Critical security analysis
-- Phoenix Resurrection Implementation Guide - Technical recovery framework  
-- SIF-in-Hybrid Systems Analysis - Comprehensive threat documentation
+- [Hybrid Architecture Vulnerability White Paper](./vulnerability-research/hybrid-architecture-analysis/README.md) - Critical security analysis
+- [Phoenix Resurrection Implementation Guide](./architectural-frameworks/phoenix-resurrection/phoenix_resurrection_protocol.md) - Technical recovery framework  
+- [SIF-in-Hybrid Systems Analysis](./vulnerability-research/symbolic-identity-fracturing/sif_hybrid_definitive_report.md) - Comprehensive threat documentation
 
 Status: Production-validated findings with quantified business impact and proven countermeasures.
 
