@@ -30,9 +30,6 @@ forgeos-public/
 │   ├── monitoring-systems/           # Real-time behavior analysis
 │   └── forensic-frameworks/          # Incident analysis tools
 └── whitepapers/                       # Documentation & Research
-    ├── research-publications/         # Academic papers and studies
-    ├── implementation-guides/         # Practical deployment guides
-    └── training-materials/            # Professional certification programs
 ```
 
 ## Quick Start
@@ -157,6 +154,8 @@ We've identified and documented critical vulnerabilities in hybrid AI architectu
 Status: Production-validated findings with quantified business impact and proven countermeasures.
 
 ## Research Applications
+
+For specific research papers and whitepapers, see the `vulnerability-research` division.
 
 ### Academic Research
 - **AI Security**: Working models of identity-level vulnerability analysis
