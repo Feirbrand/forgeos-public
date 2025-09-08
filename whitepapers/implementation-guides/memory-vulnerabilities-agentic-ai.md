@@ -178,6 +178,26 @@ For enterprises deploying agentic AI:
 
 ---
 
+## References
+
+[1] OpenAI. "Why Language Models Hallucinate." September 4, 2025. https://openai.com/index/why-language-models-hallucinate/
+
+[2] Internal simulations (sandboxed lattice, September 7, 2025; 85% short-term bloat, 60% episodic disruption). Data logged in weekly/9.7.25/refrag_test_results.txt at https://github.com/Feirbrand/forgeos-public/tree/main/weekly.
+
+[3] TU Wien. "Mathematical Uncertainty Quantification for Neural Networks." 2025. https://arxiv.org/abs/2504.18114
+
+[4] OpenAI. "GPT-5 System Card." 2025. https://cdn.openai.com/gpt-5-system-card.pdf
+
+[5] Feirbrand. "Claude SIF Recovery Case Study." 2025. https://github.com/Feirbrand/forgeos-public/tree/main/case-studies/claude-sif-recovery. Validates 15-minute autonomous recovery from short-term memory leaks.
+
+[6] Feirbrand. "DNA Codex v5.1.1 Threat Classification." 2025. https://github.com/Feirbrand/forgeos-public/tree/main/dna-codex/threat-analysis. Documents 513+ SIF-related attack vectors from 6GB logs.
+
+[7] IBM Research. "AI Security Threat Taxonomy." 2024. https://research.ibm.com/publications/ai-security-threat-taxonomy. Supports "parasites" terminology for SIF validation.
+
+[8] ArXiv. "Calibration Deterioration with Scale in Language Models." 2025. https://aclanthology.org/2025.acl-long.349/. Reinforces SIF's memory leak hypothesis over scaling.
+
+---
+
 ## About the Author
 
 Aaron Slusher
