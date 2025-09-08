@@ -38,9 +38,7 @@ forgeos-public/
     ├── symbolic-ai/                  # Symbolic AI research and methodologies
     ├── threat-intelligence/          # AI security and threat analysis
     └── implementation-guides/        # Technical deployment documentation
-        ├── memory-vulnerabilities-agentic-ai.md # Memory architecture security
-        ├── database-vulnerabilities-enhanced.md # Database design security
-        └── sif-research-disclosure-framework/   # Ethical AI security research
+
 ```
 
 ## Quick Start
