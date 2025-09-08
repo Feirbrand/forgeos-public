@@ -237,13 +237,19 @@ SIF-Research-Public/
 - **Monitoring**: Ongoing legal and regulatory monitoring
 - **Response**: Professional legal counsel and compliance adjustment
 
+## References
+
+- Floridi, L., & Cowls, J. (2019). A unified framework of five principles for AI ethics. *Harvard Data Science Review, 1*(1). https://doi.org/10.1162/99608f92.8cd550d1
+- IEEE. (2017). *Ethically aligned design: A vision for prioritizing human well-being with autonomous and intelligent systems*. IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems.
+- OWASP. (2023). *Responsible vulnerability disclosure guidelines*. Open Web Application Security Project. https://owasp.org/www-policy/operational/responsible-disclosure.html
+
 ## Conclusion
 
 This framework provides a comprehensive approach to responsibly disclosing SIF research findings while maximizing academic contribution and community benefit. The emphasis on non-exploitable research discovery, academic standards, and community engagement ensures positive impact while maintaining appropriate security boundaries.
 
 Success depends on maintaining the highest academic and professional standards while effectively communicating the research contributions to the broader AI safety and security community. The framework balances transparency with responsibility, enabling significant research contribution while protecting against potential misuse.
 
-**The goal is to advance AI safety and resilience through collaborative research and responsible knowledge sharing, establishing new standards for AI security research ethics and community engagement.**
+**The goal is to advance AI safety through collaborative research and responsible knowledge sharing, establishing new standards for AI security research ethics and community engagement.**
 
 ---
 
