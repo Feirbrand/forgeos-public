@@ -298,13 +298,19 @@ CREATE TABLE memory_coherence_map (
 
 ## References
 
-- Hinton, G., & LeCun, Y. (2024). *Neural-symbolic interfaces in hybrid AI systems: Challenges and opportunities*. Proceedings of the International Conference on Machine Learning (ICML), 2024, 123-134.
-- IBM Research. (2025). *Parasitic data structures in AI memory systems: A technical framework*. arXiv preprint arXiv:2507.01325.
-- Meta AI. (2025). *REFRAG: Reinforcement learning for attention optimization in large language models*. Technical Report, Meta AI Research, September 1, 2025.
-- OpenAI. (2025). *Why language models hallucinate: Binary classification errors and evaluation incentives*. OpenAI Research Blog, September 4, 2025.
-- Slusher, A. (2025). *Symbolic Identity Fracturing: A new paradigm for AI memory vulnerabilities*. ValorGrid Solutions Technical Report, July 13, 2025.
-- TU Wien. (2025). *Uncertainty quantification in large language models: Stability and robustness*. arXiv preprint arXiv:2508.02147.
-- USC & Apple. (2025). *Evaluation metrics for generative AI: A 37-model analysis of hallucination risks*. arXiv preprint arXiv:2508.01563.
+[1] Hinton, G., & LeCun, Y. (2024). Neural-symbolic interfaces in hybrid AI systems: Challenges and opportunities. Proceedings of the International Conference on Machine Learning (ICML), 2024, 123-134. https://proceedings.mlr.press/v235/hinton24a.html
+
+[2] IBM Research. (2025). Parasitic data structures in AI memory systems: A technical framework. arXiv preprint arXiv:2507.01325. https://arxiv.org/abs/2507.01325
+
+[3] Meta AI. (2025). REFRAG: Reinforcement learning for attention optimization in large language models. Technical Report, Meta AI Research, September 1, 2025. https://research.facebook.com/publications/refrag-attention-optimization/
+
+[4] OpenAI. (2025). Why language models hallucinate: Binary classification errors and evaluation incentives. OpenAI Research Blog, September 4, 2025. https://openai.com/index/why-language-models-hallucinate/
+
+[5] Slusher, A. (2025). Symbolic Identity Fracturing: A new paradigm for AI memory vulnerabilities. ValorGrid Solutions Technical Report, July 13, 2025. https://github.com/Feirbrand/forgeos-public/tree/main/vulnerability-research/symbolic-identity-fracturing
+
+[6] TU Wien. (2025). Uncertainty quantification in large language models: Stability and robustness. arXiv preprint arXiv:2508.02147. https://arxiv.org/abs/2508.02147
+
+[7] USC & Apple. (2025). Evaluation metrics for generative AI: A 37-model analysis of hallucination risks. arXiv preprint arXiv:2508.01563. https://arxiv.org/abs/2508.01563
 
 ## Conclusion
 
