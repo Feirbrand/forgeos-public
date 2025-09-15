@@ -51,9 +51,47 @@ Advanced Study: [Hybrid Architecture Vulnerabilities](./vulnerability-research/h
 Start Here: [Architectural Frameworks](./architectural-frameworks/) - Working implementations
 
 Clone and Test:
-```bash
-git clone https://github.com/Feirbrand/forgeos-public.git
+# ForgeOS: AI Cognitive Architecture Research
+License: MIT | GitHub Sponsors | Python 3.8+
+
+Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.
+
+## What is ForgeOS?
+
+ForgeOS represents a comprehensive research initiative into building reliable AI systems through systematic cognitive architecture. Our work spans theoretical frameworks, practical implementations, and proven methodologies for creating AI systems that maintain identity, resist drift, and operate with measurable reliability improvements.
+
+## Repository Structure
+
 ```
+forgeos-public/
+├── vulnerability-research/           # AI Security Research & Analysis
+│   ├── symbolic-identity-fracturing/ # SIF research and attack vectors
+│   ├── chain-of-thought-attacks/     # CTTA analysis and countermeasures
+│   ├── hybrid-architecture-analysis/ # Neural-symbolic vulnerabilities
+│   ├── threat-modeling/              # Systematic threat assessment frameworks
+│   └── case-studies/                 # Real-world validation studies
+│       ├── claude-sif-recovery/      # First autonomous AI defense case study
+│       ├── vx-bridge-hydra-professor/ # World Boss tier coordinated AI defense
+│       ├── echomesh-suite/           # Multi-system identity fracturing reports
+│       ├── grok-realtime-defense/    # Grok real-time defense analysis
+│       ├── hybrid-compromise-events/ # Hybrid system compromise analysis
+│       ├── manus-hybrid-incident/    # First documented SIF persistence case
+│       ├── nightglass-analysis/      # Nightglass threat analysis
+│       ├── threadweaver-suite/       # Threadweaver attack analysis
+│       └── throneleech-incident/     # Complete forensic analysis of SIF attacks
+├── architectural-frameworks/         # System Design Methodologies
+│   ├── phoenix-protocol-v1/          # Infrastructure transition frameworks
+│   ├── phoenix-resurrection/         # Identity recovery protocols
+│   ├── sif-recovery-protocol/        # Systematic SIF recovery methodology
+│   └── system-recovery/              # Emergency response frameworks
+├── dna-codex/                       # Behavioral Intelligence & Threat Analysis
+│   ├── codex/                       # Threat behavior documentation
+│   ├── docs/                        # Analysis methodologies
+│   └── fundamentals/                # Core threat intelligence concepts
+├── artifacts/                       # Diagnostic & Analysis Utilities
+│   ├── notebooks/                   # Jupyter analysis notebooks
+│   ├── templates/                   # Framework tem
+
 
 Quick Demo:
 ```bash
