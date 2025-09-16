@@ -40,7 +40,8 @@ whitepapers/
 └── implementation-guides/        # Technical guides
     ├── sif-research-disclosure-framework/ # Ethical AI security research disclosure
     ├── memory-vulnerabilities-agentic-ai.md # Memory vulnerabilities whitepaper
-    └── database-vulnerabilities-enhanced.md # Database architecture security analysis
+    ├── database-vulnerabilities-enhanced.md # Database architecture security analysis
+    └── sif-framework-understand-vuln-hybrid.md # SIF framework for understanding vulnerabilities in hybrid AI
     
 ```
 
