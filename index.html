@@ -10,7 +10,7 @@
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            background: linear-gradient(135deg, #001f3f 0%, #1a4d7a 100%);
             color: #ffffff;
         }
         .container {
@@ -26,6 +26,7 @@
             font-size: 3.5em;
             margin-bottom: 10px;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            color: #FFD700;
         }
         .header .subtitle {
             font-size: 1.4em;
@@ -34,87 +35,90 @@
         }
         .research-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 30px;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
             margin: 60px 0;
         }
         .research-card {
-            background: rgba(255,255,255,0.1);
-            border-radius: 15px;
-            padding: 30px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            padding: 25px;
+            border: 1px solid rgba(255,215,0,0.3);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
         .research-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(255,215,0,0.2);
+            border-color: rgba(255,215,0,0.5);
         }
         .research-card h3 {
-            font-size: 1.8em;
+            font-size: 1.6em;
             margin-bottom: 15px;
-            color: #64b5f6;
+            color: #FFD700;
         }
         .research-card .status {
             display: inline-block;
-            padding: 5px 15px;
-            border-radius: 20px;
-            font-size: 0.9em;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.85em;
             font-weight: bold;
             margin-bottom: 15px;
         }
-        .status.production { background: #4caf50; }
-        .status.operational { background: #ff9800; }
-        .status.research { background: #2196f3; }
+        .status.production { background: #2d5a2d; color: #90EE90; }
+        .status.operational { background: #5a4a2d; color: #FFD700; }
+        .status.research { background: #2d3a5a; color: #87CEEB; }
         .research-card ul {
             list-style: none;
             padding: 0;
         }
         .research-card li {
-            padding: 8px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding: 6px 0;
+            border-bottom: 1px solid rgba(255,215,0,0.1);
+            font-size: 0.95em;
         }
         .research-card li:before {
-            content: "→ ";
-            color: #64b5f6;
+            content: "▸ ";
+            color: #FFD700;
             font-weight: bold;
         }
         .cta-section {
             text-align: center;
-            padding: 60px 0;
-            background: rgba(0,0,0,0.2);
-            margin: 60px 0;
-            border-radius: 15px;
+            padding: 50px 0;
+            background: rgba(0,0,0,0.3);
+            margin: 50px 0;
+            border-radius: 8px;
+            border: 1px solid rgba(255,215,0,0.2);
         }
         .cta-section h2 {
-            font-size: 2.5em;
+            font-size: 2.2em;
             margin-bottom: 20px;
+            color: #FFD700;
         }
         .cta-buttons {
             display: flex;
             justify-content: center;
-            gap: 20px;
+            gap: 15px;
             flex-wrap: wrap;
-            margin-top: 30px;
+            margin-top: 25px;
         }
         .cta-button {
             display: inline-block;
-            padding: 15px 30px;
-            background: linear-gradient(45deg, #64b5f6, #42a5f5);
-            color: white;
+            padding: 12px 24px;
+            background: linear-gradient(45deg, #FFD700, #FFA500);
+            color: #001f3f;
             text-decoration: none;
-            border-radius: 25px;
+            border-radius: 6px;
             font-weight: bold;
             transition: all 0.3s ease;
         }
         .cta-button:hover {
             transform: scale(1.05);
-            box-shadow: 0 5px 20px rgba(100,181,246,0.4);
+            box-shadow: 0 4px 15px rgba(255,215,0,0.4);
         }
         .footer {
             text-align: center;
-            padding: 40px 0;
-            border-top: 1px solid rgba(255,255,255,0.2);
+            padding: 30px 0;
+            border-top: 1px solid rgba(255,215,0,0.2);
             opacity: 0.8;
         }
     </style>
