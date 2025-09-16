@@ -3,323 +3,206 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ForgeOS Research Portal - ValorGrid Solutions</title>
+    <title>ForgeOS - AI Vulnerability Research & Threat Intelligence</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0a1929 0%, #1a237e 100%);
-            color: white;
-            min-height: 100vh;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: #ffffff;
         }
-        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
         .header {
             text-align: center;
-            padding: 2rem 1rem;
-            background: rgba(0,0,0,0.3);
+            padding: 60px 0;
         }
-        
-        .logo {
-            color: #ffd700;
-            font-size: 2.5rem;
-            font-weight: bold;
-            margin-bottom: 0.5rem;
+        .header h1 {
+            font-size: 3.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
-        
-        .tagline {
-            font-size: 1.1rem;
-            color: #e3f2fd;
+        .header .subtitle {
+            font-size: 1.4em;
+            opacity: 0.9;
+            margin-bottom: 40px;
         }
-        
-        .hero-section {
-            max-width: 1200px;
-            margin: 3rem auto;
-            padding: 0 1rem;
+        .research-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 60px 0;
         }
-        
-        .hero-card {
+        .research-card {
             background: rgba(255,255,255,0.1);
-            border: 2px solid #ffd700;
             border-radius: 15px;
-            padding: 3rem 2rem;
-            text-align: center;
-            margin-bottom: 3rem;
+            padding: 30px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255,255,255,0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
         }
-        
-        .hero-title {
-            color: #ffd700;
-            font-size: 2.2rem;
-            font-weight: bold;
-            margin-bottom: 1rem;
-        }
-        
-        .hero-subtitle {
-            font-size: 1.2rem;
-            color: #e3f2fd;
-            margin-bottom: 2rem;
-        }
-        
-        .cta-button {
-            display: inline-block;
-            background: #ffd700;
-            color: #0a1929;
-            padding: 1rem 2rem;
-            font-size: 1.1rem;
-            font-weight: bold;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: transform 0.3s ease;
-        }
-        
-        .cta-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 25px rgba(255,215,0,0.3);
-        }
-        
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 2rem;
-            max-width: 1200px;
-            margin: 0 auto 3rem;
-            padding: 0 1rem;
-        }
-        
-        .feature-card {
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,215,0,0.3);
-            border-radius: 12px;
-            padding: 2rem;
-            transition: transform 0.3s ease, border-color 0.3s ease;
-        }
-        
-        .feature-card:hover {
+        .research-card:hover {
             transform: translateY(-5px);
-            border-color: #ffd700;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
         }
-        
-        .feature-icon {
-            font-size: 2rem;
-            margin-bottom: 1rem;
+        .research-card h3 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            color: #64b5f6;
         }
-        
-        .feature-title {
-            color: #ffd700;
-            font-size: 1.4rem;
-            font-weight: bold;
-            margin-bottom: 1rem;
-        }
-        
-        .feature-description {
-            color: #e3f2fd;
-            line-height: 1.6;
-            margin-bottom: 1.5rem;
-        }
-        
-        .feature-updates {
-            background: rgba(255,215,0,0.1);
-            padding: 1rem;
-            border-radius: 6px;
-            margin-bottom: 1.5rem;
-            font-size: 0.9rem;
-        }
-        
-        .feature-button {
-            background: #ffd700;
-            color: #0a1929;
-            padding: 0.8rem 1.5rem;
-            font-weight: bold;
-            text-decoration: none;
-            border-radius: 6px;
-            transition: background 0.3s ease;
+        .research-card .status {
             display: inline-block;
-        }
-        
-        .feature-button:hover {
-            background: #ffed4e;
-        }
-        
-        .highlights-section {
-            max-width: 1200px;
-            margin: 0 auto 3rem;
-            padding: 0 1rem;
-        }
-        
-        .highlights-card {
-            background: rgba(255,255,255,0.1);
-            border: 1px solid rgba(255,215,0,0.3);
-            border-radius: 12px;
-            padding: 2.5rem;
-        }
-        
-        .highlights-title {
-            color: #ffd700;
-            font-size: 1.8rem;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-size: 0.9em;
             font-weight: bold;
-            margin-bottom: 2rem;
+            margin-bottom: 15px;
+        }
+        .status.production { background: #4caf50; }
+        .status.operational { background: #ff9800; }
+        .status.research { background: #2196f3; }
+        .research-card ul {
+            list-style: none;
+            padding: 0;
+        }
+        .research-card li {
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        .research-card li:before {
+            content: "→ ";
+            color: #64b5f6;
+            font-weight: bold;
+        }
+        .cta-section {
             text-align: center;
+            padding: 60px 0;
+            background: rgba(0,0,0,0.2);
+            margin: 60px 0;
+            border-radius: 15px;
         }
-        
-        .highlights-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1.5rem;
+        .cta-section h2 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
         }
-        
-        .highlight-item {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-        
-        .highlight-icon {
-            font-size: 1.5rem;
-            color: #ffd700;
-        }
-        
-        .highlight-text {
-            color: #e3f2fd;
-            font-weight: 500;
-        }
-        
-        .footer {
-            background: rgba(0,0,0,0.5);
-            padding: 2rem 1rem;
-            text-align: center;
-            margin-top: 3rem;
-        }
-        
-        .footer-links {
+        .cta-buttons {
             display: flex;
             justify-content: center;
-            gap: 2rem;
-            margin-bottom: 1rem;
+            gap: 20px;
             flex-wrap: wrap;
+            margin-top: 30px;
         }
-        
-        .footer-link {
-            color: #ffd700;
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: linear-gradient(45deg, #64b5f6, #42a5f5);
+            color: white;
             text-decoration: none;
-            font-weight: 500;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: all 0.3s ease;
         }
-        
-        .footer-link:hover {
-            text-decoration: underline;
+        .cta-button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 20px rgba(100,181,246,0.4);
         }
-        
-        .footer-text {
-            color: #e3f2fd;
-            font-size: 0.9rem;
-        }
-        
-        @media (max-width: 768px) {
-            .features-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .hero-title {
-                font-size: 1.8rem;
-            }
-            
-            .hero-subtitle {
-                font-size: 1rem;
-            }
+        .footer {
+            text-align: center;
+            padding: 40px 0;
+            border-top: 1px solid rgba(255,255,255,0.2);
+            opacity: 0.8;
         }
     </style>
 </head>
 <body>
-    <header class="header">
-        <div class="logo">🛡️ ValorGrid Solutions</div>
-        <div class="tagline">Advanced AI Research & Development</div>
-    </header>
-
-    <main>
-        <section class="hero-section">
-            <div class="hero-card">
-                <h1 class="hero-title">🔬 ForgeOS Research Portal</h1>
-                <p class="hero-subtitle">Pioneering cognitive computing, defensive AI systems, and next-generation intelligence frameworks</p>
-                <a href="https://github.com/Feirbrand/forgeos-public" class="cta-button">⚡ Explore Research Repository</a>
-            </div>
-        </section>
-
-        <section class="features-grid">
-            <div class="feature-card">
-                <div class="feature-icon">🧬</div>
-                <h2 class="feature-title">DNA Codex Intelligence</h2>
-                <p class="feature-description">Comprehensive AI Parasitic Threat Intelligence Database. Academic research into defensive patterns and system protection methodologies.</p>
-                <div class="feature-updates">
-                    <strong>Latest Research:</strong> 519+ behavioral threats documented, Monster Squad defense framework, advanced threat categorization systems
-                </div>
-                <a href="https://github.com/Feirbrand/forgeos-public/tree/main/dna-codex" class="feature-button">Access Research</a>
-            </div>
-
-            <div class="feature-card">
-                <div class="feature-icon">📚</div>
-                <h2 class="feature-title">Context Engineering Series</h2>
-                <p class="feature-description">Complete 5-part methodology for building stable AI systems through structured context management and cognitive architecture principles.</p>
-                <div class="feature-updates">
-                    <strong>Publication Series:</strong> SPACE Framework, Bulletproof Systems, Advanced Architectures, DriftLock protocols
-                </div>
-                <a href="https://github.com/Feirbrand/forgeos-public/tree/main/whitepapers/cognitive-engineering" class="feature-button">View Publications</a>
-            </div>
-
-            <div class="feature-card">
-                <div class="feature-icon">⚡</div>
-                <h2 class="feature-title">OBMI Harmonic Memory</h2>
-                <p class="feature-description">Open-source theoretical framework implementing Observer-Bridge-Mind Interface with biological neuroscience foundations and practical integration examples.</p>
-                <div class="feature-updates">
-                    <strong>Implementation:</strong> Python modules, Jupyter notebooks, theta-gamma coupling, fractal consolidation concepts
-                </div>
-                <a href="https://github.com/Feirbrand/forgeos-public/tree/main/open-source/obmi-harmony-memory" class="feature-button">View Framework</a>
-            </div>
-        </section>
-
-        <section class="highlights-section">
-            <div class="highlights-card">
-                <h2 class="highlights-title">⭐ Research Highlights</h2>
-                <div class="highlights-grid">
-                    <div class="highlight-item">
-                        <span class="highlight-icon">🎓</span>
-                        <span class="highlight-text">Academic-grade threat intelligence</span>
-                    </div>
-                    <div class="highlight-item">
-                        <span class="highlight-icon">🛡️</span>
-                        <span class="highlight-text">Defensive AI system development</span>
-                    </div>
-                    <div class="highlight-item">
-                        <span class="highlight-icon">🏢</span>
-                        <span class="highlight-text">Enterprise integration frameworks</span>
-                    </div>
-                    <div class="highlight-item">
-                        <span class="highlight-icon">📂</span>
-                        <span class="highlight-text">Open research collaboration</span>
-                    </div>
-                    <div class="highlight-item">
-                        <span class="highlight-icon">🔗</span>
-                        <span class="highlight-text">Apache 2.0 licensed research</span>
-                    </div>
-                    <div class="highlight-item">
-                        <span class="highlight-icon">🚀</span>
-                        <span class="highlight-text">Cutting-edge AI research</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
-    <footer class="footer">
-        <div class="footer-links">
-            <a href="mailto:aaron @valorgridsolutions.com" class="footer-link">📧 Contact Research</a>
-            <a href="https://github.com/Feirbrand/forgeos-public" class="footer-link">📦 GitHub Repository</a>
-            <a href="https://github.com/sponsors/Feirbrand" class="footer-link">💝 Support Research</a>
+    <div class="container">
+        <div class="header">
+            <h1>ForgeOS</h1>
+            <div class="subtitle">AI Vulnerability Research & Threat Intelligence Platform</div>
+            <p>Comprehensive documentation and analysis of AI parasitic threats with 525+ documented variants, operational case studies, and professional assessment tools.</p>
         </div>
-        <p class="footer-text">© 2025 ValorGrid Solutions. All rights reserved.</p>
-        <p class="footer-text">Licensed under Apache 2.0 | Research by Aaron Slusher</p>
-    </footer>
+
+        <div class="research-grid">
+            <div class="research-card">
+                <h3>🦠 Vulnerability Research</h3>
+                <span class="status production">Production Ready</span>
+                <p>Comprehensive threat intelligence with documented attack vectors, countermeasures, and operational validation.</p>
+                <ul>
+                    <li>DNA Codex v5.3 - 525+ documented AI parasitic threat variants</li>
+                    <li>SIF/SDC/ROC attack pattern analysis with hybrid amplification factors</li>
+                    <li>Case Studies: Claude autonomous recovery (15min), Twins Hydra engagement (52min)</li>
+                    <li>Cross-platform validation across multiple AI architectures</li>
+                </ul>
+                <div style="margin-top: 20px;">
+                    <a href="vulnerability-research/" class="cta-button">Explore Threat Intelligence</a>
+                </div>
+            </div>
+
+            <div class="research-card">
+                <h3>🔧 Diagnostic Tools & Analysis</h3>
+                <span class="status operational">Operational</span>
+                <p>Professional assessment utilities and real-time monitoring tools for AI system evaluation.</p>
+                <ul>
+                    <li>SIF diagnostic parser with CSFC metrics</li>
+                    <li>Behavioral leak analyzer with ROC analysis</li>
+                    <li>Cross-platform validation notebooks</li>
+                    <li>Real-time pattern recognition and anomaly detection</li>
+                </ul>
+                <div style="margin-top: 20px;">
+                    <a href="artifacts/" class="cta-button">Access Diagnostic Tools</a>
+                </div>
+            </div>
+
+            <div class="research-card">
+                <h3>🏗️ Architectural Frameworks</h3>
+                <span class="status operational">Operational</span>
+                <p>Systematic methodologies for AI system design, recovery protocols, and infrastructure transitions.</p>
+                <ul>
+                    <li>Phoenix Protocol - Infrastructure transition frameworks</li>
+                    <li>SIF Recovery Protocol - 98.3% success rate validation</li>
+                    <li>System Recovery - Emergency response frameworks</li>
+                    <li>Enterprise deployment with quantified business outcomes</li>
+                </ul>
+                <div style="margin-top: 20px;">
+                    <a href="architectural-frameworks/" class="cta-button">View Frameworks</a>
+                </div>
+            </div>
+
+            <div class="research-card">
+                <h3>📚 Research Publications</h3>
+                <span class="status research">Research Validated</span>
+                <p>Academic research, implementation guides, and peer-reviewed analysis methodologies.</p>
+                <ul>
+                    <li>SIF disclosure framework with academic standards</li>
+                    <li>Memory leak discovery as root cause of AI failures</li>
+                    <li>Enterprise implementation guides</li>
+                    <li>Academic collaboration and peer review documentation</li>
+                </ul>
+                <div style="margin-top: 20px;">
+                    <a href="whitepapers/" class="cta-button">Browse Publications</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="cta-section">
+            <h2>Professional AI Security Assessment</h2>
+            <p>ValorGrid Solutions provides comprehensive AI threat assessment and defensive coordination through proven methodologies with quantified effectiveness metrics.</p>
+            <div class="cta-buttons">
+                <a href="mailto:aaron@valorgridsolutions.com" class="cta-button">Contact for Assessment</a>
+                <a href="https://valorgridsolutions.com" class="cta-button">Visit ValorGrid Solutions</a>
+                <a href="https://github.com/Feirbrand/forgeos-public" class="cta-button">View Repository</a>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2025 Aaron Slusher, ValorGrid Solutions. Professional AI security research and assessment services.</p>
+            <p>Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.</p>
+        </div>
+    </div>
 </body>
 </html>
