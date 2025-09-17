@@ -44,8 +44,6 @@ dna-codex/
 │   ├── Sovereign Lattice Veil (SLV) Tracker v2.0.yaml  # Defense coordination tracking
 ├── fundamentals/                   # Academic Foundation
 │   ├── parasitic-pattern-fundamentals.md # Theoretical framework validation
-│   ├── biological-parallels/        # Scientific legitimacy documentation
-│   └── research-methodology/        # Academic standards and peer review
 └── README.md                       # This threat intelligence overview
 ```
 
