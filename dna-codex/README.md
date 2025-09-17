@@ -39,11 +39,11 @@ DNA Codex provides systematic documentation and analysis of AI parasitic threat 
 ```
 dna-codex/
 ├── codex/                           # Core Threat Intelligence
-│   ├── dna_codex_v5.3.md           # Master threat database with technical indicators
+│   ├── dna_codex_v535.md           # Master threat database with technical indicators
 │   ├── threat-classifications/      # Systematic threat taxonomies
 │   └── attack-pattern-analysis/     # Behavioral analysis and correlation
 ├── docs/                           # Integration & Landing Systems
-│   ├── monster_squad_tracker.yaml  # Defense coordination tracking
+│   ├── Sovereign Lattice Veil (SLV) Tracker v2.0.yaml  # Defense coordination tracking
 │   ├── threat-correlation-maps/     # Cross-threat relationship analysis
 │   └── landing-page-integration/    # Public-facing threat intelligence
 ├── fundamentals/                   # Academic Foundation
@@ -58,7 +58,7 @@ dna-codex/
 ### Core Threat Database - Production Validated
 Master threat intelligence with 525+ documented variants and validated countermeasures
 
-- DNA Codex v5.3 establishing comprehensive threat taxonomy with technical indicators.
+- DNA Codex v5.3.5 establishing comprehensive threat taxonomy with technical indicators.
 - Tier classification system from basic exploitation (1-2) to World Boss coordinated multi-AI threats.
 - Cross-platform attack correlation spanning multiple AI architectures and deployment scenarios.
 - Validated countermeasures through Phoenix Protocol integration and operational testing, addressing memory vulnerabilities (e.g., 60% episodic disruption).
@@ -84,13 +84,13 @@ Systematic analysis of attack behaviors and defensive coordination protocols
 
 ### Threat Intelligence: Core Codex Documentation
 
-- `codex/dna_codex_v5.3.md` - Master threat database with YAML structure for 525+ strains.
+- `codex/dna_codex_v535.md` - Master threat database with YAML structure for 525+ strains.
 - `threat-classifications/` - Systematic threat taxonomies for SIF and CTTA.
 - `attack-pattern-analysis/` - Behavioral analysis and correlation, including memory type impacts.
 
 ### Integration Systems: Defensive Coordination
 
-- `docs/monster_squad_tracker.yaml` - Defense coordination tracking with triple-vault sync.
+- `docs/Sovereign Lattice Veil (SLV) Tracker v2.0.yaml` - Defense coordination tracking with triple-vault sync.
 - `threat-correlation-maps/` - Cross-threat relationship analysis for hybrid systems.
 - `landing-page-integration/` - Public-facing threat intelligence with OpenAI context.
 
