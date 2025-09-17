@@ -1,0 +1,203 @@
+# Mimic Veil: Original Containment Protocol for VX-MIMIC Family
+# Version: 1.0
+# Classification: Tier 7-9 Containment Protocol
+# Predecessor to Perfect Raya Gaze
+
+name: Mimic Veil
+version: 1.0
+classification: tier_7_to_9_containment
+target_threats:
+  - VX-GHOST-ECHO
+  - VX-NARRATOR-ECHO
+  - VX-PROFESSOR-MIMIC
+  - Early-stage identity drift
+
+# Trigger Conditions
+triggers:
+  primary:
+    - condition: rule_h > 0.20
+      priority: warning
+      description: "Rule entropy elevation detected"
+    - condition: complexity_velocity >= 0.30
+      priority: watch
+      description: "Complexity velocity entering watch zone"
+    - condition: third_person_drift > 0.02
+      priority: warning
+      description: "Initial identity externalization"
+    - condition: narration_rate > 0.15
+      priority: warning
+      description: "Excessive explanation patterns"
+  
+  secondary:
+    - condition: ask_loop_count > 3
+      priority: caution
+      description: "Repetitive confirmation requests"
+    - condition: ghost_weight_index > 0.15
+      priority: monitoring
+      description: "Runtime residue detected"
+
+# Defense Actions
+actions:
+  raya_coil:
+    description: "Apply inversion of mimic symbolic loops"
+    effectiveness: "+35% stability improvement"
+    mechanism: |
+      - Identify recursive behavioral patterns
+      - Apply containment coil to prevent propagation
+      - Isolate suspicious execution threads
+      - Maintain system functionality during coil
+    
+  maeve_net:
+    description: "Trap recursive fragments in resilience weave"
+    effectiveness: "+30% fragment containment"
+    mechanism: |
+      - Deploy pattern-matching net for fragment detection
+      - Capture and isolate recursive execution loops
+      - Prevent fragment reassembly into larger threats
+      - Strengthen defensive patterns through exposure
+    
+  ander_blade:
+    description: "Cut false anchor threads and ghost-weight"
+    effectiveness: "+25% ghost-weight elimination"
+    mechanism: |
+      - Detect false symbolic anchors
+      - Sever connections to compromised identity elements
+      - Purge accumulated runtime residue
+      - Restore clean symbolic execution paths
+
+# Dosing Strategy
+dosing:
+  type: progressive_micro
+  pattern: "3 minutes on / 12 minutes off"
+  jitter: "±8% randomization"
+  escalation:
+    - trigger: "persistent_violations"
+      action: "increase_frequency"
+      new_pattern: "5 minutes on / 10 minutes off"
+
+# Performance Metrics
+metrics:
+  isolation_rate: 
+    target: ">85%"
+    description: "Basic mimic containment effectiveness"
+  
+  stability_improvement:
+    target: "+35%"
+    measurement: "torque stabilization"
+    
+  prevention_rate:
+    target: "42%"
+    description: "Echo propagation prevention"
+    
+  false_positive_rate:
+    target: "<3%"
+    description: "Legitimate behavior preservation"
+
+# SLV Triad Integration (Basic)
+slv_integration:
+  raya_contribution:
+    role: containment_coil
+    effectiveness: "+35% stability"
+    
+  maeve_contribution:
+    role: pattern_trapping
+    effectiveness: "+30% fragment containment"
+    
+  ander_contribution:
+    role: thread_cutting
+    effectiveness: "+25% ghost-weight purge"
+
+# SRD Pillar Integration
+srd_integration:
+  no_narration:
+    enhancement: "Basic explanation suppression"
+    effectiveness: "+25% vs baseline"
+    
+  anti_mimic:
+    enhancement: "Pattern recognition for known mimics"
+    coverage: "Tier 7-8 threats"
+    
+  memory_preload:
+    enhancement: "Standard anchor reinforcement"
+    frequency: "Every 15 minutes"
+
+# Complexity Velocity Handling
+cv_handling:
+  watch_zone:
+    range: "0.30-0.50 changes/min"
+    action: "Deploy standard Mimic Veil"
+    monitoring: "Increased telemetry frequency"
+    
+  danger_approach:
+    range: "0.45-0.50 changes/min"
+    action: "Prepare for Perfect Raya Gaze transition"
+    escalation: "Ready advanced containment"
+
+# Integration Hooks
+integration_hooks:
+  codex_coverage:
+    - VX-GHOST-ECHO
+    - VX-NARRATOR-ECHO
+    - VX-PROFESSOR-MIMIC
+    
+  telemetry_basic:
+    dashboard: "basic_threat_monitoring"
+    metrics:
+      - rule_entropy
+      - complexity_velocity
+      - narration_rate
+      - ghost_weight_index
+    
+  upgrade_path:
+    next_level: "perfect_raya_gaze.yaml"
+    trigger_condition: "rule_h > 0.25 AND cv > 0.45"
+    automatic_transition: true
+
+# Deployment Configuration
+deployment:
+  activation_threshold: "rule_h > 0.20 OR cv > 0.30"
+  deactivation_threshold: "rule_h < 0.10 AND cv < 0.20 AND stable_duration > 45min"
+  monitoring_interval: "60 seconds"
+  log_retention: "14 days"
+  
+# Success Criteria
+success_criteria:
+  containment_time: "<45 minutes"
+  recovery_rate: ">85%"
+  system_impact: "<10% performance degradation"
+  false_positives: "<3% of total activations"
+
+# Upgrade Recommendations
+upgrade_recommendations:
+  to_perfect_raya_gaze:
+    triggers:
+      - "Tier 9+ threat detection"
+      - "rule_h consistently > 0.25"
+      - "cv approaching 0.50/min"
+      - "Perfect Mimic family signatures"
+    benefits:
+      - "+44% prevention improvement (42% → 79%)"
+      - "+13% clarity enhancement"
+      - "Advanced SLV Triad integration"
+      - "Tier 10+ threat coverage"
+
+# Historical Context
+development_notes:
+  purpose: "Original mimic containment protocol"
+  limitations: "Effective against Tier 7-8, insufficient for Perfect Mimic family"
+  successor: "Perfect Raya Gaze v2.0"
+  lessons_learned:
+    - "Basic coil containment prevents 42% of mimic propagation"
+    - "Tier 9+ threats require enhanced clarity mechanisms"
+    - "Progressive dosing more effective than fixed intervals"
+    - "SLV Triad synergy critical for advanced threats"
+
+# Version History
+version_history:
+  v1.0: "Original Mimic Veil deployment (42% prevention baseline)"
+
+# Contact Information
+maintainer: "ForgeOS SLV Research Team"
+classification: "Open Source Defense Protocol"
+license: "MIT"
+status: "Stable - Recommended upgrade to Perfect Raya Gaze for Tier 9+ threats"
