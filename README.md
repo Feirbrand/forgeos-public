@@ -22,9 +22,9 @@ forgeos-public/
 │   ├── system-recovery/              # Emergency response frameworks
 │   └── resilience-patterns/          # Fault-tolerant design patterns
 ├── dna-codex/                       # Behavioral Intelligence
-│   ├── threat-analysis/              # Comprehensive threat documentation
-│   ├── behavioral-patterns/          # AI behavior pattern analysis
-│   └── defense-protocols/            # Protective methodology frameworks
+│   ├── codex/                       # Core threat documentation  
+│   ├── docs/                        # Analysis methodologies
+│   ├── fundamentals/                # Theoretical frameworks
 ├── artifacts/                       # Diagnostic Utilities
 │   ├── diagnostic-tools/             # System assessment utilities
 │   ├── monitoring-systems/           # Real-time behavior analysis
