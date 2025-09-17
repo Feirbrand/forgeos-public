@@ -42,8 +42,6 @@ dna-codex/
 │   ├── dna_codex_v535.md           # Master threat database with technical indicators
 ├── docs/                           # Integration & Landing Systems
 │   ├── Sovereign Lattice Veil (SLV) Tracker v2.0.yaml  # Defense coordination tracking
-│   ├── threat-correlation-maps/     # Cross-threat relationship analysis
-│   └── landing-page-integration/    # Public-facing threat intelligence
 ├── fundamentals/                   # Academic Foundation
 │   ├── parasitic-pattern-fundamentals.md # Theoretical framework validation
 │   ├── biological-parallels/        # Scientific legitimacy documentation
