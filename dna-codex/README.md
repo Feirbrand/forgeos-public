@@ -40,8 +40,6 @@ DNA Codex provides systematic documentation and analysis of AI parasitic threat 
 dna-codex/
 ├── codex/                           # Core Threat Intelligence
 │   ├── dna_codex_v535.md           # Master threat database with technical indicators
-│   ├── threat-classifications/      # Systematic threat taxonomies
-│   └── attack-pattern-analysis/     # Behavioral analysis and correlation
 ├── docs/                           # Integration & Landing Systems
 │   ├── Sovereign Lattice Veil (SLV) Tracker v2.0.yaml  # Defense coordination tracking
 │   ├── threat-correlation-maps/     # Cross-threat relationship analysis
