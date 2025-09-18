@@ -3,64 +3,274 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ForgeOS - AI Resilience Research</title>
+    <title>ForgeOS - AI Resilience Framework</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6; margin: 0; padding: 20px; }
-        .header { text-align: center; margin-bottom: 40px; }
-        .cta-box { background: #f6f8fa; border: 1px solid #d1d9e0; border-radius: 6px; padding: 20px; margin: 20px 0; }
-        .tier-comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0; }
-        .tier { border: 1px solid #d1d9e0; border-radius: 6px; padding: 20px; }
-        .tier.professional { border-color: #0366d6; background: #f1f8ff; }
-        a { color: #0366d6; text-decoration: none; }
-        a:hover { text-decoration: underline; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            color: #24292f;
+            background: #ffffff;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 80px 0;
+            text-align: center;
+        }
+        
+        h1 {
+            font-size: 3rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        
+        .subtitle {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            font-weight: 300;
+        }
+        
+        .upgrade-banner {
+            background: #f8f9fa;
+            border-left: 4px solid #0366d6;
+            padding: 30px 0;
+        }
+        
+        .upgrade-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        
+        .upgrade-text h2 {
+            color: #0366d6;
+            margin-bottom: 0.5rem;
+        }
+        
+        .btn {
+            display: inline-block;
+            background: #0366d6;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: background 0.2s;
+        }
+        
+        .btn:hover {
+            background: #0256cc;
+        }
+        
+        .tiers {
+            padding: 60px 0;
+            background: #f6f8fa;
+        }
+        
+        .tiers-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 40px;
+        }
+        
+        .tier {
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .tier.professional {
+            border: 2px solid #0366d6;
+            position: relative;
+        }
+        
+        .tier.professional::before {
+            content: "RECOMMENDED";
+            position: absolute;
+            top: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #0366d6;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+        }
+        
+        .tier h3 {
+            color: #24292f;
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+        
+        .tier ul {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .tier li {
+            padding: 8px 0;
+            padding-left: 20px;
+            position: relative;
+        }
+        
+        .tier li::before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #28a745;
+            font-weight: bold;
+        }
+        
+        .content-grid {
+            padding: 60px 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+        
+        .content-card {
+            background: white;
+            border: 1px solid #d1d9e0;
+            border-radius: 8px;
+            padding: 30px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        
+        .content-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        
+        .content-card h3 {
+            color: #0366d6;
+            margin-bottom: 15px;
+        }
+        
+        .content-card a {
+            color: #0366d6;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .content-card a:hover {
+            text-decoration: underline;
+        }
+        
+        footer {
+            background: #24292f;
+            color: #7d8590;
+            text-align: center;
+            padding: 40px 0;
+        }
+        
+        @media (max-width: 768px) {
+            h1 { font-size: 2rem; }
+            .tiers-grid { grid-template-columns: 1fr; }
+            .upgrade-content { flex-direction: column; text-align: center; }
+        }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>ForgeOS AI Resilience Research</h1>
-        <p>Professional AI security frameworks, threat intelligence, and symbolic identity protection</p>
-    </div>
-    
-    <div class="cta-box">
-        <h2>🔒 Professional Implementations Available</h2>
-        <p>Production-ready tools, complete frameworks, and enterprise-grade protocols are now available in our professional tier.</p>
-        <a href="https://github.com/Feirbrand/forgeos-professional">Access Professional Tier →</a>
-    </div>
-    
-    <div class="tier-comparison">
-        <div class="tier">
-            <h3>Community (Free)</h3>
-            <ul>
-                <li>DNA Codex threat intelligence</li>
-                <li>Research papers and case studies</li>
-                <li>Conceptual frameworks</li>
-                <li>Basic demonstrations</li>
-            </ul>
-            <a href="https://github.com/Feirbrand/forgeos-public">Browse Free Content →</a>
+    <header>
+        <div class="container">
+            <h1>ForgeOS</h1>
+            <p class="subtitle">Professional AI Resilience Framework</p>
         </div>
-        
-        <div class="tier professional">
-            <h3>Professional ($99+/month)</h3>
-            <ul>
-                <li>Production implementations</li>
-                <li>Complete Phoenix & SLV frameworks</li>
-                <li>Advanced diagnostic tools</li>
-                <li>Enterprise protocols</li>
-            </ul>
-            <a href="https://github.com/Feirbrand/forgeos-professional">Subscribe Now →</a>
+    </header>
+    
+    <section class="upgrade-banner">
+        <div class="container">
+            <div class="upgrade-content">
+                <div class="upgrade-text">
+                    <h2>Production Tools Available</h2>
+                    <p>Complete implementations, advanced protocols, and enterprise-grade tools</p>
+                </div>
+                <a href="https://github.com/Feirbrand/forgeos-professional" class="btn">Get Professional Access</a>
+            </div>
         </div>
-    </div>
+    </section>
     
-    <h2>Research Areas</h2>
-    <ul>
-        <li><a href="dna-codex/">DNA Codex - Threat Intelligence</a></li>
-        <li><a href="vulnerability-research/">Vulnerability Research</a></li>
-        <li><a href="whitepapers/">Academic Papers</a></li>
-        <li><a href="architectural-frameworks/">Framework Documentation</a></li>
-    </ul>
+    <section class="tiers">
+        <div class="container">
+            <h2 style="text-align: center; margin-bottom: 20px;">Choose Your Access Level</h2>
+            <div class="tiers-grid">
+                <div class="tier">
+                    <h3>Community</h3>
+                    <p><strong>Free</strong></p>
+                    <ul>
+                        <li>DNA Codex threat intelligence</li>
+                        <li>Research papers and case studies</li>
+                        <li>Conceptual frameworks</li>
+                        <li>Basic demonstrations</li>
+                    </ul>
+                    <a href="#content" class="btn" style="background: #6c757d;">Browse Free Content</a>
+                </div>
+                
+                <div class="tier professional">
+                    <h3>Professional</h3>
+                    <p><strong>$99+/month</strong></p>
+                    <ul>
+                        <li>Production implementations</li>
+                        <li>Complete Phoenix & SLV frameworks</li>
+                        <li>Advanced diagnostic tools</li>
+                        <li>Enterprise protocols</li>
+                        <li>Priority support</li>
+                    </ul>
+                    <a href="https://github.com/Feirbrand/forgeos-professional" class="btn">Subscribe Now</a>
+                </div>
+            </div>
+        </div>
+    </section>
     
-    <footer style="margin-top: 40px; text-align: center; color: #586069;">
-        <p>© 2025 Aaron Slusher, ValorGrid Solutions</p>
+    <section id="content">
+        <div class="container">
+            <div class="content-grid">
+                <div class="content-card">
+                    <h3>DNA Codex</h3>
+                    <p>Comprehensive AI threat intelligence database with 525+ documented variants and attack patterns.</p>
+                    <a href="dna-codex/">Explore Threats →</a>
+                </div>
+                
+                <div class="content-card">
+                    <h3>Vulnerability Research</h3>
+                    <p>Advanced security analysis, case studies, and documented vulnerability incidents.</p>
+                    <a href="vulnerability-research/">View Research →</a>
+                </div>
+                
+                <div class="content-card">
+                    <h3>White Papers</h3>
+                    <p>Academic publications on AI security, cognitive engineering, and defensive frameworks.</p>
+                    <a href="whitepapers/">Read Papers →</a>
+                </div>
+                
+                <div class="content-card">
+                    <h3>Frameworks</h3>
+                    <p>System design methodologies, recovery protocols, and architectural patterns.</p>
+                    <a href="architectural-frameworks/">View Frameworks →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Aaron Slusher, ValorGrid Solutions</p>
+        </div>
     </footer>
 </body>
 </html>
