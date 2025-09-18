@@ -21,7 +21,7 @@
         }
         
         header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #001f3f 0%, #003366 100%);
             color: white;
             padding: 80px 0;
             text-align: center;
@@ -54,23 +54,26 @@
         }
         
         .upgrade-text h2 {
-            color: #0366d6;
+            color: #001f3f;
             margin-bottom: 0.5rem;
         }
         
         .btn {
             display: inline-block;
-            background: #0366d6;
+            background: #001f3f;
             color: white;
             padding: 12px 24px;
             border-radius: 6px;
             text-decoration: none;
             font-weight: 500;
-            transition: background 0.2s;
+            transition: all 0.2s;
+            border: 2px solid #001f3f;
         }
         
         .btn:hover {
-            background: #0256cc;
+            background: #FFD700;
+            color: #001f3f;
+            border-color: #FFD700;
         }
         
         .tiers {
@@ -93,8 +96,9 @@
         }
         
         .tier.professional {
-            border: 2px solid #0366d6;
+            border: 2px solid #FFD700;
             position: relative;
+            background: linear-gradient(135deg, #ffffff 0%, #fffef7 100%);
         }
         
         .tier.professional::before {
@@ -103,8 +107,8 @@
             top: -10px;
             left: 50%;
             transform: translateX(-50%);
-            background: #0366d6;
-            color: white;
+            background: #FFD700;
+            color: #001f3f;
             padding: 5px 15px;
             border-radius: 15px;
             font-size: 0.8rem;
@@ -157,17 +161,18 @@
         }
         
         .content-card h3 {
-            color: #0366d6;
+            color: #001f3f;
             margin-bottom: 15px;
         }
         
         .content-card a {
-            color: #0366d6;
+            color: #001f3f;
             text-decoration: none;
             font-weight: 500;
         }
         
         .content-card a:hover {
+            color: #FFD700;
             text-decoration: underline;
         }
         
