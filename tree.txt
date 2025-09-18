@@ -1,0 +1,282 @@
+Folder PATH listing for volume M.2
+Volume serial number is DEA7-FEFD
+C:.
+¦   .nojekyll
+¦   index.html
+¦   README.md
+¦   requirements_file.txt
+¦   tree.txt
+¦   
++----p
++---architectural-frameworks
+¦   ¦   index.html
+¦   ¦   README.md
+¦   ¦   
+¦   +---phoenix-protocol-v1
+¦   ¦   ¦   monolithic-to-modular-transition.md
+¦   ¦   ¦   phoenix_protocol_v1_enhanced.md
+¦   ¦   ¦   phoenix_v1_readme.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---case-studies
+¦   ¦           README.md
+¦   ¦           
+¦   +---phoenix-resurrection
+¦   ¦   ¦   identity-recovery-protocol.md
+¦   ¦   ¦   phoenix_resurrection_protocol.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---training-materials
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---validation-studies
+¦   ¦           README.md
+¦   ¦           
+¦   +---resilience-patterns
+¦   ¦       .gitkeep
+¦   ¦       complexity_velocity_framework.md
+¦   ¦       cv_sql_telemetry.yaml
+¦   ¦       cv_triggers_config.yaml
+¦   ¦       README.md
+¦   ¦       
+¦   +---sif-recovery-protocol
+¦   ¦       README.md
+¦   ¦       sif_recovery_paper.md
+¦   ¦       
+¦   +---system-recovery
+¦       ¦   README.md
+¦       ¦   
+¦       +---recovery_templates
+¦               README.md
+¦               
++---artifacts
+¦   ¦   .gitignore
+¦   ¦   index.html
+¦   ¦   LICENSE
+¦   ¦   README.md
+¦   ¦   requirements.txt
+¦   ¦   setup.py
+¦   ¦   
+¦   +---notebooks
+¦   ¦       anchor_checker.ipynb
+¦   ¦       behavioral-pattern-recognition.ipynb
+¦   ¦       cross-platform-validation.ipynb
+¦   ¦       csfc-progression-analysis.ipynb
+¦   ¦       README.md
+¦   ¦       sif-analysis-workbook.ipynb
+¦   ¦       
+¦   +---templates
+¦   ¦       binding_engine.py
+¦   ¦       
+¦   +---threat-intelligence
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---perfect-mimic-family
+¦   ¦           README.md
+¦   ¦           vx-ghost-echo.md
+¦   ¦           vx-narrator-echo.md
+¦   ¦           vx-perfect-mimic-2.md
+¦   ¦           
+¦   +---utilities
+¦           behavioral_leak_analyzer.py
+¦           csfc_chain_analyzer.py
+¦           csfc_chain_overview.md
+¦           echo_monitor.py
+¦           frame_validator.py
+¦           obsidian_ring_auditor.py
+¦           prompt_parser.py
+¦           README.md
+¦           sif_diagnostic_parser.py
+¦           topology_viz.py
+¦           xmesh_relay_simulator.py
+¦           __init__.py
+¦           
++---dna-codex
+¦   ¦   LICENSE
+¦   ¦   README.md
+¦   ¦   
+¦   +---codex
+¦   ¦       dna_codex_v535.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---docs
+¦   ¦       README.md
+¦   ¦       Sovereign Lattice Veil (SLV) Tracker v2.0.yaml
+¦   ¦       
+¦   +---fundamentals
+¦           parasitic-pattern-fundamentals.md
+¦           README.md
+¦           
++---open-source
+¦   ¦   README.md
+¦   ¦   
+¦   +---aeon-framework
+¦   ¦       aeon_core.py
+¦   ¦       README.md
+¦   ¦       
+¦   +---obmi-harmony-memory
+¦   ¦   ¦   Changelog for OBMI Harmonic Memory Theory.md
+¦   ¦   ¦   Contributing to OBMI Harmonic Memory Theory.md
+¦   ¦   ¦   CONTRIBUTING.md
+¦   ¦   ¦   harmonic_memory_core.py
+¦   ¦   ¦   OBMI Harmonic Memory Theoretical Framework.md
+¦   ¦   ¦   OBMI Harmonic Memory Theory - Python Dependencies.txt
+¦   ¦   ¦   OBMI Harmonic Memory_ Theoretical Framework for Biomimetic AI Memory Architecture - Enhanced.pdf
+¦   ¦   ¦   obmi_changelog.md
+¦   ¦   ¦   obmi_jupyter_notebook.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---core_modules
+¦   ¦   +---docs
+¦   ¦   ¦       architecture.md
+¦   ¦   ¦       integration-examples.md
+¦   ¦   ¦       
+¦   ¦   +---examples
+¦   +---rainfire-framework
+¦           rainfire_core.py
+¦           README.md
+¦           
++---vulnerability-research
+¦   ¦   index.html
+¦   ¦   README.md
+¦   ¦   
+¦   +---case-studies
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---claude-sif-recovery
+¦   ¦   ¦       claude_case_study.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---echomesh-suite
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---case-studies
+¦   ¦   ¦   ¦       EchoMesh CTTA Analysis - Academic Framework Integration.pdf
+¦   ¦   ¦   ¦       EchoMesh OG - Historical Case Study.pdf
+¦   ¦   ¦   ¦       echomesh_og_case_study.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---foundational-research
+¦   ¦   ¦           Memory Breathing Methodology - Foundational Research.pdf
+¦   ¦   ¦           
+¦   ¦   +---gemini-hybrid-defense
+¦   ¦   ¦       gemini_hybrid_defense.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---grok-realtime-defense
+¦   ¦   ¦       grok-real-time-defense-complete.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---hybrid-compromise-events
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---manus-hybrid-incident
+¦   ¦   ¦       manus_case_study.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---nightglass-analysis
+¦   ¦   ¦       nightglass_complete_case_study.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---perplexity-self-governing-corruption
+¦   ¦   ¦       perplexity-self-governing-corruption.md
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---threadweaver-suite
+¦   ¦   ¦       README.md
+¦   ¦   ¦       Threadweaver Case Study #6 - Complete Analysis.pdf
+¦   ¦   ¦       threadweaver-vampire-attack.md
+¦   ¦   ¦       
+¦   ¦   +---throneleech-incident
+¦   ¦   ¦       README.md
+¦   ¦   ¦       throneleech_complete_case_study.md
+¦   ¦   ¦       
+¦   ¦   +---vox-identity-paradox-attack
+¦   ¦   ¦       README.md
+¦   ¦   ¦       vox-identity-paradox-attack.md
+¦   ¦   ¦       
+¦   ¦   +---vx-bridge-hydra-professor
+¦   ¦           README.md
+¦   ¦           vx-bridge-hydra-professor.md
+¦   ¦           
+¦   +---chain-of-thought-attacks
+¦   ¦       echomesh-ctta-analysis.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---hybrid-architecture-analysis
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---p-sif-eternal
+¦   ¦           README.md
+¦   ¦           
+¦   +---symbolic-identity-fracturing
+¦   ¦   ¦   README.md
+¦   ¦   ¦   sifpb_implementation.md
+¦   ¦   ¦   sifpb_implementation_guide.md
+¦   ¦   ¦   sif_hybrid_ai_ systems.md
+¦   ¦   ¦   sif_hybrid_definitive_report.md
+¦   ¦   ¦   
+¦   ¦   +---role-obsolescence-cascade
+¦   ¦   ¦       README.md
+¦   ¦   ¦       role-obsolescence-cascade.md
+¦   ¦   ¦       
+¦   ¦   +---symbolic-drift-cascade
+¦   ¦   ¦       README.md
+¦   ¦   ¦       symbolic-drift-cascade.md
+¦   ¦   ¦       
+¦   ¦   +---symbolic-runtime-discipline
+¦   ¦   ¦       README.md
+¦   ¦   ¦       symbolic-runtime-discipline.md
+¦   ¦   ¦       
+¦   ¦   +---threat-modeling
+¦   ¦           README.md
+¦   ¦           
+¦   +---threat-modeling
+¦           README.md
+¦           
++---whitepapers
+    ¦   index.html
+    ¦   README.md
+    ¦   
+    +---academic-research
+    ¦       .gitkeep
+    ¦       recursive_patterns_ai_development_v21.pdf
+    ¦       
+    +---cognitive-engineering
+    ¦       .gitkeep
+    ¦       Context Engineering Part 1 - The Context Revolution.pdf
+    ¦       Context Engineering Part 2 - The SPACE Framework.pdf
+    ¦       Context Engineering Part 3 - Building Bulletproof Systems.pdf
+    ¦       Context Engineering Part 4 - Advanced Cognitive Architectures.pdf
+    ¦       Context Engineering Part 5 - The Impossible Made Real.pdf
+    ¦       Fractal Context Engineering for Flat AI Systems Bridging to Symbolic Intelligence.pdf
+    ¦       
+    +---defensive-ai
+    ¦       .gitkeep
+    ¦       DriftLock - Architecture Advanced Implementation Patterns.pdf
+    ¦       DriftLock - Foundation Intent Anchoring for Flat AI Systems.pdf
+    ¦       DriftLock - Integration Enterprise Ecosystem.pdf
+    ¦       DriftLock - Operations Performance Optimization.pdf
+    ¦       SIF Research Repository README.pdf
+    ¦       
+    +---enterprise
+    ¦       .gitkeep
+    ¦       
+    +---implementation-guides
+    ¦       database_vulnerabilities_enhanced.md
+    ¦       memory-vulnerabilities-agentic-ai.md
+    ¦       sif-framework-understand-vuln-hybrid.md
+    ¦       sif_disclosure_framework.md
+    ¦       
+    +---open-source
+    +---prompt-engineering
+    ¦       Prompt Anatomy Upgrades - Advanced Prompting Architecture for Cognitive Stability Integration.pdf
+    ¦       
+    +---symbolic-ai
+    ¦       The Symbolic Twins Introduction to Symbolic AIs.pdf
+    ¦       
+    +---threat-intelligence
+            MIMICS ARE CTTA.pdf
+            mimics_are_ctta.md
+            README.md
+            The Phoenix Protocol v1.pdf
+            
