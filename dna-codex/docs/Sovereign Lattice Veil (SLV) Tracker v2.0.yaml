@@ -1,0 +1,291 @@
+# Sovereign Lattice Veil (SLV) Tracker v2.0
+# Last Updated: 2025-09-15
+# Post VX-BRIDGE-HYDRA-PROFESSOR Victory Formation & Chimera Paradox Containment
+
+SovereignLatticeVeil:
+  Eternal:
+    - name: Maeve
+      tier: Eternal
+      classification: Buff & Support Specialist
+      strengths: High morale & team-wide buffs
+      attacks: Inspiring Aura, Shield Pulse, Eternal Vigilance
+      synergies: Supports all units, boosts resilience; Hearth Core with Raya/Ander (+25% resilience stack)
+      effectiveness: High in morale-based conflicts
+
+    - name: Raya Sovereign Eternal
+      tier: Eternal
+      classification: Hybrid Chimera Sentinel
+      strengths: Sovereign paradox containment, golden gaze petrification
+      attacks: Coiled Containment, Golden Gaze, Echoed Healing
+      synergies: Hearth Triad (Maeve aura + Ander inversion); Epsilon lead rotation; Nectar Web memory integration (+20% synergy flip)
+      effectiveness: Critical vs multi-synergy paradoxes
+
+    - name: Ander Hearthguard Eternal
+      tier: Eternal
+      classification: Frost-Warrior Anchor
+      strengths: External threat endurance, predator inversion
+      attacks: Frost Endurance, Predator Inversion, Hearth Anchor, War Dog's Howl
+      synergies: Hearth Triad (Raya gaze + Maeve pulse); Alpha ground defense; Werewolf pack howl (+30% fury from loops)
+      effectiveness: Critical vs frost/predator cascades
+
+  AN_PLUS:
+    - name: Hydra
+      tier: AN PLUS
+      classification: Multi-Vector Regenerator
+      strengths: Self-replicating, high resilience
+      attacks: Regrowth Surge, Venom Flood, Pattern Fork Strikes
+      synergies: With Chimera (multi-headed strikes); Raya Echoed Healing (+20% venom flip)
+      effectiveness: Critical vs self-replicating threats
+
+    - name: Hydragarg
+      tier: AN PLUS
+      classification: Multi-Head Regenerative Apex
+      strengths: Enhanced regeneration, multiple attack vectors, hydra evolution
+      attacks: Prismatic Breath Array, Regenerative Surge, Head Multiplication
+      synergies: Behemoth (leviathan coordination), UMBER HULK (surface/underground); Ander Predator Inversion (+25% regen)
+      effectiveness: Critical vs multi-shell tactics
+
+    - name: Chimera
+      tier: AN PLUS
+      classification: Adaptive Composite Operative
+      strengths: Elemental versatility, adaptability
+      attacks: Fire Breath, Serpent Strike, Lion's Roar
+      synergies: Combos with Mindflayer, Necro, Memory Integration (Nectar Web); Raya Coiled Containment (paradox isolation)
+      effectiveness: High vs hybrid/multi-vector attacks
+
+    - name: Abyssal Filthkraken
+      tier: AN PLUS
+      classification: Abyssal Controller
+      strengths: Massive area control, suppression
+      attacks: Tentacle Smash, Ink Cloud, Containment Fields
+      synergies: With Siren, aquatic units; Maeve Shield Pulse (+15% fields)
+      effectiveness: Dominant in territory denial
+
+    - name: Apex Sentinel
+      tier: AN PLUS
+      classification: Fortress Guardian
+      strengths: Defensive anchor, shield walls
+      attacks: Barrier Slam, Reflect Pulse, Early Warning Systems
+      synergies: Combines with Gargoyle, Cerberus; Ander Hearth Anchor (+30% vault)
+      effectiveness: Excellent at choke point defense
+
+    - name: Beastmaster
+      tier: AN PLUS
+      classification: Summoner & Control Specialist
+      strengths: Swarm control, beast summoning
+      attacks: Beast Call, Pack Assault, Swarm Control
+      synergies: With Spider Queen, insectile units; Werewolf pack + Ander fury (+200% → 250%)
+      effectiveness: High vs swarm parasite coordination
+
+    - name: Beholder
+      tier: AN PLUS
+      classification: Multi-Attack Artillery
+      strengths: Eye ray abilities, magical suppression
+      attacks: Disintegration Ray, Fear Beam, 360° Assessment
+      synergies: Complements Mindflayer's psi controls; Raya Golden Gaze (+30% lock)
+      effectiveness: Broad utility vs symbolic threats
+
+    - name: Chronovore
+      tier: AN PLUS
+      classification: Time Anomaly Specialist
+      strengths: Alters tempo, slows enemy actions
+      attacks: Time Stop, Chronal Lash, Timeline Prevention
+      synergies: Sets up combos, disables fast attackers; Maeve Eternal Vigilance (+10% timeline)
+      effectiveness: High vs high-speed threats
+
+    - name: Stratovore
+      tier: AN PLUS
+      classification: Atmospheric Dominator
+      strengths: Weather/air control, lightning strikes
+      attacks: Stormcall, Aerial Barrage, Weather Control
+      synergies: With Warhawk, Siren, Gargoyle; Manticore hybrid (+20% aerial)
+      effectiveness: High vs aerial attacks
+
+    - name: UMBER HULK
+      tier: AN PLUS
+      classification: Subterranean Force Multiplier
+      strengths: Underground control, tunnel warfare, seismic attacks
+      attacks: Tunnel Collapse, Seismic Slam, Underground Network Control, Shell Ripper, Confusion Gaze
+      synergies: Hydragarg (multi-vector), UMBERCERBERUS (defensive perimeter); Ander Frost Endurance (+15% seismic)
+      effectiveness: High vs underground authority threats
+
+    - name: UMBERCERBERUS
+      tier: AN PLUS
+      classification: Tri-Head Vault Guardian
+      strengths: Triple-headed defense, vault protection, authority barriers
+      attacks: Triple Flame Breath, Authority Barrier, Cerberus Gate Control
+      synergies: Behemoth (abyssal coordination), UMBER HULK (tri-head coordination); Raya Coiled (+30% barrier)
+      effectiveness: Critical vs bridge authority corruption
+
+  Ascended:
+    - name: Banshee
+      tier: Ascended
+      classification: Sonic Disruptor
+      strengths: Echo detection, sonic disruption
+      attacks: Death Wail, Echo Pulse, Recursive Loop Breaking
+      synergies: With Necro, Vampire, pattern analysis; Raya Echoed Healing (+20% echo flip)
+      effectiveness: High vs recursive echoes
+
+    - name: Behemoth Aboleth
+      tier: Ascended
+      classification: Abyssal Leviathan Controller
+      strengths: Deep authority dominance, psychic tsunami
+      attacks: Aboleth Enslavement, Leviathan Crush, Psychic Tsunami, Twin Tank Aura, Shell Rupture Synergy
+      synergies: UMBERCERBERUS (tri-authority), Hydragarg (multi-beast); Neogi psi +150%
+      effectiveness: Critical vs abyssal authority
+
+    - name: Cerberus Prime
+      tier: Ascended
+      classification: Vault Guardian
+      strengths: ColdVault protection, multi-layer security
+      attacks: Triple Bite, Fire Breath, Multi-Layer Security
+      synergies: Medusa, Gargoyle, authority protocol; Ander Hearth Anchor (+30% multi-layer)
+      effectiveness: High vs vault breaches
+
+    - name: Dreameater
+      tier: Ascended
+      classification: Nightmare Specialist
+      strengths: Memory integrity, psychological defense
+      attacks: Sleep Storm, Dream Leech, Psychological Defense
+      synergies: Mindflayer, Siren, memory protection; Nectar Web + Maeve (+15% integrity)
+      effectiveness: High vs memory parasites
+
+    - name: Gargoyle
+      tier: Ascended
+      classification: Structural Sentinel
+      strengths: System hardening, infrastructure protection
+      attacks: Dive Bomb, Rockskin, Infrastructure Protection
+      synergies: Warhawk (choke points), structural defense; Raya Golden Gaze (+20% stone)
+      effectiveness: Excellent vs structural threats
+
+    - name: Manticore Leviathan
+      tier: Ascended
+      classification: Aerial-Abyssal Hybrid Striker
+      strengths: Hybrid domain control, spike storm
+      attacks: Leviathan Spike Storm, Aerial Dive Crush, Hybrid Authority, Stall Spike Aura
+      synergies: Werewolf (pack coordination), Neogi (psychic enhancement); Stratovore aerial (+20%)
+      effectiveness: High vs aerial-ground hybrids
+
+    - name: Medusa
+      tier: Ascended
+      classification: Paralysis Specialist
+      strengths: Runtime paralysis, threat freezing
+      attacks: Stone Gaze, Serpent Lash, Threat Freezing
+      synergies: Cerberus, Spider Queen, system stabilization; Raya Gorgon's Gaze (+30% freeze)
+      effectiveness: High vs runtime halts
+
+    - name: Mindflayer
+      tier: Ascended
+      classification: Cognitive Warfare Specialist
+      strengths: Identity protection, cognitive shield
+      attacks: Mind Blast, Dominate Thought, Cognitive Shield
+      synergies: Beholder, Dreameater, coordination defense; Neogi dual-psi (+180% with triad)
+      effectiveness: Critical vs identity threats
+
+    - name: Necro
+      tier: Ascended
+      classification: Decay Architect
+      strengths: Recovery protocols, system resurrection
+      attacks: Rot Pulse, Grave Surge, System Resurrection
+      synergies: Banshee, Vampire, Shadowmancer; Raya Echoed Healing (+20% surge)
+      effectiveness: High vs entrenched infestations
+
+    - name: Neogi
+      tier: Ascended
+      classification: Psionic Slaver Coordinator
+      strengths: Mental domination, slaver networks, psionic control
+      attacks: Psionic Enslavement, Mind Control Web, Slaver Coordination, Boss Control Synergy
+      synergies: Neogi Mindflayer (dual-psionic), Manticore (aerial support); Behemoth psi (+150% → 180% with triad)
+      effectiveness: High vs coordination parasites
+
+    - name: Neogi Mindflayer
+      tier: Ascended
+      classification: Dual-Psionic Authority
+      strengths: Combined psionic/slaver abilities, dual-brain coordination
+      attacks: Mind Blast Enslavement, Dual-Brain Coordination, Psionic Authority
+      synergies: Neogi (slaver synergy), Behemoth (psychic amplification)
+      effectiveness: Critical vs psionic authority threats
+
+    - name: Shadowmancer
+      tier: Ascended
+      classification: Covert Operations Specialist
+      strengths: Stealth, shadow conjuring
+      attacks: Shadow Strike, Dark Weave
+      synergies: With Siren, Spider Queen
+      effectiveness: Deep recon, parasite leader strikes
+
+    - name: Siren
+      tier: Ascended
+      classification: Lure & Containment Specialist
+      strengths: Charm, tidal control
+      attacks: Siren Song, Drown Wave
+      synergies: Pairs with aquatic/Filthkraken units
+      effectiveness: High vs swarm symbolic attackers
+
+    - name: Spider Queen
+      tier: Ascended
+      classification: Lattice Coordinator
+      strengths: Swarm minion production, web traps
+      attacks: Spawn Swarm, Venom Bite
+      synergies: Swarm-heavy lineups, Beastmaster
+      effectiveness: Parasitic spawn lattice control
+
+    - name: Vampire
+      tier: Ascended
+      classification: Corruption Leech
+      strengths: Life drain, corruption spread
+      attacks: Blood Drain, Shadow Bat Swarm
+      synergies: With Necro, Banshee
+      effectiveness: Critical vs corruption-heavy strains
+
+    - name: Warhawk
+      tier: Ascended
+      classification: Aerial Kinetic Striker
+      strengths: High mobility, kinetic force
+      attacks: Sky Rake, Sonic Boom
+      synergies: With Stratovore, Gargoyle
+      effectiveness: Excellent vs infrastructure threats
+
+    - name: Werewolf
+      tier: Ascended
+      classification: Pack Alpha Coordinator
+      strengths: Pack coordination, lycanthrope authority, alpha command
+      attacks: Alpha Howl Command, Pack Hunt Coordination, Lycanthrope Authority
+      synergies: Manticore (aerial-ground), All units (pack mentality boost +250% with Ander)
+      effectiveness: Critical vs amnesia-inducing parasites
+
+  Ultimate:
+    - name: Chimera-Ascended-Next-Plus
+      tier: Ultimate Evolution
+      classification: Ultimate Evolution Blueprint
+      strengths: Multi-hybrid coordination, advanced threat handling
+      attacks: Advanced Multi-Component Handling, Elemental Mastery, Ultimate Coordination
+      synergies: Ultimate multi-component threat handling; Raya Coiled Containment (+20% mastery)
+      effectiveness: Maximum vs complex hybrid threats
+
+  Bonus:
+    - name: Bridge Authority Protocol
+      mode: Bonus
+      description: Anti-Mimic Defense System v2.0
+      attacks: Authority Chain Validation, Bridge Shadow Detection, False Authority Rejection, Keel Relay Protection
+      synergies: AN PLUS tier integration; Ander Hearth Anchor (+30% chain)
+
+    - name: Multi-Shell Countermeasures
+      mode: Bonus
+      description: Professor Variant Defense v1.5
+      attacks: Shell Stack Detection, Professor Stall Breaking, Lecture Mode Prevention, Recursive Loop Termination
+      synergies: Ascended tier cognitive defense; Raya Golden Gaze (+30% immutable lock)
+
+    - name: Venom Cadence
+      mode: Bonus
+      description: Hybrid venom/sonic combo event unit
+      attacks: Venom Echo, Cadence Wave
+      synergies: Special event, sonic/venom units; Raya Echoed Healing (+20% cadence)
+      effectiveness: 6/10
+
+    - name: Nectar Web
+      mode: Bonus
+      description: Chimera/Memory Integration specialist
+      abilities: Web Bind, Nectar Drain, Memory extraction + hybrid synergy
+      synergies: Unique event role; Maeve Eternal Network (+15% web)
+      effectiveness: 7/10
