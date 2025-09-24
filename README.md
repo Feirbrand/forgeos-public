@@ -58,7 +58,7 @@ Advanced Study: **Symbolic Identity Fracturing** - Critical security research on
 ### For Developers
 Start Here: **Architectural Frameworks** - Working resilience implementations  
 Clone and Test: `git clone https://github.com/Feirbrand/forgeos-public.git`  
-Quick Demo: `python whitepapers/teasers/torque_calc.py`  
+Quick Demo: `python artifacts/utilities/torque-calc.py`  
 Integration: See framework documentation for API usage and deployment guides  
 
 ### For Security Teams
