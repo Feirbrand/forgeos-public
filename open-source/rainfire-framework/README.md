@@ -218,4 +218,6 @@ For implementation questions or integration support, contact: aaron@valorgridsol
 
 ---
 
+*This module is a public artifact of the RainFire Framework for cognitive AI operations. For pro/enterprise features, see forgeos-professional.*
+
 *Part of the ForgeOS Research Initiative - Building reliable AI systems through systematic cognitive architecture.*
