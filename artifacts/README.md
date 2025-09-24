@@ -1,4 +1,3 @@
-# Artifacts - Production Tools Available in Professional Tier
-Public tier contains demonstrations and threat intelligence.
-Production diagnostic tools, analyzers, and implementation templates available with subscription.
-[Access professional implementations →](subscription-link)
+# Artifacts
+This folder contains data, notebooks, and sample artifacts.
+For full production assets and datasets, upgrade to forgeos-professional.

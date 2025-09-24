@@ -1,8 +1,7 @@
 Folder PATH listing for volume M.2
 Volume serial number is DEA7-FEFD
-C:\USERS\FEIRB\FORGEOS-PUBLIC
+C:.
 |   .nojekyll
-|   current_tree.txt
 |   index.html
 |   README.md
 |   requirements_file.txt

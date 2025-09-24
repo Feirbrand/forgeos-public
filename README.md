@@ -22,6 +22,13 @@ This repository contains:
 - **Enterprise Protocols** - Battle-tested defense and recovery systems
 - **Professional Support** - Priority assistance and consulting
 
+## Public Content Surge Plan
+This repo features teaser whitepapers, code, and research samples.  
+- 7 long-form articles (Medium/Substack, see teasers/)
+- 10+ code/tests/excerpts (teasers/, dna-codex/, case-studies/)
+- Case study collection (case-studies/)
+Upgrade for full clone: forgeos-professional.
+
 ## Quick Links
 
 - [DNA Codex](dna-codex/) - AI threat intelligence database
