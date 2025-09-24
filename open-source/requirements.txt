@@ -1,0 +1,12 @@
+# Requirements for ForgeOS Open Source Frameworks
+
+# RainFire Framework dependencies
+networkx>=3.0
+numpy>=1.20.0
+
+# AEON Framework dependencies  
+numpy>=1.20.0
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.5.0
+scipy>=1.8.0
