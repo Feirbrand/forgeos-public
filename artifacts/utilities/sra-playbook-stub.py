@@ -1,0 +1,1 @@
+SRD purge: 47% reduction
