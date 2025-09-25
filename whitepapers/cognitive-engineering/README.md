@@ -24,7 +24,11 @@
 
 \## Table of Contents
 
+
+
 \- \[Division Overview](#division-overview)
+
+\- \[Research Focus Areas](#research-focus-areas)
 
 \- \[Research Portfolio](#research-portfolio)
 
@@ -46,9 +50,7 @@
 
 \- \[Classification System](#classification-system)
 
-\- \[Author](#author)
-
-\- \[About ValorGrid Solutions](#about-valorgrid-solutions)
+\- \[Contact \& Support](#contact--support)
 
 
 
@@ -60,7 +62,7 @@ The Cognitive Engineering Division develops systematic methodologies for AI cogn
 
 
 
-\### Research Focus Areas
+\## Research Focus Areas
 
 
 
@@ -428,13 +430,15 @@ A: ValorGrid Solutions provides comprehensive implementation services, training 
 
 
 
-Contact \& Support
+\## Contact \& Support
 
-Research Inquiries: aaron@valorgridsolutions.com
 
-Community Support: GitHub Issues and Discussions
 
-Professional Services: valorgridsolutions.com
+\*\*Research Inquiries\*\*: aaron@valorgridsolutions.com  
+
+\*\*Community Support\*\*: GitHub Issues and Discussions  
+
+\*\*Professional Services\*\*: valorgridsolutions.com
 
 
 
