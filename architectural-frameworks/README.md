@@ -17,6 +17,28 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 
 ---
 
+## Contents
+
+```
+architectural-frameworks/
+├── README.md               # Master: Table overviews, ties to Torque/URA/CSFC
+├── phoenix-protocol-v1/    # Keep: Updated README + case-studies/teaser
+│   ├── README.md
+│   └── case-studies/
+│       ├── phoenix-cascade-prevention.md
+│       └── README.md
+├── phoenix-resurrection.md # Merged: Standalone from old README (no subs)
+├── resilience-patterns/    # Keep: Updated README + teaser/stub
+│   ├── README.md
+│   ├── recursive-patterns-teaser.md
+│   └── recursive-gains-stub.py  # New stub for enticement
+└── sif-recovery-protocol/  # Keep: Updated README + teaser
+    ├── README.md
+    └── sif-torque-healing.md   # New teaser
+```
+
+---
+
 ## Framework Portfolio
 
 ### Phoenix Protocol v1 - Recovery Protocols
@@ -104,7 +126,7 @@ We provide comprehensive AI architecture framework services through **ValorGrid 
 
 **Website**: [valorgridsolutions.com](https://valorgridsolutions.com)  
 **Contact**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)  
-**GitHub**: `@Feirbrand/forgeos-public`
+**GitHub**: [@Feirbrand/forgeos-public](https://github.com/Feirbrand/forgeos-public)
 
 ### Service Areas
 
