@@ -43,7 +43,7 @@ whitepapers/
 ├── symbolic-ai/                   # Twins Systems Thinking Research
 │   ├── The Symbolic Twins Introduction to Symbolic AIs.pdf # Dual-core polarity systems
 │   └── twins-systems-thinking.md   # Dual-core integration with feedback loops
-└── teasers/                       # Implementation Samples & Code Previews  
+└── examples/                       # Implementation Samples & Code Previews  
     ├── torque_teaser.md           # 87% correlation demonstration
     ├── torque_calc.py             # Basic torque measurement implementation
     ├── drift_test.py              # Real-time drift detection testing
