@@ -1,0 +1,157 @@
+Folder PATH listing for volume M.2
+Volume serial number is DEA7-FEFD
+C:.
+¦   .nojekyll
+¦   index.html
+¦   mit_license.txt
+¦   README.md
+¦   requirements_file.txt
+¦   tree.txt
+¦   
++---architectural-frameworks
+¦   ¦   index.html
+¦   ¦   README.md
+¦   ¦   
+¦   +---phoenix-protocol-v1
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---case-studies
+¦   ¦           phoenix_cascade_prevention.md
+¦   ¦           README.md
+¦   ¦           
+¦   +---phoenix-resurrection
+¦   ¦       phoenix_resurrection_standalone.md
+¦   ¦       
+¦   +---resilience-patterns
+¦   ¦       README.md
+¦   ¦       recursive_gains_stub.py
+¦   ¦       recursive_patterns_teaser.md
+¦   ¦       
+¦   +---sif-recovery-protocol
+¦           README.md
+¦           sif_torque_healing.md
+¦           
++---artifacts
+¦   ¦   .gitignore
+¦   ¦   index.html
+¦   ¦   LICENSE
+¦   ¦   README.md
+¦   ¦   requirements.txt
+¦   ¦   
+¦   +---notebooks
+¦   ¦       behavioral-pattern-recognition.ipynb
+¦   ¦       cross-platform-validation.ipynb
+¦   ¦       drift-detection.ipynb
+¦   ¦       handoff-stub.ipynb
+¦   ¦       README.md
+¦   ¦       torque-healing-sim.ipynb
+¦   ¦       vx-ghost-echo-sim.ipynb
+¦   ¦       
+¦   +---threat-intelligence
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---perfect-mimic-family
+¦   ¦           README.md
+¦   ¦           vx-ghost-echo.md
+¦   ¦           vx-narrator-echo.md
+¦   ¦           vx-perfect-mimic-2.md
+¦   ¦           
+¦   +---utilities
+¦           csfc_chain_overview.md
+¦           obmi-harmony-stub.py
+¦           sif-check.py
+¦           sra-playbook-stub.py
+¦           torque-calc.py
+¦           
++---dna-codex
+¦   ¦   LICENSE
+¦   ¦   README.md
+¦   ¦   
+¦   +---codex
+¦   ¦       dna_codex_v535.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---docs
+¦   ¦       fractal-dominate-chaos-teaser.md
+¦   ¦       README.md
+¦   ¦       symbolic-defense-teaser.md
+¦   ¦       systems-thinking-tree.md
+¦   ¦       
+¦   +---fundamentals
+¦           parasitic-pattern-fundamentals.md
+¦           README.md
+¦           
++---open-source
+¦   ¦   README.md
+¦   ¦   
+¦   +---aeon-framework
+¦   ¦       aeon_core.py
+¦   ¦       README.md
+¦   ¦       
+¦   +---obmi-harmony-memory
+¦   ¦       biomimetic_concepts_md.md
+¦   ¦       csfc_tie_md.md
+¦   ¦       obmi_core_py.py
+¦   ¦       README.md
+¦   ¦       relay_sim_py.py
+¦   ¦       theory_overview_md.md
+¦   ¦       ura_integration_teaser_md.md
+¦   ¦       
+¦   +---rainfire-framework
+¦           rainfire_core.py
+¦           README.md
+¦           
++---vulnerability-research
+¦       meta_analysis_table.md
+¦       README.md
+¦       threat_teaser_stub.py
+¦       
++---whitepapers
+    ¦   index.html
+    ¦   README.md
+    ¦   
+    +---academic-research
+    ¦       .gitkeep
+    ¦       complete-ai-resilience-meta-analysis.md
+    ¦       csfc-unified-theory.md
+    ¦       fractal-architecture-ai-coaching.md
+    ¦       hallucination-symbolic-raw.md
+    ¦       performance-coach-ai-rewrite.md
+    ¦       phoenix-protocol-neural-recovery.md
+    ¦       README.md
+    ¦       recursive_patterns_ai_development_v21.pdf
+    ¦       symbolic-hybrid-defense-teaser.md
+    ¦       systems-thinking-architecture.md
+    ¦       torque-quantitative-foundation.md
+    ¦       vgs-gaming-validation.md
+    ¦       
+    +---cognitive-engineering
+    ¦       .gitkeep
+    ¦       Context Engineering Part 1 - The Context Revolution.pdf
+    ¦       Context Engineering Part 2 - The SPACE Framework.pdf
+    ¦       Context Engineering Part 3 - Building Bulletproof Systems.pdf
+    ¦       Context Engineering Part 4 - Advanced Cognitive Architectures.pdf
+    ¦       Context Engineering Part 5 - The Impossible Made Real.pdf
+    ¦       Fractal Context Engineering for Flat AI Systems Bridging to Symbolic Intelligence.pdf
+    ¦       obmi-harmony-teaser.md
+    ¦       
+    +---enterprise
+    ¦       .gitkeep
+    ¦       
+    +---implementation-guides
+    ¦       .gitkeep
+    ¦       
+    +---symbolic-ai
+    ¦       The Symbolic Twins Introduction to Symbolic AIs.pdf
+    ¦       twins-systems-thinking.md
+    ¦       
+    +---teasers
+    ¦       drift_test.py
+    ¦       README.md
+    ¦       torque_cal.py
+    ¦       torque_teaser.md
+    ¦       
+    +---threat-intelligence
+            mimics_are_ctta.md
+            README.md
+            
