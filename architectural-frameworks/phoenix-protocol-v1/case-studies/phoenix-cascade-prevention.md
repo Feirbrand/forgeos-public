@@ -1,1 +1,0 @@
-Torque healing: 100% prevention tidbit
