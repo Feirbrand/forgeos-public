@@ -1,0 +1,120 @@
+# URA v1.5 Configuration Teaser
+# Unified Resilience Architecture - Basic Setup
+# ForgeOS Public Repository - Demonstration Configuration
+# Author: Aaron Slusher, ValorGrid Solutions
+# Date: September 25, 2025
+
+# TEASER NOTICE: Simplified configuration for demonstration
+# Full enterprise deployment requires professional implementation
+
+ura_config:
+  version: "1.5.0"
+  status: "teaser"
+  
+  # Core Framework Settings
+  framework:
+    torque_integration: true
+    torque_threshold: 0.15  # Basic drift detection threshold
+    csfc_support: true
+    phoenix_protocol: true
+    
+  # Performance Targets (Enterprise Validated)
+  performance:
+    target_accuracy: 82  # % accuracy improvement
+    speed_enhancement: 2.6  # Speed multiplier (2-6x range)
+    multimodal_support: true
+    cross_platform: true
+    
+  # Basic Monitoring (Simplified for Teaser)
+  monitoring:
+    drift_detection: "basic"
+    alert_threshold: 0.5
+    logging_level: "info"
+    
+  # Teaser Limitations
+  limitations:
+    real_time_monitoring: false
+    enterprise_dashboard: false
+    custom_integrations: false
+    advanced_ml_models: false
+    
+# Basic Detection Parameters
+detection:
+  torque:
+    measurement_interval: 60  # seconds (enterprise: real-time)
+    stability_window: 300     # 5 minute window
+    alert_cooldown: 120      # 2 minute cooldown
+    
+  csfc:
+    phase_monitoring: "basic"
+    intervention_enabled: false  # Enterprise feature
+    recovery_protocols: "manual"
+    
+# System Integration Points
+integrations:
+  claude: "supported"
+  gemini: "supported" 
+  gpt: "supported"
+  custom_systems: "contact_required"
+  
+  # Framework Compatibility
+  frameworks:
+    tensorflow: true
+    pytorch: true
+    huggingface: true
+    
+# Deployment Options (Teaser Level)
+deployment:
+  environment: "development"
+  scaling: "single_instance"
+  monitoring: "basic_logging"
+  backup: "manual"
+  
+  # Enterprise Features (Not Available in Teaser)
+  enterprise_features:
+    auto_scaling: false
+    load_balancing: false
+    distributed_deployment: false
+    enterprise_monitoring: false
+    sla_guarantees: false
+
+# Contact Information for Full Implementation
+professional_services:
+  contact: "aaron@valorgridsolutions.com"
+  repository: "forgeos-professional"
+  website: "valorgridsolutions.com"
+  
+  full_features:
+    - "Real-time monitoring and alerting"
+    - "Custom integration development"
+    - "Enterprise deployment support"
+    - "Performance optimization"
+    - "24/7 technical support"
+    - "Business impact measurement"
+    - "Custom training programs"
+
+# Teaser Demo Commands (Example Usage)
+demo:
+  basic_test: "python torque_calc.py"
+  drift_simulation: "python drift_test.py"
+  config_validation: "yaml_validator ura_config.yaml"
+  
+# Research Integration
+research:
+  academic_papers: "whitepapers/academic-research/"
+  methodology_docs: "whitepapers/cognitive-engineering/"
+  validation_studies: "artifacts/notebooks/"
+  
+# Version History
+changelog:
+  v1.5.0:
+    - "Initial teaser configuration"
+    - "Basic URA framework integration"
+    - "Simplified monitoring setup"
+    - "Enterprise feature documentation"
+  
+  enterprise_versions:
+    - "v1.5.1: Full monitoring integration"
+    - "v1.5.2: Custom deployment support"
+    - "v1.5.3: Advanced ML integration"
+    - "v2.0.0: Next-generation architecture"
