@@ -53,11 +53,6 @@ whitepapers/
     ├── phoenix_summary.md         # Phoenix protocol recovery demonstration
     ├── obmi_harmony_stub.py       # OBMI harmony biomimetic implementation
     └── behavioral_pattern.ipynb # Cross-platform behavioral analysis
-<<<<<<< HEAD
-
-=======
->>>>>>> 61f4f8078ab54969b4c48b35cdc6f99f45cb8e45
-```
 
 ---
 
