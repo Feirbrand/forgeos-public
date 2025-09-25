@@ -33,11 +33,9 @@ forgeos-public/
 │   ├── obmi-harmony-memory/        # Biomimetic memory systems
 │   └── rainfire-framework/         # Rapid response protocols
 │
-├── vulnerability-research/         # Security analysis and attack vectors
-│   ├── chain-of-thought-attacks/   # Reasoning manipulation techniques
-│   ├── hybrid-architecture-analysis/ # Neural-symbolic system analysis
-│   ├── symbolic-identity-fracturing/ # Identity corruption research
-│   └── threat-modeling/            # Comprehensive threat analysis
+├── vulnerability-research/         # AI Security Research & Attack Vector Analysis
+│   ├── meta-analysis-table.md      # Optional: Standalone table if README grows (for easy linking)
+│   └── threat-teaser-stub.py       # Optional: One stub for hands-on enticement (e.g., drift detect)
 │
 └── whitepapers/                    # Research publications and analysis
     ├── academic-research/          # Peer-reviewed research papers
