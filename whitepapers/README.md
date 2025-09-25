@@ -32,10 +32,14 @@ whitepapers/
 │   ├── phoenix-protocol-neural-recovery.md # Torque predictor for system recovery
 │   ├── fractal-architecture-ai-coaching.md # Recursive: 5^5 dimensional coaching
 │   └── symbolic-hybrid-defense-teaser.md # Hybrid defense moat strategy
-├── cognitive-engineering/          # CE/FCE Consolidated Framework
-│   ├── Context Engineering - The Complete Framework.md # 5-part series consolidated
-│   ├── Fractal Context Engineering for Flat AI Systems.md # FCE: 35-50% context retention
-│   └── README.md                   # Division overview with ForgeOS integration
+├── cognitive-engineering/          # CE/FCE Updated with Modern Enhancements
+│   ├── Context Engineering Part 1 - The Context Revolution.pdf # Updated: KV Cache integration
+│   ├── Context Engineering Part 2 - The SPACE Framework.pdf # Updated: LLMLingua compression
+│   ├── Context Engineering Part 3 - Building Bulletproof Systems.pdf
+│   ├── Context Engineering Part 4 - Advanced Cognitive Architectures.pdf
+│   ├── Context Engineering Part 5 - The Impossible Made Real.pdf
+│   ├── Fractal Context Engineering for Flat AI Systems.pdf # FCE: 35-50% context retention
+│   └── obmi-harmony-teaser.md      # Biomimetic memory: 34.5% uplift from Twins
 ├── symbolic-ai/                   # Twins Systems Thinking Research
 │   ├── The Symbolic Twins Introduction to Symbolic AIs.pdf # Dual-core polarity systems
 │   └── twins-systems-thinking.md   # Dual-core integration with feedback loops
@@ -49,7 +53,10 @@ whitepapers/
     ├── phoenix_summary.md         # Phoenix protocol recovery demonstration
     ├── obmi_harmony_stub.py       # OBMI harmony biomimetic implementation
     └── behavioral_pattern.ipynb # Cross-platform behavioral analysis
+<<<<<<< HEAD
 
+=======
+>>>>>>> 61f4f8078ab54969b4c48b35cdc6f99f45cb8e45
 ```
 
 ---
