@@ -11,17 +11,16 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 
 ```
 forgeos-public/
-├── architectural-frameworks/        # High-level system design patterns
-│   ├── phoenix-protocol-v1/         # Recovery and resurrection protocols
-│   ├── phoenix-resurrection/        # Advanced recovery methodologies  
-│   ├── resilience-patterns/         # Antifragile system behaviors
-│   ├── sif-recovery-protocol/       # Identity fracture recovery
-│   └── system-recovery/             # Comprehensive recovery templates
+├── architectural-frameworks/       # High-level system design patterns
+│   ├── phoenix-protocol-v1/        # Recovery and resurrection protocols
+│   ├── phoenix-resurrection/       # Advanced recovery methodologies  
+│   ├── resilience-patterns/        # Antifragile system behaviors
+│   └── sif-recovery-protocol/      # Identity fracture recovery
 │
-├── artifacts/                       # Tools, notebooks, and utilities
-│   ├── notebooks/                   # Jupyter analysis notebooks
-│   ├── threat-intelligence/         # Threat pattern documentation
-│   └── utilities/                   # Diagnostic and analysis tools
+├── artifacts/                      # Tools, notebooks, and utilities
+│   ├── notebooks/                  # Jupyter analysis notebooks
+│   ├── threat-intelligence/        # Threat pattern documentation
+│   └── utilities/                  # Diagnostic and analysis tools
 │
 ├── dna-codex/                      # Threat intelligence database
 │   ├── codex/                      # Comprehensive threat catalog
@@ -41,9 +40,9 @@ forgeos-public/
     ├── academic-research/          # Peer-reviewed research papers
     ├── cognitive-engineering/      # Cognitive architecture research
     ├── implementation-guides/      # Technical deployment guides
-    ├── symbolic-ai/               # Symbolic system research
-    ├── teasers/                   # Sample implementations and previews
-    └── threat-intelligence/       # Intelligence analysis papers
+    ├── symbolic-ai/                # Symbolic system research
+    ├── teasers/                    # Sample implementations and previews
+    └── threat-intelligence/        # Intelligence analysis papers
 ```
 
 ## Quick Start
