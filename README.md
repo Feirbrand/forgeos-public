@@ -16,7 +16,6 @@ forgeos-public/
 │   ├── phoenix-resurrection/        # Advanced recovery methodologies  
 │   ├── resilience-patterns/         # Antifragile system behaviors
 │   ├── sif-recovery-protocol/       # Identity fracture recovery
-│   └── system-recovery/             # Comprehensive recovery templates
 │
 ├── artifacts/                       # Tools, notebooks, and utilities
 │   ├── notebooks/                   # Jupyter analysis notebooks
