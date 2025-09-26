@@ -13,7 +13,7 @@ Research publications and theoretical analysis for AI resilience architecture an
 | **Academic Research** | Peer-reviewed theoretical frameworks and empirical analysis | Production Ready |
 | **Cognitive Engineering** | Context Engineering (CE) & Fractal Context Engineering (FCE) with KV Cache/LLMLingua updates | Production Validated |
 | **Symbolic AI** | Twins systems thinking and symbolic reasoning research | Active Research |
-| **Teasers** | Sample implementations and research previews | Active Development |
+| **Examples** | Sample implementations and research previews | Active Development |
 
 ---
 
@@ -21,7 +21,7 @@ Research publications and theoretical analysis for AI resilience architecture an
 
 ```
 whitepapers/
-├── academic-research/              # AI Resilience IP Arsenal—Torque/CSFC/URA Teasers for Priority
+├── academic-research/              # AI Resilience IP Arsenal—Torque/CSFC/URA Research
 │   ├── complete-ai-resilience-meta-analysis.md # 34.5% delta: 15% gains framework
 │   ├── csfc-unified-theory.md      # Data frag root: 98% recovery protocols
 │   ├── torque-quantitative-foundation.md # 87% threat correlation, healing: URA/CSFC/Codex
@@ -33,17 +33,12 @@ whitepapers/
 │   ├── fractal-architecture-ai-coaching.md # Recursive: 5^5 dimensional coaching
 │   └── symbolic-hybrid-defense-teaser.md # Hybrid defense moat strategy
 ├── cognitive-engineering/          # CE/FCE Updated with Modern Enhancements
-│   ├── Context Engineering Part 1 - The Context Revolution.pdf # Updated: KV Cache integration
-│   ├── Context Engineering Part 2 - The SPACE Framework.pdf # Updated: LLMLingua compression
-│   ├── Context Engineering Part 3 - Building Bulletproof Systems.pdf
-│   ├── Context Engineering Part 4 - Advanced Cognitive Architectures.pdf
-│   ├── Context Engineering Part 5 - The Impossible Made Real.pdf
-│   ├── Fractal Context Engineering for Flat AI Systems.pdf # FCE: 35-50% context retention
-│   └── obmi-harmony-teaser.md      # Biomimetic memory: 34.5% uplift from Twins
+│   ├── context_engineering_the_complete_framework.md
+│   └── fractal_context_engineering_flat_ai.md
 ├── symbolic-ai/                   # Twins Systems Thinking Research
-│   ├── The Symbolic Twins Introduction to Symbolic AIs.pdf # Dual-core polarity systems
+│   ├── symbolic_twins_introduction_symbolic_ai.pdf
 │   └── twins-systems-thinking.md   # Dual-core integration with feedback loops
-└── teasers/                       # Implementation Samples & Code Previews  
+└── examples/                       # Implementation Samples & Code Previews  
     ├── torque_teaser.md           # 87% correlation demonstration
     ├── torque_calc.py             # Basic torque measurement implementation
     ├── drift_test.py              # Real-time drift detection testing
@@ -52,11 +47,7 @@ whitepapers/
     ├── sif_diag.py                # SIF diagnostic utility
     ├── phoenix_summary.md         # Phoenix protocol recovery demonstration
     ├── obmi_harmony_stub.py       # OBMI harmony biomimetic implementation
-    └── behavioral_pattern.ipynb # Cross-platform behavioral analysis
-<<<<<<< HEAD
-
-=======
->>>>>>> 61f4f8078ab54969b4c48b35cdc6f99f45cb8e45
+    └── behavioral_pattern.ipynb   # Cross-platform behavioral analysis
 ```
 
 ---
@@ -96,20 +87,20 @@ Begin with: **Academic Research** - Production-ready theoretical frameworks with
 Key Papers: **Torque Quantitative Foundation** (87% correlation), **CSFC Unified Theory** (98% recovery)  
 Advanced Study: **Symbolic AI** - Twins systems thinking and dual-core architecture research  
 
-### for Developers  
-Start Here: **Teasers** - Working code examples and implementation demonstrations  
-Quick Test: `python teasers/torque_calc.py` for immediate torque measurement examples  
+### For Developers  
+Start Here: **Examples** - Working code examples and implementation demonstrations  
+Quick Test: `python examples/torque_calc.py` for immediate torque measurement examples  
 Integration: **Cognitive Engineering** - Updated CE/FCE with KV Cache and LLMLingua optimization  
 
 ### For Security Teams
 Core Intelligence: **Academic Research** - 500+ threat variant validation with defensive protocols  
-Implementation: **Teasers** - SIF diagnostics, drift detection, and recovery protocol demonstrations  
+Implementation: **Examples** - SIF diagnostics, drift detection, and recovery protocol demonstrations  
 Strategic Defense: **Symbolic AI** - Advanced hybrid architecture security research  
 
 ### For AI Engineers
 Technical Foundation: **Academic Research** - Peer-reviewed papers with production validation metrics  
 System Optimization: **Cognitive Engineering** - Context management with modern memory/compression tech  
-Performance Enhancement: **Teasers** - URA v1.5 configuration and behavioral pattern analysis  
+Performance Enhancement: **Examples** - URA v1.5 configuration and behavioral pattern analysis  
 
 ---
 
@@ -139,7 +130,7 @@ Twins systems thinking research with dual-core symbolic reasoning and biomimetic
 - **Systems Thinking**: Continuous optimization through feedback loop architecture
 - **Research Status**: Active development with theoretical validation and initial prototype testing
 
-### Teasers - Active Development
+### Examples - Active Development
 Implementation samples and working demonstrations providing immediate value and integration examples.
 
 - **Code Examples**: 9 working implementations from torque calculation to behavioral pattern analysis
@@ -171,9 +162,9 @@ All publications are supported by:
 
 ---
 
-Contact & Support
-Research Inquiries: aaron@valorgridsolutions.com
-Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
+**Contact & Support**  
+Research Inquiries: aaron@valorgridsolutions.com  
+Community Support: GitHub Issues and Discussions  
+Professional Services: valorgridsolutions.com  
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
