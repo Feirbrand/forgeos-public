@@ -33,11 +33,14 @@ whitepapers/
 │   ├── fractal-architecture-ai-coaching.md # Recursive: 5^5 dimensional coaching
 │   └── symbolic-hybrid-defense-teaser.md # Hybrid defense moat strategy
 ├── cognitive-engineering/          # CE/FCE Updated with Modern Enhancements
-│   ├── context_engineering_the_complete_framework.md
-│   └── fractal_context_engineering_flat_ai.md
+│   ├── context_engineering_the_complete_framework.md # 5-part series consolidated
+│   └── fractal_context_engineering_flat_ai.md # FCE: 35-50% context retention
 ├── symbolic-ai/                   # Twins Systems Thinking Research
-│   ├── symbolic_twins_introduction_symbolic_ai.pdf
-│   └── twins-systems-thinking.md   # Dual-core integration with feedback loops
+│   ├── symbolic_twins_introduction_symbolic_ai.pdf # Dual-core architecture framework
+│   ├── twins-systems-thinking.md   # Systems integration with feedback loops
+│   ├── prompt-anatomy-upgrades-flat-ai.md # 5-component enhancement: 30-50% gains
+│   ├── driftlock-cognitive-stability.md # Dynamic stability: 40-60% drift reduction
+│   └── fractal-context-engineering.md # Memory framework: 340% productivity
 └── examples/                       # Implementation Samples & Code Previews  
     ├── torque_teaser.md           # 87% correlation demonstration
     ├── torque_calc.py             # Basic torque measurement implementation
@@ -47,8 +50,7 @@ whitepapers/
     ├── sif_diag.py                # SIF diagnostic utility
     ├── phoenix_summary.md         # Phoenix protocol recovery demonstration
     ├── obmi_harmony_stub.py       # OBMI harmony biomimetic implementation
-    └── behavioral_pattern.ipynb   # Cross-platform behavioral analysis
-```
+    └── behavioral_pattern.ipynb   # Cross-platform behavioral analysis```
 
 ---
 
