@@ -50,7 +50,8 @@ whitepapers/
     ├── sif_diag.py                # SIF diagnostic utility
     ├── phoenix_summary.md         # Phoenix protocol recovery demonstration
     ├── obmi_harmony_stub.py       # OBMI harmony biomimetic implementation
-    └── behavioral_pattern.ipynb   # Cross-platform behavioral analysis```
+    └── behavioral_pattern.ipynb   # Cross-platform behavioral analysis
+```
 
 ---
 
@@ -164,9 +165,10 @@ All publications are supported by:
 
 ---
 
-**Contact & Support**  
-Research Inquiries: aaron@valorgridsolutions.com  
-Community Support: GitHub Issues and Discussions  
-Professional Services: valorgridsolutions.com  
+## Contact & Support
+
+**Research Inquiries**: aaron@valorgridsolutions.com  
+**Community Support**: GitHub Issues and Discussions  
+**Professional Services**: valorgridsolutions.com  
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
