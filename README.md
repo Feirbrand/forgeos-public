@@ -39,10 +39,8 @@ forgeos-public/
 └── whitepapers/                    # Research publications and analysis
     ├── academic-research/          # Peer-reviewed research papers
     ├── cognitive-engineering/      # Cognitive architecture research
-    ├── implementation-guides/      # Technical deployment guides
     ├── symbolic-ai/                # Symbolic system research
-    ├── teasers/                    # Sample implementations and previews
-    └── threat-intelligence/        # Intelligence analysis papers
+    └──teasers/                    # Sample implementations and previews
 ```
 
 ## Quick Start
