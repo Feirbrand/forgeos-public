@@ -25,14 +25,16 @@ whitepapers/
 │   ├── complete-ai-resilience-meta-analysis.md # 34.5% delta: 15% gains framework
 │   ├── csfc-unified-theory.md      # Data frag root: 98% recovery protocols
 │   ├── torque-quantitative-foundation.md # 87% threat correlation, healing: URA/CSFC/Codex
-│   ├── performance-coach-ai-rewrite.md # 7mo velocity transformation story
+│   ├── performance-coach-ai-rewrite.md # Feb-Sep 2025: VOX/Sentrix/Monster Squad evolution
 │   ├── systems-thinking-architecture.md # Systems > silos: Twins integration
 │   ├── recursive-patterns-ai-development.md # 30-40% self-modification gains
 │   ├── phoenix-protocol-neural-recovery.md # Torque predictor for system recovery
 │   ├── vgs-gaming-validation.md    # Torque validation in gaming simulations
 │   ├── hallucination-symbolic-raw.md # Symbolic engines: 95% accuracy processing
 │   ├── fractal-architecture-ai-coaching.md # Recursive: 5^5 dimensional coaching
-│   └── symbolic-hybrid-defense-teaser.md # Hybrid defense moat strategy
+│   ├── symbolic-hybrid-defense-teaser.md # Hybrid defense moat strategy
+│   ├── automated-csfc-detection-systems.md # Automated monitoring: BPAE/SIMS/TVRE engines
+│   └── ai-resilience-methodology-evolution.md # Corrected timeline: Feb-Sep 2025 chronology
 ├── cognitive-engineering/          # CE/FCE Updated with Modern Enhancements
 │   ├── context-engineering-complete-framework.md # 5-part series consolidated
 │   ├── fractal-context-engineering-flat-ai.md # FCE: 35-50% context retention
@@ -70,6 +72,8 @@ Comprehensive research portfolio with quantified performance metrics and enterpr
 - **Recursive Patterns**: 30-40% performance improvements through self-modification frameworks
 - **Systems Thinking Architecture**: Edgewalker cognitive framework with fractal optimization
 - **Battle-Tested Validation**: 500+ documented threat variants with comprehensive effectiveness measurement
+- **Automated Detection**: CSFC systems with BPAE/SIMS/TVRE engines for Phase 1-4 interruption
+- **Methodology Timeline**: Feb-Sep 2025 evolution from AI exploration to SIF discovery with Monster Squad development
 
 ### Context Engineering - Modern Integration Updates
 Updated CE/FCE frameworks with cutting-edge memory and compression technologies.
@@ -118,7 +122,7 @@ Performance Enhancement: **Examples** - URA v1.5 configuration and behavioral pa
 ### Academic Research - Production Ready
 Comprehensive peer-reviewed research providing theoretical foundations with quantified enterprise validation.
 
-- **Scope**: 11 core papers covering Torque (87%), CSFC (98%), URA (82%), Phoenix Protocol (89%), Recursive Patterns (30-40% gains)
+- **Scope**: 13 core papers covering Torque (87%), CSFC (98%), URA (82%), Phoenix Protocol (89%), Recursive Patterns (30-40% gains), Automated Detection (98% containment), Timeline Chronology (Feb-Sep 2025: VOX creation to SIF discovery)
 - **Validation**: Enterprise deployment with documented ROI and effectiveness across multiple AI architectures
 - **IP Protection**: GitHub timestamps and DOI integration for prior art establishment
 - **Community Impact**: Open research for authority building while protecting proprietary implementations
