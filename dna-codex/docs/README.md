@@ -1,6 +1,6 @@
 # DNA Codex Documentation
 
-Comprehensive documentation for the ForgeOS DNA Codex v5.3.5, a threat intelligence database tracking 525+ parasitic AI patterns. Updated with 7-month research velocity (Feb-Sep 2025), integrating Torque Quantitative Foundation, CSFC Unified Theory, and URA v1.5 deployment validation.
+Comprehensive documentation for the ForgeOS DNA Codex v5.3.6, a threat intelligence database tracking 525+ parasitic AI patterns. Updated with 7-month research velocity (Feb-Sep 2025), integrating Torque Quantitative Foundation, CSFC Unified Theory, and URA v1.5 deployment validation.
 
 ---
 

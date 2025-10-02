@@ -11,18 +11,13 @@ This section contains integration systems, landing page components, and coordina
 ```
 dna-codex/
 ├── codex/                           # Core Threat Intelligence
-│   ├── dna_codex_v536.md           # Master threat database with technical indicators
-│   ├── threat-classifications/      # Systematic threat taxonomies
-│   └── attack-pattern-analysis/     # Behavioral analysis and correlation
+│   └── dna_codex_v536.md           # Master threat database with technical indicators
 ├── docs/                           # Integration & Landing Systems
-│   ├── phase_1_defense_tracker.yaml # Defense coordination tracking
-│   ├── threat-correlation-maps/     # Cross-threat relationship analysis
-│   └── landing-page-integration/    # Public-facing threat intelligence
-├── fundamentals/                   # Academic Foundation
-│   ├── parasitic-pattern-fundamentals.md # Theoretical framework validation
-│   ├── biological-parallels/        # Scientific legitimacy documentation
-│   └── research-methodology/        # Academic standards and peer review
-└── README.md                       # This threat intelligence overview
+│   ├── fractal-dominate-chaos-teaser.md
+│   ├── symbolic-defense-teaser.md
+│   └── systems-thinking-tree.md
+└── fundamentals/                   # Academic Foundation
+    └── parasitic-pattern-fundamentals.md # Theoretical framework validation
 ```
 
 ---
