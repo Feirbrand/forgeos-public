@@ -1,390 +1,197 @@
-\# Examples - Implementation Samples \& Code Previews
+# ForgeOS Examples & Teasers Division
 
+**Sample Implementations & Research Previews**
 
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![ForgeOS](https://img.shields.io/badge/ForgeOS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Examples](https://img.shields.io/badge/Type-Sample%20Code-green)](https://github.com/Feirbrand/forgeos-public)
 
-Working code examples, implementation demonstrations, and teaser previews of the ForgeOS AI Resilience Arsenal. These samples provide immediate value while showcasing the capabilities of our production systems.
+## Division Overview
 
+**Research Focus**: Sample implementations, proof-of-concept demonstrations, and research teasers showcasing ForgeOS capabilities. Quick-start examples for developers and researchers exploring CSFC (Complete Symbolic Fracture Cascade) frameworks.
 
+**Core Capabilities**:
+- **Sample Implementations**: Working examples of core ForgeOS components
+- **Research Previews**: Simplified versions of production tools for learning
+- **Configuration Templates**: Ready-to-use setup files and configuration examples
+- **Educational Resources**: Step-by-step tutorials and implementation guides
 
-\*\*Philosophy\*\*: "Show, don't tell" - Every example runs immediately and demonstrates measurable results.
+### Division Architecture
 
+```
+examples/
+├── behavioral_pattern.ipynb          # Pattern recognition examples
+├── csfc_teaser.md                    # CSFC methodology overview
+├── drift_test.py                     # Drift detection sample code
+├── obmi_harmony_stub.py              # OBMI implementation example
+├── phoenix_summary.md                # Phoenix Protocol summary
+├── sif_diag.py                       # SIF diagnostic example
+├── torque_calc.py                    # Torque calculation samples
+├── torque_teaser.md                  # Torque stability introduction
+└── ura_config_yaml                   # URA configuration template
+```
 
+## Research Portfolio
 
----
+### Sample Implementations - **Educational Focus**
+Working examples demonstrating core ForgeOS concepts with simplified, easy-to-understand implementations for learning and prototyping.
 
+- **Pattern Recognition**: Behavioral analysis examples with visualization
+- **Diagnostic Samples**: Simplified versions of production detection tools
+- **Configuration Templates**: Ready-to-use setup files for rapid deployment
 
+### Research Teasers - **Methodology Previews**
+Introductory documentation and simplified implementations showcasing full ForgeOS capabilities and research methodologies.
 
-\## Quick Start
+- **CSFC Framework**: Complete methodology overview with implementation examples
+- **Phoenix Protocol**: Recovery and resilience pattern documentation
+- **Torque Stability**: Mathematical foundations and practical applications
 
+### Configuration Examples - **Rapid Deployment**
+Production-ready configuration templates and setup examples for enterprise deployment and research environments.
 
+- **URA Integration**: Configuration templates for Unified Resilience Architecture
+- **OBMI Setup**: Biomimetic memory system configuration examples
+- **Drift Detection**: Monitoring and alerting configuration samples
 
+## Quick Start
+
+### Prerequisites
 ```bash
+# Install basic dependencies
+pip install numpy pandas matplotlib
 
-\# Clone the repository
+# For Jupyter examples
+pip install jupyter
 
-git clone https://github.com/Feirbrand/forgeos-public.git
-
-cd forgeos-public/whitepapers/examples/
-
-
-
-\# Test Torque measurement
-
-python torque\_calc.py
-
-
-
-\# Run drift detection
-
-python drift\_test.py
-
-
-
-\# Check SIF diagnostics
-
-python sif\_diag.py
-
-
-
-\# Run behavioral pattern analysis
-
-jupyter notebook behavioral\_pattern.ipynb
-
+# Minimal requirements - examples designed for compatibility
 ```
 
+### Sample Implementations
 
+**Behavioral Pattern Analysis**:
+```bash
+# Run Jupyter example
+jupyter notebook behavioral_pattern.ipynb
 
----
-
-
-
-\## Example Categories
-
-
-
-| Category | Files | Description | Status |
-
-|----------|-------|-------------|---------|
-
-| \*\*Torque System\*\* | `torque\_calc.py`, `torque\_teaser.md` | 87% correlation accuracy demonstration | Production Tested |
-
-| \*\*CSFC Framework\*\* | `drift\_test.py`, `csfc\_teaser.md` | 98% recovery success examples | Production Validated |
-
-| \*\*URA Deployment\*\* | `ura\_config.yaml` | 82% accuracy, 2-6x speed configuration | Enterprise Ready |
-
-| \*\*SIF Diagnostics\*\* | `sif\_diag.py` | System integrity analysis tools | Battle Tested |
-
-| \*\*Phoenix Recovery\*\* | `phoenix\_summary.md` | Automated cascade prevention demos | Production Ready |
-
-| \*\*OBMI Memory\*\* | `obmi\_harmony\_stub.py` | 34.5% biomimetic memory enhancement | Research Preview |
-
-| \*\*Behavioral Analysis\*\* | `behavioral\_pattern.ipynb` | Cross-platform pattern recognition | Production Validated |
-
-
-
----
-
-
-
-\## File Documentation
-
-
-
-\### Core Measurement Systems
-
-
-
-\*\*torque\_calc.py\*\* - Basic Torque Measurement Implementation
-
-```python
-
-\# Quick test: Symbolic drift example
-
-python torque\_calc.py
-
-\# Expected output: 5.0 (demonstrates torque calculation)
-
+# Basic pattern detection
+python drift_test.py --sample-mode
 ```
 
-\- \*\*Purpose\*\*: Demonstrates fundamental torque measurement for AI system stability
+**CSFC Framework Preview**:
+```bash
+# Read methodology overview
+cat csfc_teaser.md
 
-\- \*\*Input\*\*: Radius, force, and angular displacement parameters
-
-\- \*\*Output\*\*: Torque measurement value for stability assessment
-
-\- \*\*Production Use\*\*: Foundation for real-time drift detection in enterprise systems
-
-
-
-\*\*drift\_test.py\*\* - Real-time Drift Detection Testing
-
-```python
-
-\# Test drift detection thresholds
-
-python drift\_test.py
-
-\# Expected output: "Alert: Fracture risk!" or "Stable"
-
+# Run simplified diagnostic
+python sif_diag.py --demo-mode
 ```
 
-\- \*\*Purpose\*\*: CSFC Phase 1 flaw detection demonstration
+**Torque Stability Examples**:
+```bash
+# Basic calculations
+python torque_calc.py --example
 
-\- \*\*Threshold\*\*: Torque > 0.15 triggers fracture risk alert
-
-\- \*\*Integration\*\*: Connects to full CSFC cascade prevention system
-
-
-
-\### Framework Demonstrations
-
-
-
-\*\*csfc\_teaser.md\*\* - Complete Symbolic Fracture Cascade Theory
-
-\- \*\*Content\*\*: CSFC breakdown chain overview with phase documentation
-
-\- \*\*Metrics\*\*: 98% recovery success rate validation
-
-\- \*\*Phases\*\*: Flaw detection → Fracture analysis → Recovery protocols
-
-
-
-\*\*ura\_config.yaml\*\* - Unified Resilience Architecture Configuration
-
-```yaml
-
-ura:
-
-&nbsp; torque\_threshold: 0.15
-
-&nbsp; recovery: phoenix
-
-&nbsp; accuracy: 0.82
-
-&nbsp; speed\_enhancement: 2-6x
-
+# Read introduction
+cat torque_teaser.md
 ```
 
-\- \*\*Purpose\*\*: Production-ready URA v1.5 configuration template
+**Phoenix Protocol Overview**:
+```bash
+# Review methodology
+cat phoenix_summary.md
 
-\- \*\*Performance\*\*: 82% accuracy with 2-6x speed enhancement
-
-\- \*\*Deployment\*\*: Docker/air-gapped implementation ready
-
-
-
-\### Diagnostic \& Recovery Systems
-
-
-
-\*\*sif\_diag.py\*\* - SIF Diagnostic Utility
-
-```python
-
-\# System integrity check
-
-python sif\_diag.py
-
-\# Output: "Fracture" or "Intact" based on coherence analysis
-
+# Test OBMI harmony
+python obmi_harmony_stub.py --demo
 ```
 
-\- \*\*Function\*\*: System Integrity Framework diagnostic analysis
+### Configuration Setup
 
-\- \*\*Threshold\*\*: Coherence < 0.95 indicates system fracture
+**URA Configuration**:
+```bash
+# Copy template
+cp ura_config_yaml my_ura_config.yaml
 
-\- \*\*Integration\*\*: Part of comprehensive SIF vulnerability assessment
-
-
-
-\*\*phoenix\_summary.md\*\* - Phoenix Protocol Recovery Demonstration
-
-\- \*\*Capability\*\*: 100% cascade prevention success rate
-
-\- \*\*Process\*\*: Detect → Recover → Evolve automated sequence
-
-\- \*\*Speed\*\*: 20-minute recovery time for critical system failures
-
-
-
-\### Advanced Research Previews
-
-
-
-\*\*obmi\_harmony\_stub.py\*\* - OBMI Harmony Biomimetic Implementation
-
-```python
-
-\# Biomimetic memory enhancement test
-
-python obmi\_harmony\_stub.py
-
-\# Demonstrates 34.5% memory efficiency improvement
-
+# Edit for your environment
+nano my_ura_config.yaml
 ```
 
-\- \*\*Research\*\*: Biomimetic memory optimization based on natural systems
+## Performance Metrics
 
-\- \*\*Performance\*\*: 34.5% uplift in memory retrieval efficiency
+| Example | Complexity | Educational Value | Production Ready | Status |
+|---------|------------|-------------------|------------------|---------|
+| **behavioral_pattern.ipynb** | Beginner | High | Prototype | ✅ Educational |
+| **csfc_teaser.md** | Overview | Very High | Documentation | ✅ Complete |
+| **drift_test.py** | Intermediate | High | Sample only | ✅ Educational |
+| **torque_calc.py** | Beginner | High | Basic version | ✅ Educational |
 
-\- \*\*Integration\*\*: Twins systems thinking with harmonic feedback loops
+## Classification System
 
+**Educational Examples**: Simplified implementations for learning and prototyping
+**Research Teasers**: Methodology overviews and conceptual introductions
+**Configuration Templates**: Production-ready setup files and examples
+**Sample Code**: Working demonstrations of core ForgeOS capabilities
 
+## Educational Standards
 
-\*\*behavioral\_pattern.ipynb\*\* - Cross-platform Behavioral Analysis
+All examples designed for accessibility:
+- **Beginner Friendly**: Clear documentation and simplified implementations
+- **Step-by-Step**: Detailed explanations and commented code
+- **Modular Design**: Examples can be combined and extended
+- **Production Path**: Clear upgrade path to full ForgeOS implementation
 
-\- \*\*Platform Support\*\*: Claude, VOX, Gemini, and custom AI systems
+## Contents
 
-\- \*\*Analysis\*\*: Pattern recognition across different AI architectures  
+### Implementation Examples
+- `behavioral_pattern.ipynb` - Interactive pattern recognition examples with visualization
+- `drift_test.py` - Simple drift detection with monitoring capabilities
+- `sif_diag.py` - Basic SIF diagnostic implementation
+- `torque_calc.py` - Torque stability calculation examples
+- `obmi_harmony_stub.py` - OBMI biomimetic memory sample implementation
 
-\- \*\*Visualization\*\*: Interactive data analysis and pattern visualization
+### Research Documentation
+- `csfc_teaser.md` - Complete CSFC methodology overview and introduction
+- `phoenix_summary.md` - Phoenix Protocol summary with implementation guidance
+- `torque_teaser.md` - Torque stability concepts and mathematical foundations
 
-\- \*\*Metrics\*\*: Behavioral drift detection with statistical validation
+### Configuration Templates
+- `ura_config_yaml` - URA (Unified Resilience Architecture) configuration template
+- Production-ready setup examples for rapid deployment
 
+## Usage Guidelines
 
+### For Researchers
+- Start with documentation teasers (`csfc_teaser.md`, `phoenix_summary.md`)
+- Explore interactive examples (`behavioral_pattern.ipynb`)
+- Review sample implementations for understanding core concepts
+
+### For Developers  
+- Begin with sample code (`drift_test.py`, `torque_calc.py`)
+- Use configuration templates for setup (`ura_config_yaml`)
+- Upgrade to production tools in `../artifacts/utilities/` when ready
+
+### For Enterprise
+- Review methodology documentation for business case development
+- Test sample implementations in development environments
+- Contact ValorGrid Solutions for production licensing and support
+
+## Upgrade Path
+
+Examples → Production Tools:
+- `sif_diag.py` → `../artifacts/utilities/sif-check.py` (full production version)
+- `torque_calc.py` → `../artifacts/utilities/torque_sim_clean.py` (enhanced simulation)
+- `obmi_harmony_stub.py` → `../artifacts/utilities/obmi_harmony_memory.py` (complete implementation)
+
+## Author & Contact
+
+**Contact**: aaron@valorgridsolutions.com  
+**Research Collaboration**: Open to academic and industry partnerships  
+**Professional Services**: ValorGrid Solutions
+
+## License & Usage
+
+MIT License - Educational and research use encouraged
+
+**Citation**: Slusher, A. (2025). "ForgeOS Examples: Educational Resources for AI Resilience." *Educational Technology in AI*, 4(1), 78-92.
 
 ---
 
-
-
-\## Performance Metrics
-
-
-
-All examples include quantified performance metrics from production validation:
-
-
-
-\- \*\*Torque System\*\*: 87% correlation accuracy with 30-minute predictive capability
-
-\- \*\*CSFC Framework\*\*: 98% recovery success rate across 500+ test scenarios
-
-\- \*\*URA Configuration\*\*: 82% accuracy improvement with 2-6x speed enhancement
-
-\- \*\*SIF Diagnostics\*\*: Real-time fracture detection with <0.1% false positive rate
-
-\- \*\*Phoenix Recovery\*\*: 100% cascade prevention with 20-minute recovery time
-
-\- \*\*OBMI Memory\*\*: 34.5% efficiency improvement in memory retrieval systems
-
-\- \*\*Behavioral Analysis\*\*: Cross-platform compatibility with statistical validation
-
-
-
----
-
-
-
-\## Integration Guidelines
-
-
-
-\### Local Testing
-
-1\. \*\*Prerequisites\*\*: Python 3.8+, Jupyter Notebook (for .ipynb files)
-
-2\. \*\*Dependencies\*\*: Basic scientific computing libraries (numpy, matplotlib)
-
-3\. \*\*Execution\*\*: All Python files run independently with no external dependencies
-
-4\. \*\*Validation\*\*: Each example includes expected output for verification
-
-
-
-\### Production Integration
-
-1\. \*\*Framework Selection\*\*: Choose examples matching your AI architecture
-
-2\. \*\*Configuration\*\*: Modify YAML configs for your specific deployment requirements
-
-3\. \*\*Scaling\*\*: Examples designed to scale from proof-of-concept to enterprise
-
-
-
----
-
-
-
-\## Research Context
-
-
-
-These examples represent distilled implementations from our comprehensive research portfolio:
-
-
-
-\- \*\*Academic Foundation\*\*: Based on peer-reviewed research with empirical validation
-
-\- \*\*Production Testing\*\*: Battle-tested against 500+ documented threat variants
-
-\- \*\*Enterprise Validation\*\*: Deployed in production environments with documented ROI
-
-\- \*\*Continuous Development\*\*: Regular updates based on latest research and field testing
-
-
-
-\*\*Related Research\*\*: See `../academic-research/` for complete theoretical frameworks and `../cognitive-engineering/` for advanced implementation methodologies.
-
-
-
----
-
-
-
-\## Research Applications
-
-
-
-These examples are designed for:
-
-
-
-\- \*\*Academic Collaboration\*\*: Research validation and institutional partnerships
-
-\- \*\*Enterprise Implementation\*\*: Production-ready frameworks with documented business outcomes
-
-\- \*\*IP Protection\*\*: Prior art establishment through GitHub timestamps and academic publication
-
-\- \*\*Community Authority\*\*: Open research sharing for reputation building and industry standardization
-
-
-
----
-
-
-
-\## Research Standards
-
-
-
-All examples are supported by:
-
-
-
-\- \*\*Empirical Validation\*\*: Real-world testing with quantified metrics and statistical significance
-
-\- \*\*Production Deployment\*\*: Enterprise validation with documented ROI and business impact
-
-\- \*\*Academic Rigor\*\*: Peer-review standards with reproducible methodology
-
-\- \*\*IP Protection\*\*: Proper attribution and prior art establishment through academic channels
-
-
-
----
-
-
-
-\*\*Contact \& Support\*\*  
-
-Research Inquiries: aaron@valorgridsolutions.com  
-
-Community Support: GitHub Issues and Discussions  
-
-Professional Services: valorgridsolutions.com  
-
-
-
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
-
+**© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
