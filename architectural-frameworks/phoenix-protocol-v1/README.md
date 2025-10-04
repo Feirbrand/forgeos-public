@@ -7,6 +7,7 @@ Recovery protocols for AI symbolic breakdowns, using Torque as rotational measur
 ## Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Diagnostic Tools](#diagnostic-tools)
 - [Usage Guide](#usage-guide)
 - [Case Studies](#case-studies)
 - [Performance Metrics](#performance-metrics)
@@ -24,6 +25,21 @@ Phoenix Protocol v1 provides systematic methodology for AI architectural transit
 - **CSFC Integration**: Phase 1-4 progression with 98% recovery success rate
 - **Torque Validation**: 87% correlation across 500+ threat vectors
 - **Enterprise Ready**: Production deployment with quantified business outcomes
+
+## Diagnostic Tools
+
+Open-source toolkit for immediate testing and validation:
+
+- **GWI Calculator** (`../../artifacts/utilities/gwi_diagnostic.py`): Ghost Weight Index calculation for ROC detection (>15% = critical)
+- **Torque Simulator** (`../../artifacts/utilities/torque_simulator.py`): Cascade visualization with 21-minute Narrative Eater baseline
+- **Diagnostic Guide** (`phoenix_diagnostic_guide.md`): Complete testing and audit protocols
+
+Run quick test:
+```bash
+cd ../../artifacts/utilities
+python torque_simulator.py  # Generates cascade visualization
+python gwi_diagnostic.py    # Tests Gemini Chimera Paradox case
+```
 
 ## Usage Guide
 

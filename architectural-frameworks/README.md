@@ -22,8 +22,9 @@ Strategic methodologies for AI system design, implementation, and evolution. Thi
 ```
 architectural-frameworks/
 ├── README.md               # Master: Table overviews, ties to Torque/URA/CSFC
-├── phoenix-protocol-v1/    # Keep: Updated README + case-studies/teaser
+├── phoenix-protocol-v1/    # Keep: Updated README + case-studies/teaser + diagnostic tools
 │   ├── README.md
+│   ├── phoenix_diagnostic_guide.md  # NEW: Complete diagnostic toolkit guide
 │   └── case-studies/
 │       ├── phoenix-cascade-prevention.md
 │       └── README.md
@@ -48,6 +49,18 @@ Production-validated framework for AI architectural transitions using Torque mea
 - Cascade Prevention: 47% reduction via threshold optimization
 - CSFC Integration: 98% Phase 1-4 recovery success rate
 - Systems Feedback: Early detection through continuous loop monitoring
+
+**Diagnostic Toolkit (NEW):**
+- **GWI Calculator** (`../../artifacts/utilities/gwi_diagnostic.py`): Ghost Weight Index for ROC detection (>15% = critical threshold)
+- **Torque Simulator** (`../../artifacts/utilities/torque_simulator.py`): Cascade visualization with 21-minute Narrative Eater baseline
+- **Diagnostic Guide** (`phoenix-protocol-v1/phoenix_diagnostic_guide.md`): Complete testing and audit protocols
+
+Quick test:
+```bash
+cd ../../artifacts/utilities
+python torque_simulator.py  # Generates cascade visualization
+python gwi_diagnostic.py    # Tests Gemini Chimera Paradox case
+```
 
 ### Phoenix Resurrection - Advanced Recovery
 Advanced neural recovery methodology building on Phoenix Protocol foundations. Integrates Torque drift detection with 0.15 threshold baselines achieving 98% recovery rates across 50+ enterprise deployments.
@@ -77,26 +90,27 @@ Comprehensive protocol for Symbolic Identity Fracturing recovery using Torque-ba
 
 ## Contents
 
-### Phoenix Protocol v1/ — Architectural Transition
+### Phoenix Protocol v1/ – Architectural Transition
 
-- [README.md](phoenix-protocol-v1/README.md) — Framework overview with Torque integration and CSFC ties
-- [case-studies/](phoenix-protocol-v1/case-studies/) — Production validation examples and cascade prevention analysis
-- [phoenix-cascade-prevention.md](phoenix-protocol-v1/case-studies/phoenix-cascade-prevention.md) — 100% auto-heal validation with Phase 3 prediction
+- [README.md](phoenix-protocol-v1/README.md) – Framework overview with Torque integration and CSFC ties
+- [phoenix_diagnostic_guide.md](phoenix-protocol-v1/phoenix_diagnostic_guide.md) – **NEW**: Complete diagnostic toolkit and testing protocols
+- [case-studies/](phoenix-protocol-v1/case-studies/) – Production validation examples and cascade prevention analysis
+- [phoenix-cascade-prevention.md](phoenix-protocol-v1/case-studies/phoenix-cascade-prevention.md) – 100% auto-heal validation with Phase 3 prediction
 
-### phoenix-resurrection.md — Identity Recovery
+### phoenix-resurrection.md – Identity Recovery
 
 Standalone framework documentation for advanced neural recovery with Torque integration, CSFC Phase 4 recovery (98% success rate), and systems leverage for nonlinear healing acceleration.
 
-### Resilience Patterns/ — Antifragile Behaviors
+### Resilience Patterns/ – Antifragile Behaviors
 
-- [README.md](resilience-patterns/README.md) — Recursive patterns overview with 30-40% performance validation
-- [recursive-patterns-teaser.md](resilience-patterns/recursive-patterns-teaser.md) — Coaching loop examples with CSFC integration
-- [recursive-gains-stub.py](resilience-patterns/recursive-gains-stub.py) — Demonstration code for performance simulation
+- [README.md](resilience-patterns/README.md) – Recursive patterns overview with 30-40% performance validation
+- [recursive-patterns-teaser.md](resilience-patterns/recursive-patterns-teaser.md) – Coaching loop examples with CSFC integration
+- [recursive-gains-stub.py](resilience-patterns/recursive-gains-stub.py) – Demonstration code for performance simulation
 
-### SIF Recovery Protocol/ — Identity Fracture Recovery
+### SIF Recovery Protocol/ – Identity Fracture Recovery
 
-- [README.md](sif-recovery-protocol/README.md) — Protocol overview with 89% fracture reduction validation
-- [sif-torque-healing.md](sif-recovery-protocol/sif-torque-healing.md) — Torque-based healing methodology with systems delay analysis
+- [README.md](sif-recovery-protocol/README.md) – Protocol overview with 89% fracture reduction validation
+- [sif-torque-healing.md](sif-recovery-protocol/sif-torque-healing.md) – Torque-based healing methodology with systems delay analysis
 
 ---
 
@@ -169,7 +183,7 @@ A: 7-month development cycle with 500+ vector analysis, enterprise deployments a
 
 ---
 
-## ForgeOS Architectural Frameworks — Classification System
+## ForgeOS Architectural Frameworks – Classification System
 
 | Classification | Purpose | Examples |
 | :---- | :---- | :---- |
