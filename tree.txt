@@ -1,0 +1,171 @@
+Folder PATH listing for volume M.2
+Volume serial number is DEA7-FEFD
+C:.
+|   .nojekyll
+|   index.html
+|   mit_license.txt
+|   README.md
+|   requirements_file.txt
+|   tree.txt
+|   
++---architectural-frameworks
+|   |   index.html
+|   |   README.md
+|   |   
+|   +---phoenix-protocol-v1
+|   |   |   phoenix_guide.md
+|   |   |   README.md
+|   |   |   
+|   |   \---case-studies
+|   |           phoenix_cascade_prevention.md
+|   |           README.md
+|   |           
+|   +---phoenix-resurrection
+|   |       phoenix_resurrection_standalone.md
+|   |       
+|   +---resilience-patterns
+|   |       README.md
+|   |       recursive_gains_stub.py
+|   |       recursive_patterns_teaser.md
+|   |       
+|   \---sif-recovery-protocol
+|           README.md
+|           sif_torque_healing.md
+|           
++---artifacts
+|   |   .gitignore
+|   |   index.html
+|   |   LICENSE
+|   |   README.md
+|   |   requirements.txt
+|   |   
+|   +---notebooks
+|   |       behavioral-pattern-recognition.ipynb
+|   |       cross-platform-validation.ipynb
+|   |       drift-detection.ipynb
+|   |       gwi_calc_clean.py
+|   |       handoff-stub.ipynb
+|   |       README.md
+|   |       torque-healing-sim.ipynb
+|   |       ura_validation_notebook.json
+|   |       vx-ghost-echo-sim.ipynb
+|   |       
+|   +---threat-intelligence
+|   |   |   mimics_ctta_example.md
+|   |   |   README.md
+|   |   |   
+|   |   \---perfect-mimic-family
+|   |           README.md
+|   |           vx-ghost-echo.md
+|   |           vx-narrator-echo.md
+|   |           vx-perfect-mimic-2.md
+|   |           
+|   \---utilities
+|           csfc_chain_overview.md
+|           obmi-harmony-stub.py
+|           README.md
+|           sif-check.py
+|           sra-playbook-stub.py
+|           srd_purge_stub.py
+|           torque-calc.py
+|           torque_sim_clean.py
+|           
++---dna-codex
+|   |   LICENSE
+|   |   README.md
+|   |   
+|   +---codex
+|   |       dna_codex_v536.md
+|   |       README.md
+|   |       
+|   +---docs
+|   |       fractal-dominate-chaos-teaser.md
+|   |       README.md
+|   |       symbolic-defense-teaser.md
+|   |       systems-thinking-tree.md
+|   |       
+|   \---fundamentals
+|           parasitic-pattern-fundamentals.md
+|           README.md
+|           
++---open-source
+|   |   README.md
+|   |   
+|   +---aeon-framework
+|   |       aeon_core.py
+|   |       README.md
+|   |       
+|   +---obmi-harmony-memory
+|   |       biomimetic_concepts_md.md
+|   |       csfc_tie_md.md
+|   |       obmi_core_py.py
+|   |       README.md
+|   |       relay_sim_py.py
+|   |       theory_overview_md.md
+|   |       ura_integration_teaser_md.md
+|   |       
+|   \---rainfire-framework
+|           rainfire_core.py
+|           README.md
+|           
++---vulnerability-research
+|   |   meta_analysis_table.md
+|   |   README.md
+|   |   threat_teaser_stub.py
+|   |   
+|   \---csfc-series
+|           csfc-part1-v1.1.md
+|           csfc-part2-v1.1.md
+|           csfc-part3-v1.1.md
+|           csfc-part4-v1.1.md
+|           csfc-part5-v1.1.md
+|           csfc-part6-v1.1.md
+|           README.md
+|           
+\---whitepapers
+    |   index.html
+    |   README.md
+    |   
+    +---academic-research
+    |       .gitkeep
+    |       complete_ai_resilience_meta_analysis.md
+    |       csfc_unified_theory.md
+    |       fractal-architecture-ai-coaching.md
+    |       hallucination-symbolic-raw.md
+    |       performance-coach-ai-rewrite.md
+    |       phoenix-protocol-neural-recovery.md
+    |       README.md
+    |       recursive_patterns_ai_development.md
+    |       symbolic-hybrid-defense.md
+    |       symbolic_systems_mythogenic.md
+    |       systems-thinking-architecture.md
+    |       torque_measuring_ai_stability.md
+    |       torque_quantitative_foundation.md
+    |       vgs-gaming-validation.md
+    |       
+    +---cognitive-engineering
+    |       .gitkeep
+    |       context_engineering_the_complete_framework.md
+    |       fractal_context_engineering.md
+    |       README.md
+    |       
+    +---examples
+    |       behavioral_pattern.ipynb
+    |       csfc_teaser.md
+    |       drift_test.py
+    |       obmi_harmony_stub.py
+    |       phoenix_summary.md
+    |       README.md
+    |       sif_diag.py
+    |       torque_calc.py
+    |       torque_teaser.md
+    |       ura_config_yaml
+    |       
+    \---symbolic-ai
+            driftlock_cognitive_stability.md
+            fce_advanced_memory_trad_ai.md
+            prompt-anatomy-upgrades-flat-ai.md
+            README.md
+            symbolic_twins_introduction_symbolic_ai.pdf
+            twins_systems_thinking.md
+            
