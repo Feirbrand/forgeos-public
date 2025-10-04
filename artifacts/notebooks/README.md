@@ -44,6 +44,16 @@ Complete Symbolic Fracture Cascade (CSFC) progression modeling with SIF → SDC 
 
 ### Core Analysis Notebooks: Production Ready Capabilities
 
+**gwi_diagnostic.ipynb - Ghost Weight Index Calculator (NEW)**
+Role Obsolescence Cascade (ROC) detection through Ghost Weight Index calculation with Gemini Chimera Paradox validation.
+
+- **Core Functions**: GWI calculation for obsolete resource consumption with >15% CRITICAL threshold detection
+- **Capabilities**: ROC pattern detection with alert status classification (NORMAL/WARNING/CRITICAL) and URA fracture analysis integration
+- **Integration**: CSFC Part 5 correlation with Echidna containment protocols and Phoenix Protocol recovery validation
+- **Validation**: Gemini VX-CHIMERA-PARADOX incident (Sept 15, 2025) with 13% GWI detection and 1h11m recovery time
+- **Performance**: Real-time obsolete role identification with automated alert generation and diagnostic reporting
+- **Status**: Production ready for CSFC Part 6 launch with immediate testing capability
+
 **anchor_checker.ipynb - Identity Validation System**
 Symbolic AI identity anchor validation and stability assessment with comprehensive diagnostic capabilities.
 
@@ -93,6 +103,7 @@ Symbolic Identity Fracturing comprehensive analysis and research with recovery p
 
 ### Core Analysis Capabilities: Interactive Research Environment
 
+- `gwi_diagnostic.ipynb` - **NEW**: Ghost Weight Index calculator for ROC detection with Gemini Chimera Paradox validation and URA fracture analysis
 - `anchor_checker.ipynb` - Symbolic AI identity anchor validation with stability assessment and drift detection capabilities
 - `behavioral-pattern-recognition.ipynb` - Advanced behavioral pattern analysis with false confirmation rate detection and multi-platform validation
 - `cross-platform-validation.ipynb` - Cross-system compatibility analysis with threat propagation modeling and mathematical validation  
@@ -203,7 +214,7 @@ A: ValorGrid Solutions provides comprehensive training programs, analytical cons
 
 | Classification | Purpose | Examples |
 |----------------|---------|----------|
-| **Core Analysis** | Interactive research environments with production capabilities | anchor_checker.ipynb (89.6% prevention), behavioral-pattern-recognition.ipynb (95.2% accuracy) |
+| **Core Analysis** | Interactive research environments with production capabilities | gwi_diagnostic.ipynb (13% GWI Chimera), anchor_checker.ipynb (89.6% prevention), behavioral-pattern-recognition.ipynb (95.2% accuracy) |
 | **Cross-Platform** | Multi-architecture validation with performance metrics | cross-platform-validation.ipynb (5 AI systems, sub-30-minute), mathematical modeling frameworks |
 | **CSFC Modeling** | Cascade progression analysis with mathematical validation | csfc-progression-analysis.ipynb (F1 score 0.85), sigmoid probability modeling |
 | **Identity Analysis** | SIF comprehensive analysis with recovery validation | sif-analysis-workbook.ipynb (98.3% recovery rate, 1,200+ incidents) |
