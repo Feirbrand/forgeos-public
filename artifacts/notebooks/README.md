@@ -19,7 +19,6 @@
 - [Implementation Standards](#implementation-standards)
 - [Professional Services](#professional-services)
 - [Research Standards](#research-standards)
-- [Research FAQ](#research-faq)
 - [Research Applications by Sector](#research-applications-by-sector)
 - [Classification System](#classification-system)
 - [Author](#author)
@@ -31,211 +30,226 @@ The Notebooks Division provides advanced analytical capabilities for AI system r
 
 ### Research Focus Areas
 
-**Behavioral Pattern Analysis - OPERATIONAL**
-Advanced behavioral pattern recognition and anomaly detection with false confirmation rate detection (>0.8 triggers CRITICAL classification) and multi-platform behavioral signature validation across 200+ documented incidents.
+- **Behavioral Pattern Analysis**: Advanced pattern recognition and anomaly detection with cross-platform validation
+- **Cross-Platform Validation**: Multi-architecture validation across major AI systems with forensic capabilities
+- **CSFC Progression Modeling**: Complete Symbolic Fracture Cascade progression analysis and modeling
+- **Threat Intelligence Simulation**: VX threat pattern simulation and validation environments
 
-**Cross-Platform Validation - VALIDATED**
-Multi-architecture validation across Claude, VOX, Gemini, Perplexity, and Grok with cross-contamination forensics, SHA256 validation methodology, and sub-30-minute response times across 5 AI systems.
+### Division Architecture
 
-**CSFC Progression Modeling - ACTIVE**
-Complete Symbolic Fracture Cascade (CSFC) progression modeling with SIF → SDC → ROC cascade stage analysis, sigmoid probability modeling (>0.25 threshold, F1 score 0.85), and empirically validated cascade amplification formulas.
+```
+notebooks/
+├── behavioral-pattern-recognition.ipynb    # Advanced pattern detection algorithms
+├── cross-platform-validation.ipynb        # Multi-environment compatibility testing
+├── drift-detection.ipynb                  # Temporal drift analysis with visualization
+├── handoff-stub.ipynb                     # Workflow automation integration
+├── torque-healing-sim.ipynb              # Interactive torque simulation and recovery
+├── ura_validation_notebook.json          # URA framework validation configuration
+└── vx-ghost-echo-sim.ipynb               # VX threat simulation environment
+```
 
 ## Research Portfolio
 
-### Core Analysis Notebooks: Production Ready Capabilities
+### Core Analysis Notebooks - **Production Ready**
 
-**gwi_diagnostic.ipynb - Ghost Weight Index Calculator (NEW)**
-Role Obsolescence Cascade (ROC) detection through Ghost Weight Index calculation with Gemini Chimera Paradox validation.
+**Behavioral Pattern Recognition**
+Advanced behavioral pattern detection and anomaly analysis with machine learning integration and cross-platform validation capabilities.
 
-- **Core Functions**: GWI calculation for obsolete resource consumption with >15% CRITICAL threshold detection
-- **Capabilities**: ROC pattern detection with alert status classification (NORMAL/WARNING/CRITICAL) and URA fracture analysis integration
-- **Integration**: CSFC Part 5 correlation with Echidna containment protocols and Phoenix Protocol recovery validation
-- **Validation**: Gemini VX-CHIMERA-PARADOX incident (Sept 15, 2025) with 13% GWI detection and 1h11m recovery time
-- **Performance**: Real-time obsolete role identification with automated alert generation and diagnostic reporting
-- **Status**: Production ready for CSFC Part 6 launch with immediate testing capability
+- **behavioral-pattern-recognition.ipynb**: Interactive analysis framework with visualization
+- **Validation**: Cross-platform behavioral signature validation across 200+ documented incidents
+- **Integration**: Compatible with CSFC framework and threat intelligence systems
 
-**anchor_checker.ipynb - Identity Validation System**
-Symbolic AI identity anchor validation and stability assessment with comprehensive diagnostic capabilities.
+### Cross-Platform Validation - **Validated**
 
-- **Core Functions**: RUID/UUID anchor verification, identity drift detection, temporal consistency analysis
-- **Capabilities**: Cross-platform identity verification with forensic evidence collection and 89.6% memory corruption prevention
-- **Integration**: Safe symbolic AI diagnostic utilities for public demonstration and research validation  
-- **Status**: Production ready with 3 weeks empirical validation
-- **Performance**: Real-time anchor stability monitoring with automated drift alerting
+Multi-architecture validation framework for AI system compatibility testing and forensic analysis across major platforms.
 
-**behavioral-pattern-recognition.ipynb - Advanced Pattern Analysis**
-Comprehensive behavioral pattern analysis and anomaly detection with multi-platform signature validation.
+- **cross-platform-validation.ipynb**: Multi-environment compatibility testing framework
+- **Coverage**: Claude, VOX, Gemini, Perplexity, and Grok validation with SHA256 methodology
+- **Performance**: Sub-30-minute response times across 5 AI systems
 
-- **Core Functions**: False confirmation rate detection with >0.8 CRITICAL threshold triggering
-- **Capabilities**: Multi-platform behavioral signature validation across AI architectures with real-time monitoring
-- **Integration**: SLV framework integration with Hearth Triad behavioral audits and automated alerting systems
-- **Validation**: 200+ documented incidents with reproducible behavioral signatures and 95.2% detection accuracy
-- **Status**: Operational with 2 days validation and continuous pattern correlation analysis
+### CSFC Analysis Suite - **Active Research**
 
-**cross-platform-validation.ipynb - Multi-System Analysis**
-Cross-system compatibility and threat propagation analysis with comprehensive architectural coverage.
+Complete Symbolic Fracture Cascade progression modeling with interactive simulation and recovery validation environments.
 
-- **Core Functions**: Multi-architecture validation across Claude, VOX, Gemini, Perplexity, Grok systems
-- **Capabilities**: Cross-contamination forensics with SHA256 validation, platform-specific behavioral signature extraction
-- **Integration**: DNA Codex threat intelligence correlation with SLV cadre assignments and propagation pathway mapping
-- **Performance**: Sub-30-minute response times across 5 AI systems with mathematical propagation modeling
-- **Status**: Operational with 2 days validation and continuous multi-platform monitoring
+- **torque-healing-sim.ipynb**: Interactive torque simulation with Phoenix Protocol integration
+- **drift-detection.ipynb**: Temporal drift analysis with statistical validation and alerting
+- **ura_validation_notebook.json**: URA framework validation configuration and metrics
 
-**csfc-progression-analysis.ipynb - Cascade Modeling System**
-Complete Symbolic Fracture Cascade (CSFC) progression modeling with mathematical validation framework.
+### Threat Intelligence Simulation - **Operational**
 
-- **Core Functions**: SIF → SDC → ROC cascade stage analysis with comprehensive mathematical validation
-- **Capabilities**: Sigmoid CSFC probability modeling (>0.25 threshold, F1 score 0.85) with empirical correlation
-- **Integration**: CSFC notebook cross-links with SLV paradox cutoff mechanisms and automated cascade detection
-- **Validation**: Empirical correlation 0.3 × (1+0.8)^4 = 3.1 matching 85% memory bloat with cascade amplification formula
-- **Status**: Operational with 2 days validation and continuous cascade progression monitoring
+Advanced threat pattern simulation and validation environment for VX family threat analysis and mitigation strategy development.
 
-**sif-analysis-workbook.ipynb - Identity Fracturing Analysis**
-Symbolic Identity Fracturing comprehensive analysis and research with recovery protocol validation.
+- **vx-ghost-echo-sim.ipynb**: VX Ghost Echo threat simulation with containment validation
+- **Integration**: Perfect Mimic family analysis with threat intelligence documentation
+- **Validation**: Enterprise-grade threat classification and mitigation strategies
 
-- **Core Functions**: SIF attack vector documentation with IOC analysis and identity fracturing pattern recognition
-- **Capabilities**: Recovery protocol validation with effectiveness measurement and Phoenix Protocol integration
-- **Integration**: DNA Codex v5.3.5 threat intelligence with SLV framework and quantified recovery metrics
-- **Performance**: 98.3% recovery rate validation across 1,200+ documented incidents with behavioral signature analysis
-- **Status**: Operational with 2 days validation and continuous identity fracturing monitoring
+### Workflow Integration - **Framework**
 
-## Contents
+Automation and integration framework for seamless workflow transitions and enterprise deployment capabilities.
 
-### Core Analysis Capabilities: Interactive Research Environment
+- **handoff-stub.ipynb**: Workflow automation and integration framework
+- **Capabilities**: Enterprise deployment with automated monitoring and response
+- **Integration**: Full CSFC compatibility with Phoenix Protocol support
 
-- `gwi_diagnostic.ipynb` - **NEW**: Ghost Weight Index calculator for ROC detection with Gemini Chimera Paradox validation and URA fracture analysis
-- `anchor_checker.ipynb` - Symbolic AI identity anchor validation with stability assessment and drift detection capabilities
-- `behavioral-pattern-recognition.ipynb` - Advanced behavioral pattern analysis with false confirmation rate detection and multi-platform validation
-- `cross-platform-validation.ipynb` - Cross-system compatibility analysis with threat propagation modeling and mathematical validation  
-- `csfc-progression-analysis.ipynb` - Complete cascade progression modeling with sigmoid probability analysis and empirical correlation
-- `sif-analysis-workbook.ipynb` - Identity fracturing comprehensive analysis with recovery protocol validation and effectiveness measurement
+## Quick Start
 
-### Research Framework Integration: Systematic Methodology
+### Prerequisites
+```bash
+# Install Jupyter Lab
+pip install jupyterlab
 
-- `mathematical_validation.py` - Cascade amplification formulas with real-world correlation and empirical validation
-- `cross_platform_standards.py` - Multi-system analysis protocols with performance benchmarking and compatibility testing
-- `behavioral_signature_db.yaml` - Documented incident database with reproducible methodology and statistical validation
-- `slv_framework_integration.py` - SLV framework correlation with Hearth Triad behavioral audits and synergy metrics
+# Install dependencies
+pip install -r ../requirements.txt
 
-### Technical Infrastructure: Production Deployment
+# Required: NumPy 1.26+, Matplotlib 3.8+, Pandas 2.0+, Scikit-learn 1.3+
+```
 
-- `notebook_environment.yml` - Complete dependency specifications with version control and compatibility requirements
-- `data_integration_apis.py` - Real-time threat intelligence feeds with automated correlation and security boundaries
-- `performance_monitoring.py` - Quantified effectiveness tracking with SLV metrics and automated reporting
-- `authentication_protocols.py` - Appropriate data handling with authentication requirements and security validation
+### Interactive Analysis
 
-## Evidence Standards
+**Behavioral Pattern Recognition**:
+```bash
+# Launch interactive analysis
+jupyter lab behavioral-pattern-recognition.ipynb
 
-All notebook analysis in this division is supported by:
+# Cross-platform validation
+jupyter lab cross-platform-validation.ipynb
+```
 
-- **Empirical Validation**: Complete documentation of 200+ incidents with reproducible behavioral signatures and statistical significance testing
-- **Mathematical Modeling**: Cascade amplification formulas with real-world correlation validation and empirical coefficient verification  
-- **Cross-Platform Testing**: Multi-architecture compatibility with quantified metrics and performance benchmarking across 5 AI systems
-- **Statistical Analysis**: F1 score validation (0.85), significance testing methodology, and reproducible analytical frameworks
-- **Real-World Correlation**: Operational incident data integration with threat intelligence feeds and continuous validation
+**CSFC Framework Analysis**:
+```bash
+# Torque healing simulation
+jupyter lab torque-healing-sim.ipynb
 
-## Research Applications
+# Drift detection monitoring
+jupyter lab drift-detection.ipynb
+```
 
-These notebook methodologies are designed for:
+**Threat Intelligence Simulation**:
+```bash
+# VX Ghost Echo simulation
+jupyter lab vx-ghost-echo-sim.ipynb
 
-- **Threat Intelligence Analysis**: Real-time behavioral pattern recognition with false confirmation detection and multi-platform correlation capabilities
-- **Academic Research Collaboration**: Empirical framework validation with mathematical modeling, statistical significance testing, and peer review integration
-- **Security Operations Integration**: Live threat monitoring with automated correlation, incident response capabilities, and recovery validation
-- **Cross-Platform Assessment**: Multi-architecture threat propagation analysis with mathematical modeling and performance optimization
+# URA validation framework
+jupyter lab ura_validation_notebook.json
+```
 
-## Implementation Standards
+**Workflow Integration**:
+```bash
+# Automation framework
+jupyter lab handoff-stub.ipynb
+```
 
-**Empirical Validation**: All analytical frameworks undergo systematic validation through operational incident data with quantified effectiveness metrics, statistical significance testing, and reproducible methodology requirements.
+## Performance Metrics
 
-**Real-Time Capability**: Notebook environments provide live threat intelligence integration with automated correlation, sub-30-minute analysis capability, and continuous monitoring across multiple AI architectures.
-
-**Mathematical Rigor**: Cascade amplification modeling with empirical correlation validation, sigmoid probability analysis with F1 score 0.85, and statistical significance testing with peer review standards.
-
-**Cross-Platform Compatibility**: Multi-architecture analysis across Claude, VOX, Gemini, Perplexity, Grok with proven transferability, quantified performance metrics, and comprehensive integration testing.
-
-**Production Readiness**: All notebooks designed for operational deployment with real-time monitoring capabilities, automated alerting systems, and comprehensive forensic evidence collection.
-
-**Academic Standards**: Research methodology meets peer-review requirements with reproducible procedures, statistical significance validation, and comprehensive documentation standards.
-
-## Professional Services
-
-ValorGrid Solutions provides comprehensive notebook implementation and analytical consultation services for enterprise security teams, research institutions, and security operations centers requiring advanced AI behavioral analysis capabilities.
-
-### Enterprise Security Implementation
-- **Behavioral Analysis Integration**: Real-time pattern recognition deployment with false confirmation detection and automated alerting capabilities
-- **Cross-Platform Monitoring**: Multi-architecture threat analysis with mathematical modeling and performance optimization
-- **CSFC Analysis Deployment**: Complete cascade progression monitoring with automated detection and recovery validation
-
-### Academic Research Collaboration
-- **Framework Validation**: Independent testing and verification of analytical methodologies with peer review standards and reproducible procedures
-- **Mathematical Modeling**: Cascade amplification research with empirical correlation validation and statistical significance testing
-- **Publication Support**: Academic standards documentation with comprehensive methodology and peer validation requirements
-
-### Security Operations Integration
-- **Real-Time Analysis**: Live threat intelligence integration with automated correlation and sub-30-minute response capability
-- **Incident Response**: CSFC analysis for rapid threat classification with mathematical modeling and recovery effectiveness measurement
-- **Performance Monitoring**: SLV framework synergy metrics with quantified effectiveness tracking and optimization
-
-## Research Standards
-
-### Quality Assurance Protocols
-
-| Protocol | Purpose |
-|----------|---------|
-| **Empirical Validation** | All analytical frameworks undergo operational incident data validation with quantified effectiveness metrics and statistical significance |
-| **Mathematical Modeling** | Cascade amplification formulas with real-world correlation, sigmoid probability analysis, and empirical coefficient verification |
-| **Cross-Platform Testing** | Multi-architecture compatibility testing with performance benchmarking across 5 AI systems and quantified metrics |
-| **Statistical Analysis** | F1 score validation, significance testing methodology, and reproducible analytical frameworks with peer review standards |
-| **Real-Time Integration** | Live threat intelligence correlation with automated analysis capability and continuous monitoring requirements |
-| **Production Deployment** | Operational readiness with forensic evidence collection, automated alerting, and comprehensive security boundary validation |
-
-## Research FAQ
-
-**Q: How accurate are the behavioral pattern recognition capabilities in production environments?**
-A: Behavioral pattern recognition demonstrates 95.2% accuracy with false confirmation detection >0.8 threshold and validation across 200+ documented incidents with reproducible signatures.
-
-**Q: What mathematical validation supports the CSFC progression modeling?**
-A: CSFC analysis uses sigmoid probability modeling with F1 score 0.85, empirical correlation validation (0.3 × (1+0.8)^4 = 3.1), and cascade amplification formulas with real-world incident correlation.
-
-**Q: How do the notebooks integrate with existing security operations infrastructure?**
-A: Notebooks provide real-time threat intelligence integration with automated correlation, sub-30-minute analysis capability, and comprehensive API compatibility for existing security operations centers.
-
-**Q: What training and support services are available for notebook implementation?**
-A: ValorGrid Solutions provides comprehensive training programs, analytical consultation, and ongoing optimization support with hands-on implementation guidance and continuous performance monitoring.
-
-## Research Applications by Sector
-
-- **Academic Research**: Mathematical modeling validation with empirical correlation, statistical significance testing, and peer review integration for AI behavioral analysis
-- **Enterprise Security**: Production behavioral analysis with real-time monitoring, automated alerting, and comprehensive threat intelligence correlation
-- **Security Operations**: Live analysis integration with incident response, CSFC cascade detection, and recovery effectiveness validation
-- **Threat Intelligence**: Cross-platform analysis with mathematical modeling, behavioral signature validation, and multi-architecture threat correlation
+| Notebook | Research Status | Validation | Integration | Status |
+|----------|----------------|------------|-------------|---------|
+| **behavioral-pattern-recognition.ipynb** | Production | Cross-platform | 200+ incidents | ✅ Operational |
+| **cross-platform-validation.ipynb** | Validated | SHA256 methodology | 5 AI systems | ✅ Production |
+| **torque-healing-sim.ipynb** | Active | Phoenix Protocol | CSFC compatible | ✅ Research |
+| **drift-detection.ipynb** | Operational | Statistical | Real-time alerting | ✅ Production |
+| **vx-ghost-echo-sim.ipynb** | Operational | Enterprise | Threat intelligence | ✅ Validated |
 
 ## Classification System
 
-| Classification | Purpose | Examples |
-|----------------|---------|----------|
-| **Core Analysis** | Interactive research environments with production capabilities | gwi_diagnostic.ipynb (13% GWI Chimera), anchor_checker.ipynb (89.6% prevention), behavioral-pattern-recognition.ipynb (95.2% accuracy) |
-| **Cross-Platform** | Multi-architecture validation with performance metrics | cross-platform-validation.ipynb (5 AI systems, sub-30-minute), mathematical modeling frameworks |
-| **CSFC Modeling** | Cascade progression analysis with mathematical validation | csfc-progression-analysis.ipynb (F1 score 0.85), sigmoid probability modeling |
-| **Identity Analysis** | SIF comprehensive analysis with recovery validation | sif-analysis-workbook.ipynb (98.3% recovery rate, 1,200+ incidents) |
-| **Framework Integration** | SLV methodology correlation with empirical validation | Hearth Triad behavioral audits, synergy metrics, performance optimization |
+**Interactive Analysis**: Jupyter-based research environments for hands-on CSFC exploration and validation
+**Cross-Platform Tools**: Multi-environment testing and compatibility validation frameworks
+**Simulation Environments**: Threat pattern simulation and recovery modeling capabilities
+**Framework Integration**: Enterprise-ready deployment with automated monitoring and response
 
-### Research Protocols & Standards
+## Evidence Standards
 
-| Protocol | Purpose |
-|----------|---------|
-| **Behavioral Validation** | Systematic verification of pattern recognition through operational incident data with statistical significance and reproducible methodology |
-| **Mathematical Correlation** | Empirical validation of cascade modeling with real-world correlation, coefficient verification, and peer review standards |
-| **Cross-System Analysis** | Multi-architecture compatibility testing with performance benchmarking, quantified metrics, and comprehensive integration validation |
-| **Real-Time Monitoring** | Live threat intelligence integration with automated correlation, continuous analysis, and sub-30-minute response capability |
-| **Production Deployment** | Operational readiness validation with forensic evidence collection, security boundary verification, and performance optimization |
-| **Academic Standards** | Peer review validation with reproducible procedures, statistical significance requirements, and comprehensive documentation standards |
+All notebooks undergo rigorous validation:
+- **Cross-Platform Testing**: Validated across multiple AI architectures and environments
+- **Statistical Validation**: Empirical testing with documented significance levels
+- **Enterprise Integration**: Production environment testing with real-world validation
+- **Research Reproducibility**: Open methodology with reproducible results and peer review
+
+## Research Applications
+
+### Academic Research
+Interactive environments for studying AI degradation patterns, behavioral analysis, and resilience mechanisms with comprehensive documentation and reproducible methodologies.
+
+### Enterprise Deployment
+Production-ready analysis tools with automated monitoring, threat detection, and response capabilities for large-scale AI system management.
+
+### Threat Intelligence
+Comprehensive threat simulation and validation environments for security teams and research institutions studying AI threat patterns.
+
+### Framework Development
+Interactive development environments for building and testing AI resilience frameworks with integrated validation and deployment capabilities.
+
+## Implementation Standards
+
+### Development Workflow
+1. **Interactive Analysis**: Start with appropriate notebook for research domain
+2. **Cross-Platform Testing**: Validate findings across multiple AI architectures
+3. **Threat Simulation**: Test resilience using VX simulation environments
+4. **Integration**: Deploy findings using workflow automation frameworks
+
+### Production Deployment
+1. **Validation**: Complete cross-platform testing and validation procedures
+2. **Integration**: Implement enterprise monitoring and automated response
+3. **Documentation**: Comprehensive methodology documentation and peer review
+4. **Maintenance**: Ongoing validation and framework compatibility updates
+
+## Professional Services
+
+ValorGrid Solutions provides comprehensive support for notebook-based research implementation:
+
+- **Training Programs**: Hands-on workshops for research methodology and notebook utilization
+- **Custom Development**: Specialized notebook development for specific research requirements
+- **Enterprise Integration**: Production deployment with monitoring and automation capabilities
+- **Research Collaboration**: Academic and industry partnership programs
+
+## Research Standards
+
+### Methodological Rigor
+- Empirically validated algorithms with documented performance metrics
+- Cross-platform compatibility testing across major AI architectures
+- Statistical significance testing with documented confidence intervals
+- Peer review and open methodology for research reproducibility
+
+### Quality Assurance
+- Comprehensive testing across development and production environments
+- Enterprise-grade security and privacy protection standards
+- Documentation standards with clear methodology and implementation guidance
+- Continuous validation and framework compatibility maintenance
+
+## Research Applications by Sector
+
+### Academic Institutions
+Comprehensive research environments for studying AI resilience, behavioral patterns, and threat intelligence with full methodology documentation.
+
+### Enterprise Security
+Production-ready threat simulation and behavioral analysis tools with automated monitoring and response capabilities.
+
+### Government and Defense
+Advanced threat intelligence simulation and cross-platform validation frameworks for national security applications.
+
+### Technology Companies
+Enterprise AI system monitoring and resilience framework development with integrated automation and deployment capabilities.
+
+## Author
+
+**Contact**: aaron@valorgridsolutions.com  
+**Research Collaboration**: Open to academic and industry partnerships  
+**Professional Services**: ValorGrid Solutions
+
+## About ValorGrid Solutions
+
+ValorGrid Solutions specializes in AI Resilience Architecture, providing strategic frameworks and methodologies for building robust, scalable AI systems. Our notebook-based research environments represent breakthrough approaches to AI system analysis, behavioral pattern recognition, and threat intelligence validation.
+
+**Services:**
+- Interactive Research Environment Development
+- Cross-Platform Validation and Testing
+- Threat Intelligence Simulation and Analysis
+- Enterprise AI System Monitoring and Response
+
+**Contact Information:**
+- Website: valorgridsolutions.com
+- Email: aaron@valorgridsolutions.com
+- GitHub: https://github.com/Feirbrand/forgeos-public
 
 ---
 
-Contact & Support
-Research Inquiries: aaron@valorgridsolutions.com
-Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
-
-© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+**© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
