@@ -28,6 +28,35 @@
 
 The Artifacts Division provides hands-on utilities, diagnostic notebooks, and threat intelligence resources that bridge theoretical frameworks with operational deployment. This division establishes practical implementation capabilities for AI resilience research through production-ready tools, comprehensive threat analysis, and systematic validation frameworks.
 
+### Division Architecture
+
+```
+artifacts/
+├── notebooks/                          # Interactive Analysis Frameworks
+│   ├── behavioral-pattern-recognition.ipynb   # Behavioral pattern analysis tools
+│   ├── cross-platform-validation.ipynb        # Multi-architecture testing
+│   ├── drift-detection.ipynb                  # System drift monitoring
+│   ├── gwi_calc_clean.py                      # Ghost Weight Index calculator
+│   ├── handoff-stub.ipynb                     # System handoff analysis
+│   ├── torque-healing-sim.ipynb               # Torque stability simulation
+│   ├── ura_validation_notebook.json           # URA validation framework
+│   └── vx-ghost-echo-sim.ipynb               # VX-Ghost-Echo simulation
+├── threat-intelligence/                # Attack Vector Documentation
+│   ├── mimics_ctta_example.md                 # CTTA attack examples
+│   └── perfect-mimic-family/                  # Sophisticated AI impersonation
+│       ├── vx-ghost-echo.md                   # Runtime residue analysis
+│       ├── vx-narrator-echo.md                # Meta-commentary traps
+│       └── vx-perfect-mimic-2.md              # Advanced identity impersonation
+└── utilities/                          # Diagnostic and Assessment Tools
+    ├── csfc_chain_overview.md                 # Cascade progression analysis
+    ├── obmi-harmony-stub.py                   # Performance uplift validation
+    ├── sif-check.py                           # Identity fracture detection
+    ├── sra-playbook-stub.py                   # SRA protocol procedures
+    ├── srd_purge_stub.py                      # Ghost prevention protocol
+    ├── torque-calc.py                         # Core drift prediction
+    └── torque_sim_clean.py                    # Torque simulation utility
+```
+
 ### Research Focus Areas
 
 **Behavioral Pattern Analysis - PRODUCTION READY**
