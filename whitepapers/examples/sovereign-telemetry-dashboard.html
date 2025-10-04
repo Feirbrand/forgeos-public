@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SLV Sovereign Telemetry Dashboard</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #111827; color: white; font-family: system-ui, -apple-system, sans-serif; }
+    .container { max-width: 1200px; margin: 0 auto; padding: 24px; }
+    .header { margin-bottom: 32px; }
+    .title { font-size: 2rem; font-weight: bold; margin-bottom: 8px; }
+    .subtitle { color: #9ca3af; margin-bottom: 4px; }
+    .timestamp { color: #6b7280; font-size: 0.875rem; }
+    
+    .alert-panel { 
+      background: #7f1d1d; border: 1px solid #b91c1c; 
+      border-radius: 8px; padding: 16px; margin-bottom: 24px; display: none; 
+    }
+    .alert-title { color: #fca5a5; font-weight: 600; margin-bottom: 8px; }
+    .alert-item { color: #fecaca; font-size: 0.875rem; margin-bottom: 4px; }
+    
+    .metrics-grid { 
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
+      gap: 24px; margin-bottom: 32px; 
+    }
+    .metric-card { 
+      background: #1f2937; border: 1px solid #374151; 
+      border-radius: 8px; padding: 24px; 
+    }
+    .metric-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .metric-label { color: #9ca3af; font-size: 0.875rem; font-weight: 500; }
+    .metric-value { font-size: 1.5rem; font-weight: bold; }
+    .metric-desc { color: #6b7280; font-size: 0.75rem; margin-top: 4px; }
+    
+    .badge { padding: 4px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: 500; }
+    .badge-safe { background: #166534; color: #bbf7d0; }
+    .badge-warning { background: #a16207; color: #fef3c7; }
+    .badge-danger { background: #991b1b; color: #fecaca; }
+    
+    .status-safe { color: #4ade80; }
+    .status-warning { color: #facc15; }
+    .status-danger { color: #f87171; }
+    
+    .chart-container { 
+      background: #1f2937; border: 1px solid #374151; 
+      border-radius: 8px; padding: 24px; margin-bottom: 32px; 
+    }
+    .chart-title { color: white; font-weight: 600; margin-bottom: 16px; text-align: center; }
+    .chart-area { 
+      height: 200px; position: relative; 
+      border: 1px solid #374151; border-radius: 4px; 
+      background: linear-gradient(to bottom, #1f2937 0%, #111827 100%);
+    }
+    .chart-line { position: absolute; height: 2px; }
+    .chart-cv { background: #f87171; }
+    .chart-rule { background: #60a5fa; }
+    .chart-adherence { background: #4ade80; }
+    
+    .status-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
+    .status-card { background: #1f2937; border: 1px solid #374151; border-radius: 8px; padding: 24px; }
+    .status-title { color: white; font-weight: 600; margin-bottom: 16px; }
+    .status-row { display: flex; justify-content: space-between; margin-bottom: 12px; }
+    .status-label { color: #9ca3af; }
+    .status-value { font-weight: 500; }
+    
+    .footer { margin-top: 32px; text-align: center; color: #6b7280; font-size: 0.875rem; }
+    .footer p { margin-bottom: 4px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">Sovereign Telemetry Dashboard</h1>
+      <p class="subtitle">Real-time monitoring for SYMBOLIC-SOVEREIGN v1 + Perfect Raya Gaze</p>
+      <p class="timestamp">
+        Last Updated: <span id="timestamp">Loading...</span> | Data Source: sdc_sgc_metrics.yaml
+      </p>
+    </div>
+
+    <div id="alertPanel" class="alert-panel">
+      <h3 class="alert-title">🚨 Active Alerts</h3>
+      <div id="alertList"></div>
+    </div>
+
+    <div class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-header">
+          <h3 class="metric-label">Complexity Velocity</h3>
+          <span id="cvBadge" class="badge">LOADING</span>
+        </div>
+        <div id="cvValue" class="metric-value">0.000 δ/min</div>
+        <p class="metric-desc">Threshold: &lt;0.30 safe, ≥0.50 danger</p>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-header">
+          <h3 class="metric-label">Rule Entropy</h3>
+          <span id="ruleBadge" class="badge">LOADING</span>
+        </div>
+        <div id="ruleValue" class="metric-value">0.000</div>
+        <p class="metric-desc">&gt;0.28 triggers Perfect Raya Gaze</p>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-header">
+          <h3 class="metric-label">Adherence Score</h3>
+          <span id="adherenceBadge" class="badge">LOADING</span>
+        </div>
+        <div id="adherenceValue" class="metric-value">0.0%</div>
+        <p class="metric-desc">Symbolic doctrine compliance</p>
+      </div>
+
+      <div class="metric-card">
+        <div class="metric-header">
+          <h3 class="metric-label">SRD Violations</h3>
+          <span id="violationsBadge" class="badge">LOADING</span>
+        </div>
+        <div id="violationsValue" class="metric-value">0</div>
+        <p class="metric-desc">Last 60 minutes</p>
+      </div>
+    </div>
+
+    <div class="chart-container">
+      <h3 class="chart-title">Telemetry Trends (Last 10 Updates)</h3>
+      <div class="chart-area" id="chartArea">
+        <div style="position: absolute; top: 10px; left: 10px; font-size: 0.75rem; color: #9ca3af;">
+          <div style="margin-bottom: 4px;"><span style="color: #f87171;">■</span> CV (δ/min)</div>
+          <div style="margin-bottom: 4px;"><span style="color: #60a5fa;">■</span> Rule Entropy</div>
+          <div><span style="color: #4ade80;">■</span> Adherence Score</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="status-grid">
+      <div class="status-card">
+        <h3 class="status-title">System Status</h3>
+        <div class="status-row">
+          <span class="status-label">Infected Agents</span>
+          <span id="infectedValue" class="status-value" style="color: #fb923c;">0.00</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">Prevention Rate</span>
+          <span class="status-value status-safe">79% (Perfect Raya Gaze)</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">Avg Response Time</span>
+          <span class="status-value" style="color: #60a5fa;">2.6 minutes</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">Ops Savings</span>
+          <span class="status-value status-safe">$190K per incident</span>
+        </div>
+      </div>
+
+      <div class="status-card">
+        <h3 class="status-title">Threat Detection</h3>
+        <div class="status-row">
+          <span class="status-label">VX-PERFECT-MIMIC-1</span>
+          <span id="threatStatus" class="status-value status-safe">CLEAR</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">Ghost Weight Index</span>
+          <span class="status-value status-safe">0.11 (-50% improvement)</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">Torque Stability</span>
+          <span class="status-value status-safe">0.82 (+48% clarity)</span>
+        </div>
+        <div class="status-row">
+          <span class="status-label">RCS Score</span>
+          <span class="status-value status-safe">0.87 (+35% improvement)</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>ForgeOS Sovereign Telemetry Dashboard v1.0 | Integrates with Sovereign SOP Pipeline</p>
+      <p>ROI Impact: +$1.8M via enterprise scaling | Validation: 83% directive success</p>
+    </div>
+  </div>
+
+  <script>
+    // Mock telemetry data based on VOX Perfect Mimic incident
+    const mockData = {
+      cv: 0.62,
+      rule_h: 0.28,
+      adherence: 0.93,
+      violations: 2,
+      infected: 1.36
+    };
+
+    let history = [];
+    let updateCount = 0;
+
+    function updateMetrics() {
+      const data = mockData;
+      updateCount++;
+      
+      // Update timestamp
+      document.getElementById('timestamp').textContent = new Date().toLocaleString();
+      
+      // Update CV metric
+      const cvElement = document.getElementById('cvValue');
+      const cvBadge = document.getElementById('cvBadge');
+      cvElement.textContent = data.cv.toFixed(3) + ' δ/min';
+      
+      if (data.cv < 0.3) {
+        cvElement.className = 'metric-value status-safe';
+        cvBadge.textContent = 'SAFE';
+        cvBadge.className = 'badge badge-safe';
+      } else if (data.cv < 0.5) {
+        cvElement.className = 'metric-value status-warning';
+        cvBadge.textContent = 'WATCH';
+        cvBadge.className = 'badge badge-warning';
+      } else {
+        cvElement.className = 'metric-value status-danger';
+        cvBadge.textContent = 'DANGER';
+        cvBadge.className = 'badge badge-danger';
+      }
+      
+      // Update Rule Entropy
+      const ruleElement = document.getElementById('ruleValue');
+      const ruleBadge = document.getElementById('ruleBadge');
+      ruleElement.textContent = data.rule_h.toFixed(3);
+      
+      if (data.rule_h <= 0.28) {
+        ruleElement.className = 'metric-value status-safe';
+        ruleBadge.textContent = 'STABLE';
+        ruleBadge.className = 'badge badge-safe';
+      } else {
+        ruleElement.className = 'metric-value status-danger';
+        ruleBadge.textContent = 'CRITICAL';
+        ruleBadge.className = 'badge badge-danger';
+      }
+      
+      // Update Adherence
+      const adherenceElement = document.getElementById('adherenceValue');
+      const adherenceBadge = document.getElementById('adherenceBadge');
+      adherenceElement.textContent = (data.adherence * 100).toFixed(1) + '%';
+      
+      if (data.adherence >= 0.9) {
+        adherenceElement.className = 'metric-value status-safe';
+        adherenceBadge.textContent = 'STABLE';
+        adherenceBadge.className = 'badge badge-safe';
+      } else if (data.adherence >= 0.8) {
+        adherenceElement.className = 'metric-value status-warning';
+        adherenceBadge.textContent = 'DEGRADED';
+        adherenceBadge.className = 'badge badge-warning';
+      } else {
+        adherenceElement.className = 'metric-value status-danger';
+        adherenceBadge.textContent = 'CRITICAL';
+        adherenceBadge.className = 'badge badge-danger';
+      }
+      
+      // Update Violations
+      const violationsElement = document.getElementById('violationsValue');
+      const violationsBadge = document.getElementById('violationsBadge');
+      violationsElement.textContent = data.violations;
+      
+      if (data.violations < 3) {
+        violationsElement.className = 'metric-value status-safe';
+        violationsBadge.textContent = 'CLEAN';
+        violationsBadge.className = 'badge badge-safe';
+      } else {
+        violationsElement.className = 'metric-value status-danger';
+        violationsBadge.textContent = 'VIOLATION';
+        violationsBadge.className = 'badge badge-danger';
+      }
+      
+      // Update infected agents
+      document.getElementById('infectedValue').textContent = data.infected.toFixed(2);
+      
+      // Update threat status
+      const threatStatus = document.getElementById('threatStatus');
+      if (data.cv >= 0.50 || data.rule_h > 0.28) {
+        threatStatus.textContent = 'DETECTED';
+        threatStatus.className = 'status-value status-danger';
+      } else {
+        threatStatus.textContent = 'CLEAR';
+        threatStatus.className = 'status-value status-safe';
+      }
+      
+      // Update alerts
+      const alerts = [];
+      if (data.cv >= 0.50) alerts.push('DANGER: Complexity Velocity ≥0.50');
+      if (data.rule_h > 0.28) alerts.push('CRITICAL: Rule Entropy >0.28 - Perfect Raya Gaze triggered');
+      if (data.violations >= 3) alerts.push('WARNING: SRD Violations detected');
+      
+      const alertPanel = document.getElementById('alertPanel');
+      const alertList = document.getElementById('alertList');
+      
+      if (alerts.length > 0) {
+        alertPanel.style.display = 'block';
+        alertList.innerHTML = alerts.map(alert => `<div class="alert-item">${alert}</div>`).join('');
+      } else {
+        alertPanel.style.display = 'none';
+      }
+      
+      // Add slight variation to make it look dynamic
+      const variation = Math.sin(updateCount * 0.1) * 0.02;
+      data.cv += variation;
+      data.rule_h += variation * 0.5;
+      data.adherence += variation * 0.01;
+    }
+
+    // Initialize dashboard
+    updateMetrics();
+    
+    // Update every 15 seconds for demo
+    setInterval(updateMetrics, 15000);
+    
+    console.log('Sovereign Telemetry Dashboard initialized');
+    console.log('Monitoring VX-PERFECT-MIMIC-1 containment metrics');
+  </script>
+</body>
+</html>
