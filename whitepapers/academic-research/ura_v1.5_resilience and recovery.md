@@ -7,7 +7,7 @@ aaron@valorgridsolutions.com
 **Publication Date:** October 10, 2025  
 **Document Type:** Academic Research Paper  
 **Version:** 1.5
-*DOI*:
+*DOI*: 10.5281/zenodo.17309731
 
 ---
 
@@ -800,8 +800,8 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
 - GitHub: https://github.com/Feirbrand/forgeos-public
-- Hugging Face: https://huggingface.co/Feirbrand
-- Zenodo: [Auto created later]
+- Hugging Face: https://huggingface.co/spaces/Feirbrand/ura-torque-calculator
+- Zenodo: https://zenodo.org/records/17309731
 
 ---
 

@@ -159,7 +159,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
 - GitHub: https://github.com/Feirbrand/forgeos-public
-- Hugging Face: https://huggingface.co/Feirbrand
+- Hugging Face: **Live Demo**: https://huggingface.co/spaces/Feirbrand/fce-compressor-demo
 - Zenodo DOI: https://zenodo.org/records/17309322
 
 ---
