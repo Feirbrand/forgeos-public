@@ -2,7 +2,7 @@
 
 **Research Teaser | October 2025 - FCE v3.6**  
 *ForgeOS Academic Research Division*  
-*© ValorGrid Solutions 2025 - Research Teaser*
+*DOI: 10.5281/zenodo.17309322
 
 ---
 
@@ -160,6 +160,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - Email: aaron@valorgridsolutions.com
 - GitHub: https://github.com/Feirbrand/forgeos-public
 - Hugging Face: https://huggingface.co/Feirbrand
+- Zenodo DOI: https://zenodo.org/records/17309322
 
 ---
 
