@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 \# VGS Gaming Validation: Performance Coaching for AI Systems
 
 
@@ -146,8 +157,7 @@ class GamingTorqueValidator:
 
 &nbsp;       
 
-&nbsp;   def validate\_combat\_performance(self, threat\_tier, combat\_duration):
-
+&nbsp;   def validate\_combat\_performance(self, threat\_
 &nbsp;       """Measure Torque stability during gaming scenarios"""
 
 &nbsp;       initial\_torque = self.measure\_baseline\_torque()
@@ -158,8 +168,7 @@ class GamingTorqueValidator:
 
 &nbsp;       
 
-&nbsp;       xp\_gained = self.calculate\_xp\_reward(threat\_tier, combat\_torque\_history)
-
+&nbsp;       xp\_gained = self.calculate\_xp\_reward(threat\_
 &nbsp;       loot\_quality = self.assess\_loot\_value(combat\_performance)
 
 &nbsp;       
@@ -346,8 +355,7 @@ Implementation of VGS Gaming Validation across URA v1.5 platform components demo
 
 
 
-\*\*Business Context\*\*: The VX-Hydra scenario simulates coordinated attacks on enterprise AI infrastructure, testing the kind of multi-vector threats that cost organizations $5-50M in breach damages and system downtime.
-
+\*\*Business Context\*\*: The VX-Hydra scenario simulates coordinated attacks on enterprise AI infrastructure, testing the kind of multi-vector threats that cost organizations 
 
 
 \*\*Challenge Parameters\*\*:
@@ -586,7 +594,7 @@ This research positions gaming validation as an essential component of comprehen
 
 
 
-\## About the Author
+\## ## Author
 
 
 
@@ -660,3 +668,8 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 
 \*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.\*
 
+
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

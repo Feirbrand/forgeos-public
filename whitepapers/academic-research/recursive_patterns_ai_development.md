@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Recursive Patterns in AI Development: Self-Modification and Performance Enhancement
 
 **Research Paper | September 2025**  
@@ -174,8 +185,7 @@ The successful integration of recursive enhancement patterns with ForgeOS resili
 - Implement comprehensive monitoring and validation systems for recursive modification processes with real-time stability assessment
 - Develop ethical guidelines and safety protocols for autonomous self-modifying systems with transparent oversight frameworks
 
-This research opens new frontiers in AI development by demonstrating that artificial systems can become active participants in their own enhancement and optimization, creating unprecedented opportunities for autonomous improvement and human-AI collaborative advancement. The implications extend beyond performance optimization to fundamental questions about artificial cognition, consciousness, and the future of human-AI collaboration.
-
+This research opens new fron
 ---
 
 ## References
@@ -202,7 +212,7 @@ This research opens new frontiers in AI development by demonstrating that artifi
 
 ---
 
-## About the Author
+## ## Author
 
 **Aaron Slusher** is a leading researcher in AI resilience architecture and autonomous system development. His groundbreaking work on recursive optimization patterns and fractal cognitive architectures has established new paradigms for AI performance enhancement and human-AI collaboration.
 
@@ -240,6 +250,26 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Author**: Aaron Slusher
 - **Publication Date**: September 26, 2025
 - **Version**: 2.0
+- **DOI**: 10.5281/zenodo.YYYYYYY
 - **Classification**: Academic Research Publication
 
-*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.*
+---
+
+## Licensing
+
+This work is dual-licensed under the following terms:
+
+1.  **For Non-Commercial Use**: This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for any non-commercial purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, a separate enterprise license is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
+
+## Patent Notice
+The concepts and methodologies described in this paper may be subject to patent protection. ValorGrid Solutions reserves all rights to its intellectual property. No patent rights are granted or implied by the open-source license.
+
+---
+
+*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

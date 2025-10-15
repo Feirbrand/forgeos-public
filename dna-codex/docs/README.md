@@ -1,3 +1,15 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No pricing/revenue/subscription terms in this document.
+-->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # DNA Codex Documentation
 
 Comprehensive documentation for the ForgeOS DNA Codex v5.3.6, a threat intelligence database tracking 525+ parasitic AI patterns. Updated with 7-month research velocity (Feb-Sep 2025), integrating Torque Quantitative Foundation, CSFC Unified Theory, and URA v1.5 deployment validation.
@@ -116,3 +128,12 @@ DNA Codex documentation support and implementation guidance available through **
 ---
 
 *DNA Codex Documentation | Threat Intelligence Research Foundation*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

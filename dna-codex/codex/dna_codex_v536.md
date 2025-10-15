@@ -1,3 +1,15 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No pricing/revenue/subscription terms in this document.
+-->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # DNA Codex v5.3.6 - Public Threat Intelligence Update
 
 ## Overview
@@ -370,8 +382,7 @@ DNA Codex v5.3.6 builds upon v5.3.5 with 8 new AI parasite variants identified t
 
 **Threat Intelligence**:
 - 3,000% fraud spike (2025)
-- $25.6M in documented losses
-- 8M deepfake files surge
+- - 8M deepfake files surge
 - CEO fraud primary vector
 
 **General Mitigation**:
@@ -438,8 +449,7 @@ DNA Codex v5.3.6 builds upon v5.3.5 with 8 new AI parasite variants identified t
 | Category | 2025 Finding | Efficacy | Related Strains | Source |
 |----------|--------------|----------|-----------------|--------|
 | Agentic Worms | 76% polymorphic evasion increase | 81% isolation | AW-001 | IBM Q3 2025 |
-| Deepfake Fraud | 3,000% spike, $25.6M losses | 84% liveness shields | DF-001 | Industry Reports |
-| Desync Attacks | 50%+ performance degradation | 77% resync | PDS-001 | NIST IR 8457 |
+| Deepfake Fraud | 3,000% spike, | Desync Attacks | 50%+ performance degradation | 77% resync | PDS-001 | NIST IR 8457 |
 | Prompt Injection | #1 OWASP agentic threat | 83% detection | VMO-001, AB-001 | OWASP AI 2025 |
 | Identity Oscillation | Cooperation-refusal patterns | 83% flagging | VMO-001 | Anthropic Aug 2025 |
 | Teaching Loops | Authority confusion exploitation | 79% reversal | VPM-001 | VictoryShade Analysis |
@@ -506,3 +516,7 @@ Threat intelligence contributions welcome via responsible disclosure:
 **Status**: Public Release  
 **Maintainer**: SIF Defense Architecture Team  
 **Contact**: Via responsible disclosure channels
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

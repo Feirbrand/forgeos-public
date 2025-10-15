@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: ** [Pending Zenodo Upload]
+Version: ** 1.5
+Priority Date: 2025-10-15
+
 # Unified Resilience Architecture (URA) v1.5: A Comprehensive Framework for AI System Resilience and Recovery
 
 **Aaron Slusher**  
@@ -773,7 +784,7 @@ The Unified Resilience Architecture provides the theoretical foundations, practi
 
 ---
 
-## About the Author
+## ## Author
 
 Aaron Slusher
 AI Resilience Architect | Performance Systems Designer
@@ -1002,3 +1013,7 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 ---
 
 **END OF DOCUMENT**
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

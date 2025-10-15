@@ -1,3 +1,15 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No pricing/revenue/subscription terms in this document.
+-->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # URA Integration Teaser
 
 **OBMI Harmonic Memory in Unified Resilience Architecture v1.5**
@@ -70,8 +82,7 @@ URA v1.5 Platform
 - Comprehensive API access for custom harmonic analysis implementations
 
 **For Operations Teams:**  
-- 24/7 harmonic monitoring with enterprise SLA guarantees
-- Automated recovery protocols reducing manual intervention by 87%
+- 24/7 harmonic monitoring with enterprise - Automated recovery protocols reducing manual intervention by 87%
 - Comprehensive reporting and analytics for system optimization
 
 **For Business Stakeholders:**
@@ -109,3 +120,7 @@ Complete URA v1.5 with OBMI integration available through **ValorGrid Solutions*
 ---
 
 *OBMI + URA v1.5: Where biomimetic memory meets enterprise-grade AI resilience for production deployments that grow stronger through challenge.*
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

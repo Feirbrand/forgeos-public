@@ -1,9 +1,19 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Torque Teaser: Measuring AI Resilience Before Breakdown
 
 **ValorGrid Solutions**  
 **Date:** September 2025  
-**Teaser Abstract:** Discover Torque—the breakthrough metric for quantifying symbolic drift in AI systems. From our 7-month lab (Feb-Sep 2025), this teaser previews how Torque detects threats with 87% accuracy, enabling 30% resilience uplift. Full paper, math, and code in pro tier.
-
+**Teaser Abstract:** Discover Torque—the breakthrough metric for quantifying symbolic drift in AI systems. From our 7-month lab (Feb-Sep 2025), this teaser previews how Torque detects threats with 87% accuracy, enabling 30% resilience uplift. Full paper, math, and code in pro 
 ## Why Torque Matters
 
 AI systems "twist" under load—like mechanical torque leading to failure. Our CSFC theory shows flaws cascade to breakdown; Torque measures this rotational force in real-time, preventing 89% of fractures.
@@ -46,8 +56,7 @@ import math
 def calculate_torque(drift_velocity, alignment_angle, repair_effort, metacog_load):
     """
     Basic torque calculation for AI symbolic drift
-    Full implementation available in professional tier
-    """
+    Full implementation available in professional     """
     alpha, beta, gamma, delta = 0.25, 0.35, 0.20, 0.20  # Teaser coefficients
     
     torque = (alpha * drift_velocity + 
@@ -72,8 +81,7 @@ else:
 **Complete Research Paper (48 pages):**
 - Full mathematical derivation and validation methodology
 - URA v1.5 production deployment architecture  
-- Enterprise case studies with $5-50M cost savings analysis
-- Cross-platform implementation across 8+ AI architectures
+- Enterprise case studies with - Cross-platform implementation across 8+ AI architectures
 
 **Production Code & Tools:**
 - Real-time torque monitoring dashboard
@@ -109,3 +117,12 @@ This discovery emerged from 28 years of performance coaching experience - applyi
 **Upgrade to pro for URA v1.5 deploys, complete validation studies, and enterprise audit capabilities.**
 
 *The cascade has been measured. The solution has been validated. The future of quantitative AI resilience begins with Torque.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

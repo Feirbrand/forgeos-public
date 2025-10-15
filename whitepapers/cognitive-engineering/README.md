@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Cognitive Engineering Division
 
 ![Research Status: Validated](https://img.shields.io/badge/Research%20Status-Validated-green.svg)
@@ -175,3 +186,12 @@ Community Support: GitHub Issues and Discussions
 Professional Services: valorgridsolutions.com
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

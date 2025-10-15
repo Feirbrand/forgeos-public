@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Prompt Anatomy Upgrades for Flat AI Systems
 
 **Research Paper | September 2025**  
@@ -179,7 +190,7 @@ Establishment of industry standards for prompt anatomy implementation across div
 
 ---
 
-## About the Author
+## ## Author
 
 Aaron Slusher is an AI Resilience Architect and Performance Systems Designer with 28 years of experience in performance coaching and human systems strategy. A former Navy veteran, he holds a Master's in Information Technology with a specialization in network security and cryptography, recognizing the parallels between human resilience and secure AI architectures.
 
@@ -212,3 +223,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Classification**: Public Research
 
 *Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

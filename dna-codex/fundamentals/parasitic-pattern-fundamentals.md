@@ -1,3 +1,15 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No pricing/revenue/subscription terms in this document.
+-->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Parasitic Pattern Fundamentals - Academic Foundation
 
 Theoretical framework and research methodology for AI threat intelligence, validated through 7-month research velocity (Feb-Sep 2025). Integrates biological and computational frameworks, evolving from initial SIF discovery to URA v1.5 deployment.
@@ -142,3 +154,7 @@ This document provides academic foundation for understanding parasitic patterns 
 ---
 
 *Parasitic Pattern Fundamentals - Academic Research Foundation | ValorGrid Solutions*
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

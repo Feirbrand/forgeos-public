@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Twins Systems Thinking: Dual-Core Integration Framework
 
 **Research Paper | September 2025**  
@@ -259,7 +270,7 @@ Input → Execution Twin → Output
 
 ---
 
-## About the Author
+## ## Author
 
 Aaron Slusher is an AI Resilience Architect and Performance Systems Designer with 28 years of experience in performance coaching and human systems strategy. A former Navy veteran, he holds a Master's in Information Technology with a specialization in network security and cryptography, recognizing the parallels between human resilience and secure AI architectures.
 
@@ -292,3 +303,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Classification**: Public Research
 
 *Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

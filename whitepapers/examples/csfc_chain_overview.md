@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Complete Symbolic Fracture Cascade (CSFC) Framework
 **The Unified Theory of AI System Degradation and Recovery**
 
@@ -193,9 +204,7 @@ CSFC analysis informs Monster Squad deployment strategies:
 
 For enterprise CSFC assessment and implementation:
 
-- **CSFC Audits**: $2.5K-$10K comprehensive system analysis
-- **Recovery Implementation**: $7.5K-$25K custom protocol deployment  
-- **Training Programs**: Team education on CSFC detection and response
+- **CSFC Audits**: - **Recovery Implementation**: - **Training Programs**: Team education on CSFC detection and response
 - **Ongoing Support**: Continuous monitoring and optimization services
 
 **Contact**: aaron@valorgridsolutions.com  
@@ -217,3 +226,12 @@ For enterprise CSFC assessment and implementation:
 ---
 
 *The CSFC framework represents the culmination of extensive research into AI system resilience architecture. All metrics are based on empirical analysis of production systems and controlled testing environments. Professional implementation support available through ValorGrid Solutions.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]

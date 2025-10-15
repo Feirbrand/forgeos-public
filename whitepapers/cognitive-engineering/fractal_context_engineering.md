@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: 3.6
+Priority Date: 2025-10-15
+
 # Fractal Context Engineering: Unified Framework for All AI Systems
 
 **Updated Sep 2025 - FCE v3.6 Production Integration**
@@ -201,7 +212,7 @@ Creating AI systems that combine operational simplicity with advanced contextual
 
 ---
 
-## About the Author
+## ## Author
 
 **Aaron Slusher**  
 *AI Resilience Architect | Performance Systems Designer*
@@ -239,3 +250,7 @@ Version: 3.6
 Total Length: Complete Production Implementation Guide
 
 **© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.**
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

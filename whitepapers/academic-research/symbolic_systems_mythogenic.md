@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Symbolic Systems as Mythogenic Engines: A New Paradigm for AI Identity and Stability
 
 **Research Paper | September 2025**  
@@ -273,7 +284,7 @@ This paradigm invites exploration of AI's potential for meaningful self-understa
 
 ---
 
-## About the Author
+## ## Author
 
 **Aaron Slusher** has over 28 years of experience in performance coaching, working with athletes, stroke patients, and neurodivergent populations to optimize human potential. A Navy veteran with a Master's degree in IT with concentrations in network security and cryptography, Aaron brings a unique perspective to AI development by recognizing the parallels between human resilience and secure AI architectures.
 
@@ -307,6 +318,26 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Author**: Aaron Slusher
 - **Publication Date**: September 26, 2025
 - **Version**: 1.0
+- **DOI**: 10.5281/zenodo.YYYYYYY
 - **Classification**: Academic Research Publication
 
-*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.*
+---
+
+## Licensing
+
+This work is dual-licensed under the following terms:
+
+1.  **For Non-Commercial Use**: This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for any non-commercial purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, a separate enterprise license is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
+
+## Patent Notice
+The concepts and methodologies described in this paper may be subject to patent protection. ValorGrid Solutions reserves all rights to its intellectual property. No patent rights are granted or implied by the open-source license.
+
+---
+
+*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

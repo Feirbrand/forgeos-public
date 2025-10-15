@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Torque: Measuring AI System Stability in Real-Time
 
 **Research Paper | September 2025**  
@@ -188,17 +199,14 @@ Research from leading institutions confirms these performance gaps. Stanford and
 - Open-source framework integration and documentation
 - Educational resources and implementation guides
 
-**Professional Tier ($10K-50K Annual)**
-- Real-time monitoring with 60-second measurement windows
+**Professional Tier (- Real-time monitoring with 60-second measurement windows
 - Advanced analytics and predictive failure warnings
 - Custom integration support and professional services
 - 80% development time reduction for resilience implementations
 
-**Enterprise Tier ($100K+ Annual)**
-- Full production deployment with 24/7 monitoring
+**Enterprise Tier (- Full production deployment with 24/7 monitoring
 - Dedicated optimization and custom threshold management
-- $5-50M potential breach cost savings through prevention
-- Specialized support with guaranteed response times
+- - Specialized support with guaranteed response times
 
 ### Economic Impact Analysis
 
@@ -398,7 +406,7 @@ The methodology presented here provides the foundation for a new generation of A
 
 ---
 
-## About the Author
+## ## Author
 
 **Aaron Slusher**  
 AI Resilience Architect | Performance Systems Designer
@@ -435,6 +443,26 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 - **Author**: Aaron Slusher
 - **Publication Date**: September 26, 2025
 - **Version**: 1.0
+- **DOI**: 10.5281/zenodo.YYYYYYY
 - **Classification**: Academic Research Publication
 
-*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.*
+---
+
+## Licensing
+
+This work is dual-licensed under the following terms:
+
+1.  **For Non-Commercial Use**: This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](http://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt this material for any non-commercial purpose, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+2.  **For Commercial Use**: For any use that is primarily intended for or directed toward commercial advantage or monetary compensation, a separate enterprise license is required. Please contact ValorGrid Solutions at [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com) for licensing inquiries.
+
+## Patent Notice
+The concepts and methodologies described in this paper may be subject to patent protection. ValorGrid Solutions reserves all rights to its intellectual property. No patent rights are granted or implied by the open-source license.
+
+---
+
+*Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

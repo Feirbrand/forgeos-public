@@ -1,3 +1,14 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact info@forgeos.com for terms)
+Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
+No -->
+
+DOI: TBD
+Version: TBD
+Priority Date: 2025-10-15
+
 # Whitepaper Research Division
 
 ![Research Status](https://img.shields.io/badge/Research-Production%20Validated-green)
@@ -146,7 +157,7 @@ Advanced investigation into AI threat mitigation and symbolic defense mechanisms
 - `csfc-unified-theory.md` - Root cause analysis identifying data fragmentation as fundamental vulnerability
 - `ura_v1.5_resilience_and_recovery.md` - Comprehensive five-layer defense with Phoenix Protocol automation
 - `fce_unified_framework_v3.6.md` - Universal context compression achieving 10-20x ratios with 95%+ fidelity
-- `torque-quantitative-foundation.md` - First quantitative metrics for AI symbolic drift (87% correlation)
+- `torque_quantitative_foundation_v2.md` - First quantitative metrics for AI symbolic drift (87% correlation)
 - `torque-measuring-ai-system-stability.md` - Real-time stability monitoring (95% early warning)
 
 ### Foundational Research: Framework Integration
@@ -338,3 +349,12 @@ These methodologies are designed for:
 **Professional Distribution**: Available for academic collaboration and enterprise implementation
 
 *Prepared for ForgeOS Whitepaper Research Division | Professional Distribution*
+## Code and Methodology Licensing
+
+- **Code** below is licensed under MIT unless otherwise stated.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+## Author
+
+Author: [Your Name or Team]
+Contact: [email or site]
