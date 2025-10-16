@@ -22,8 +22,9 @@ forgeos-public/
 │   ├── threat-intelligence/        # Threat pattern documentation
 │   └── utilities/                  # Diagnostic and analysis tools
 │
-├── dna-codex/                      # Threat intelligence database
-│   ├── codex/                      # Comprehensive threat catalog
+├── threat-resilience-codex/        # Threat intelligence database
+│   ├── dna-codex/                  # Comprehensive threat catalog
+│   ├── research-papers/            # Academic papers
 │   ├── docs/                       # Intelligence documentation
 │   └── fundamentals/               # Core threat analysis principles
 │
