@@ -74,7 +74,7 @@ Commercial use requires a separate enterprise license.
 All uses must include:
 ```
 Based on Torque v2.0 by Aaron Slusher, ValorGrid Solutions
-DOI: 10.5281/zenodo.17362173
+DOI: 10.5281/zenodo.17373552
 Licensed under CC BY-NC 4.0 for non-commercial use
 ```
 
