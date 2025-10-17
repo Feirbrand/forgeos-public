@@ -224,20 +224,14 @@ All research undergoes rigorous validation:
   doi={10.5281/zenodo.17379750}
 }
 ```
+Contact & Support
+Research Inquiries: aaron@valorgridsolutions.com
+Community Support: GitHub Issues and Discussions
+Professional Services: valorgridsolutions.com
 
-## Author & Contact
+© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
-**Contact**: aaron@valorgridsolutions.com  
-**Research Collaboration**: Open to academic and industry partnerships  
-**Professional Services**: ValorGrid Solutions  
-**GitHub**: github.com/Feirbrand/forgeos-public
+## Code and Methodology Licensing
 
-## License
-
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-**Enterprise Licensing**: Contact ValorGrid Solutions for production deployment licenses, professional implementations, and enterprise support packages.
-
----
-
-**© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

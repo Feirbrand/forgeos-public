@@ -247,8 +247,14 @@ defense_architecture:
 
 ---
 
-*Prepared for ForgeOS Threat Resilience Codex | Professional Distribution*
+Contact & Support
+Research Inquiries: aaron@valorgridsolutions.com
+Community Support: GitHub Issues and Discussions
+Professional Services: valorgridsolutions.com
 
-**Copyright © 2025 ValorGrid Solutions. All rights reserved.**
+© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
-This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) for non-commercial use. Enterprise licenses available at aaron@valorgridsolutions.com. Patent rights reserved; no patent assertion without enterprise license grant.
+## Code and Methodology Licensing
+
+- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

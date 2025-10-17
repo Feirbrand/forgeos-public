@@ -88,11 +88,6 @@ Integration teasers provide accessible introductions to complex ForgeOS framewor
 
 For complete framework implementations, custom integration consulting, or enterprise deployment:
 
-**Contact Information**:
-- **Website**: [valorgridsolutions.com](https://valorgridsolutions.com)
-- **Email**: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)
-- **GitHub**: [@Feirbrand/forgeos-public](https://github.com/Feirbrand/forgeos-public)
-
 ---
 
 Contact & Support
@@ -101,3 +96,8 @@ Community Support: GitHub Issues and Discussions
 Professional Services: valorgridsolutions.com
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+
+## Code and Methodology Licensing
+
+- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

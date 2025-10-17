@@ -191,11 +191,6 @@ Examples → Production Tools:
 - `torque_calc.py` → `../artifacts/utilities/torque_sim_clean.py` (enhanced simulation)
 - `obmi_harmony_stub.py` → `../artifacts/utilities/obmi_harmony_memory.py` (complete implementation)
 
-## Author & Contact
-
-**Contact**: aaron@valorgridsolutions.com  
-**Research Collaboration**: Open to academic and industry partnerships  
-**Professional Services**: ValorGrid Solutions
 
 ## License & Usage
 
@@ -205,8 +200,14 @@ MIT License - Educational and research use encouraged
 
 ---
 
-**© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
+Contact & Support
+Research Inquiries: aaron@valorgridsolutions.com
+Community Support: GitHub Issues and Discussions
+Professional Services: valorgridsolutions.com
+
+© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
+
 ## Code and Methodology Licensing
 
-- **Code** below is licensed under MIT unless otherwise stated.
+- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
