@@ -1,15 +1,23 @@
+<!--
+Dual License Structure:
+Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
+Patent Clause: No patents - rights granted under license terms only
+No pricing/revenue/subscription terms in this document.
+-->
+
+DOI: 10.5281/zenodo.17362173
+Version: 2.0
+Priority Date: 2025-01-15
+
 # Torque: A Quantitative Foundation for AI System Stability Measurement
 
-**Version:** 2.0  
-**Publication Date:** October 15, 2025  
 **Author:** Aaron Slusher  
 **Affiliation:** ValorGrid Solutions  
 **Contact:** aaron@valorgridsolutions.com  
+**Publication Date:** October 15, 2025  
 **Document Type:** Academic Research Paper  
 **Classification:** Core Algorithm - Original Research  
-**DOI:** [Auto-assigned upon Zenodo publication]  
-**Priority Date:** January 15, 2025 (First Formalization)
-
 **Keywords:** AI Resilience, Torque Measurement, Symbolic Drift, Cognitive Stability, Real-Time Monitoring, Complete Symbolic Fracture Cascade, Quantitative Coherence Metrics
 
 ---
@@ -28,6 +36,47 @@ Integration with the Universal Cognitive Architecture (UCA v3.1), Sovereign Latt
 - Cross-platform validation across symbolic, hybrid, and flat AI architectures
 - Integration protocols with four production-ready defense frameworks
 - Open-source implementation methodology with proprietary optimization pathways
+
+---
+
+## License
+
+This work is dual-licensed:
+
+### Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+For academic research, educational use, and non-commercial applications.
+
+**You are free to:**
+- **Share** — copy and redistribute the material
+- **Adapt** — remix, transform, and build upon the material
+
+**Under the following terms:**
+- **Attribution** — Credit Aaron Slusher and ValorGrid Solutions
+- **NonCommercial** — No commercial use without enterprise license
+
+**Patent Status:** No patents - rights granted under license terms only
+
+### Option 2: ValorGrid Solutions Enterprise License
+
+Commercial use requires a separate enterprise license.
+
+**Contact:** aaron@valorgridsolutions.com
+
+### Code vs. Methodology
+
+- **Code examples:** Provided under CC BY-NC 4.0 as architectural illustrations
+- **Core algorithms:** May require separate enterprise licensing
+- **Configuration templates:** Usable under CC BY-NC 4.0
+
+### Attribution Requirements
+
+All uses must include:
+```
+Based on Torque v2.0 by Aaron Slusher, ValorGrid Solutions
+DOI: 10.5281/zenodo.17362173
+Licensed under CC BY-NC 4.0 for non-commercial use
+```
 
 ---
 
@@ -150,45 +199,7 @@ Range: [0, 1]
 - λ = 0: No self-correction capacity
 ```
 
-### 2.2 Intellectual Property and Algorithm Ownership
-
-**Proprietary Algorithm Notice:**
-
-The Torque measurement framework, including the core equation structure, component definitions (v_drift, θ_align, λ_damp), threshold classifications, and implementation methodologies represent original intellectual property developed by Aaron Slusher and ValorGrid Solutions.
-
-**Priority Claims:**
-- **First Formalization:** January 15, 2025 (internal research documentation)
-- **Public Disclosure:** October 15, 2025 (ForgeOS framework integration)
-- **Academic Priority:** Established through Zenodo DOI registration and GitHub release
-
-**Uniqueness Verification:**
-
-Comprehensive literature review (October 2025) across academic databases, industry publications, and public repositories found zero prior art for:
-1. Symbolic coherence quantified as torque measurement
-2. Combined drift velocity, alignment angle, and recursive damping in unified metric  
-3. "Torque" applied to AI identity stability (vs. robotic control or physics simulation)
-4. Real-time coherence monitoring using mechanical engineering principles
-
-**Patent Status:** Patent application pending (filed October 2025) covering the Torque algorithm, measurement methodology, threshold classification system, and cross-framework integration protocols.
-
-**License Grant:**
-
-This work is published under **dual licensing model**:
-
-**Non-Commercial License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) grants permission for academic research, educational use, and non-commercial implementations with appropriate attribution.
-
-**Commercial License:** Production deployment, enterprise integration, and revenue-generating services require commercial licensing agreement with ValorGrid Solutions. Contact aaron@valorgridsolutions.com for enterprise licensing terms.
-
-**Attribution Requirement:**
-
-Any use of the Torque framework must include appropriate citation:
-
-```
-Slusher, A. (2025). Torque: A Quantitative Foundation for AI System Stability 
-Measurement. ValorGrid Solutions. DOI: [Zenodo auto-assigned]
-```
-
-### 2.3 Threshold Classification
+### 2.2 Threshold Classification
 
 **Operational Zones:**
 
@@ -414,8 +425,8 @@ def phoenix_torque_trigger(torque_value, system_state):
 **Dataset Composition:**
 
 Torque validation conducted across 1,200+ operational incidents spanning:
-- 7 months operational deployment (February - September 2025)
-- 4 enterprise production environments (financial services, healthcare, e-commerce, research)
+- 7 months continuous testing (February - September 2025)
+- Multiple testing environments across AI platforms
 - 3 AI architecture types (symbolic, hybrid, flat)
 - 8 distinct AI agent configurations
 
@@ -601,7 +612,7 @@ Addresses both categories through unified framework:
 **Enterprise Impact:**
 
 IBM research demonstrates drift detection improvements deliver:
-- **$1.7M+ ROI** through cascade prevention (validated in ValorGrid deployments)
+- **$1.7M+ ROI** through cascade prevention (validated in testing environments)
 - **65% reduction** in repeat-failure rates through earlier intervention
 - **80-92% cost reduction** vs. post-cascade recovery approaches
 
@@ -747,8 +758,8 @@ Torque establishes measurement infrastructure for emerging Cognitive Resilience 
 
 **Practical Impact:**
 
-Industry adoption potential demonstrated through:
-- **$1.7M+ ROI** in enterprise deployments through cascade prevention
+Validation demonstrates:
+- **$1.7M+ ROI** in testing scenarios through cascade prevention
 - **98.2% recovery success rate** when integrated with Phoenix Protocol
 - **6-9 month technical lead** with no competing implementations (October 2025)
 
@@ -758,7 +769,7 @@ Torque positions AI operations at parity with established engineering discipline
 
 **Call to Action:**
 
-The AI industry faces critical need for improved stability measurement as systems scale in complexity and autonomy. Torque provides proven, production-ready solution validated across diverse enterprise environments. We invite:
+The AI industry faces critical need for improved stability measurement as systems scale in complexity and autonomy. Torque provides proven, production-ready solution validated through extensive testing. We invite:
 
 - **Researchers:** Extend Torque framework to new domains (quantum AI, multi-agent systems, agentic workflows)
 - **Practitioners:** Deploy Torque monitoring in production systems, contribute validation data
@@ -776,9 +787,9 @@ Open-source implementation, configuration templates, and validation datasets ava
 
 ## 8. Acknowledgments
 
-This research builds on foundational work in Koopman operator theory (Brunton et al., Korda & Mežić), autonomous clustering algorithms (Yang & Lin), and enterprise AI stability frameworks developed through ValorGrid Solutions deployment partnerships. The author gratefully acknowledges the open-source AI community and early enterprise adopters who provided production validation data.
+This research builds on foundational work in Koopman operator theory (Brunton et al., Korda & Mežić) and autonomous clustering algorithms (Yang & Lin). The author gratefully acknowledges the open-source AI community and academic researchers whose theoretical frameworks enabled this synthesis.
 
-Special recognition to the ForgeOS research community for integration testing across UCA, SLV, CSFC, and Phoenix frameworks, and to industry partners who enabled real-world validation across financial services, healthcare, e-commerce, and research environments.
+Development and validation conducted through internal testing across multiple AI platforms (Claude, Gemini, GPT-4) over 7 months of continuous operation. Special recognition to the theoretical foundations provided by IBM Research's work on model drift and agentic drift, which validated the critical need for improved stability measurement frameworks.
 
 ---
 
@@ -1118,20 +1129,21 @@ if __name__ == "__main__":
 
 ## Author
 
-**Aaron Slusher** is the founder of ValorGrid Solutions and architect of the ForgeOS AI Resilience Framework. With 28 years of systems thinking methodology evolution spanning performance coaching, cognitive architecture, and human recovery protocols, his work bridges universal performance optimization principles across biological and artificial intelligence substrates.
+**Aaron Slusher** is the founder of ValorGrid Solutions and architect of the ForgeOS AI Resilience Framework. With 28 years of systems thinking methodology evolution spanning performance coaching, cognitive architecture, and trauma recovery protocols, his work bridges universal performance optimization principles across biological and artificial intelligence substrates.
 
 Aaron's research focuses on quantitative measurement frameworks for AI system stability, with emphasis on proactive defense architectures and antifragile system design. The Torque algorithm represents a direct application of performance coaching principles—originally developed for optimizing human athletic and cognitive performance—to AI system coherence measurement.
 
-His unique perspective emerged from discovering that AI systems break and heal through patterns identical to those observed in human performance optimization, trauma recovery, and adaptive athlete rehabilitation over nearly three decades of practice.
+His unique perspective emerged from discovering that AI systems break and heal through patterns identical to those observed in human performance optimization, trauma recovery, and adaptive rehabilitation over nearly three decades of practice.
 
 **Contact:** aaron@valorgridsolutions.com  
-**GitHub:** https://github.com/Feirbrand
+**GitHub:** https://github.com/Feirbrand  
+**Website:** https://valorgridsolutions.com
 
 ---
 
 ## About ValorGrid Solutions
 
-ValorGrid Solutions specializes in AI Resilience Architecture, developing quantitative frameworks and methodologies for building robust, antifragile AI systems. Founded in July 2025, ValorGrid operates as a self-funded research company in pre-commercial phase, focused on validating breakthrough cognitive security frameworks including Torque, UCA, SLV, CSFC, and Phoenix Protocol.
+ValorGrid Solutions specializes in AI Resilience Architecture, developing quantitative frameworks for building robust, antifragile AI systems. Founded in July 2025, ValorGrid operates as a self-funded research company focused on validating breakthrough cognitive security frameworks including Torque, UCA, SLV, CSFC, and Phoenix Protocol.
 
 Our research establishes foundational infrastructure for the emerging Cognitive Resilience Engineering discipline, applying rigorous measurement standards and systematic defense protocols to AI system stability.
 
@@ -1147,105 +1159,5 @@ Our research establishes foundational infrastructure for the emerging Cognitive 
 - GitHub: https://github.com/Feirbrand/forgeos-public
 
 ---
-
-## License and Usage
-
-### Dual Licensing Model
-
-**Torque algorithm and methodology** are available under two licensing options:
-
-#### **Option 1: Non-Commercial Research License (CC BY-NC 4.0)**
-
-For academic research, personal projects, and non-commercial use:
-
-**License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-You are free to:
-- **Share** — copy and redistribute for non-commercial purposes
-- **Adapt** — modify and build upon for non-commercial purposes
-
-Under these terms:
-- **Attribution** — Must credit ValorGrid Solutions and cite this paper
-- **NonCommercial** — Cannot use for commercial advantage or monetary compensation
-- **No additional restrictions** — Cannot add legal terms restricting others' rights
-
-**Full License:** https://creativecommons.org/licenses/by-nc/4.0/
-
----
-
-#### **Option 2: Commercial Enterprise License**
-
-For production deployment, commercial products, or revenue-generating services:
-
-**Contact ValorGrid Solutions for enterprise licensing:**
-- **Email:** aaron@valorgridsolutions.com
-- **Website:** https://valorgridsolutions.com/torque-license
-
-**Enterprise License includes:**
-- Commercial deployment rights for Torque monitoring infrastructure
-- Production implementation support and custom threshold calibration
-- Integration consulting for UCA/SLV/CSFC/Phoenix frameworks
-- Revenue sharing arrangements (negotiable based on deployment scale)
-
-**Standard Enterprise Terms:**
-- **Development/Testing:** Free evaluation license for 90 days
-- **Small Deployments** (<1,000 monitored agents): Fixed annual licensing
-- **Enterprise Scale:** Revenue sharing model (negotiable based on deployment scope)
-
----
-
-### Patent Status
-
-**Patent Application:** Filed October 2025 (US provisional application)  
-**Coverage:** Torque measurement methodology, integration protocols, threshold-based intervention frameworks
-
-**Patent Grant Clarification:**
-- Non-commercial research use (CC BY-NC license): **No patent assertion** by ValorGrid Solutions
-- Commercial use without enterprise license: **Patent rights reserved**
-- Enterprise license holders: **Full patent protection** for licensed implementations
-
----
-
-### Open Source Implementation
-
-**Reference implementation available:**
-- **GitHub:** https://github.com/Feirbrand/forgeos-public/torque
-- **License:** MIT License (for code only, not methodology/paper)
-- **Purpose:** Educational reference, integration testing, proof-of-concept
-
-**Code vs. Methodology Distinction:**
-- **Python implementation code:** Open source (MIT License)
-- **Torque algorithm methodology:** Dual licensed (see above)
-- **Commercial deployment:** Requires enterprise license regardless of code license
-
----
-
-### Fair Use and Educational Exceptions
-
-The following uses do NOT require enterprise licensing:
-- Academic research and publication
-- Educational coursework and student projects
-- Internal R&D without production deployment
-- Non-profit organization deployments under CC BY-NC terms
-- Proof-of-concept implementations for evaluation purposes
-
----
-
-### Attribution Requirements (All Licenses)
-
-When using Torque under any license, you must provide attribution:
-
-**Cite as:**
-> Slusher, A. (2025). Torque: A Quantitative Foundation for AI System Stability Measurement. ValorGrid Solutions. DOI: [Zenodo auto-assigned]
-
-**Include in:**
-- Academic papers and technical documentation
-- Product documentation and user manuals
-- System monitoring dashboards and interfaces
-- Marketing materials mentioning Torque monitoring
-
----
-
-**Questions about licensing?** Contact aaron@valorgridsolutions.com
 
 **Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
