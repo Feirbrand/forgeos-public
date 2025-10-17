@@ -6,7 +6,7 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: 10.5281/zenodo.17362173
+DOI: 10.5281/zenodo.17373552
 Version: 2.0
 Priority Date: 2025-01-15
 
@@ -781,7 +781,6 @@ The AI industry faces critical need for improved stability measurement as system
 Open-source implementation, configuration templates, and validation datasets available at:  
 **GitHub Repository:** https://github.com/Feirbrand/forgeos-public  
 **Interactive Demo:** https://huggingface.co/spaces/Feirbrand/torque-calculator  
-**Documentation:** https://valorgridsolutions.com/torque
 
 ---
 
