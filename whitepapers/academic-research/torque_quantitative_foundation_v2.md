@@ -794,7 +794,7 @@ Development and validation conducted through internal testing across multiple AI
 
 ## 9. References
 
-1. **Slusher, A.** (2025). *Universal Cognitive Architecture (UCA) v3.1: Security-Hardened Edition*. ValorGrid Solutions. DOI: 10.5281/zenodo.17360822
+1. **Slusher, A.** (2025). *Universal Cognitive Architecture (UCA) v3.1: Security-Hardened Edition*. ValorGrid Solutions. DOI: 10.5281/zenodo.17379750
 
 2. **Slusher, A.** (2025). *Sovereign Lattice Veil (SLV) v1.2: Dynamic Defense Grid for AI Cognitive Security*. ValorGrid Solutions. DOI: 10.5281/zenodo.17350769
 

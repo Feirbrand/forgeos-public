@@ -221,7 +221,7 @@ All research undergoes rigorous validation:
   pages={445-498},
   year={2025},
   publisher={ValorGrid Solutions},
-  doi={10.5281/zenodo.17360822}
+  doi={10.5281/zenodo.17379750}
 }
 ```
 
