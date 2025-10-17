@@ -6,7 +6,7 @@ Patent Clause: No patent rights are claimed for this work
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD (Pending Zenodo Assignment)
+DOI: 10.5281/zenodo.17382346
 Version: 2.1.0
 Priority Date: 2025-10-17
 
@@ -753,7 +753,7 @@ Slusher, A. (2025). RAY Framework v2.1: Recursive Adaptive Yield with DD Enhance
   title = {RAY Framework v2.1: Recursive Adaptive Yield with DD Enhancements - Antifragile Cognitive Physiology for Distributed AI Defense},
   institution = {ValorGrid Solutions},
   year = {2025},
-  doi = {TBD},
+  doi = {10.5281/zenodo.17382346},
   month = {October},
   version = {2.1.0}
 }

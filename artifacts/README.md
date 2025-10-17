@@ -10,7 +10,7 @@ DOI: TBD
 Version: 1.2
 Priority Date: 2025-10-17
 
-# Artifacts
+# Artifacts Division
 
 **Interactive Research Tools & Threat Intelligence**
 
