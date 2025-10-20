@@ -6,11 +6,10 @@ Patent Clause: No patents - rights granted under license terms only
 No pricing/revenue/subscription terms in this document.
 -->
 
-DOI: TBD
-Version: 2.1
-Priority Date: 2025-10-17
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--9923--3207-green.svg)](https://orcid.org/0009-0000-9923-3207)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17399834.svg)](https://doi.org/10.5281/zenodo.17399834)
 
-# RAY v2.1: Recursive Adaptive Yield
+# RAY (Recursive Adaptive Yield) Framework v2.1
 
 **Antifragile Cognitive Physiology for AI Defense**
 
