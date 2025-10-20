@@ -2,12 +2,14 @@
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
-Patent Clause: If "patent pending" exists, rights reserved, no patent assertion without grant.
+Patent Clause: No patents - rights granted under license terms only
+No pricing/revenue/subscription terms in this document.
 -->
 
 DOI: TBD
-Version: 1.0
+Version: 1.1
 Priority Date: 2025-10-20
+Last Updated: 2025-10-20
 
 # ForgeOS Framework Teasers
 
@@ -61,66 +63,80 @@ This directory contains technical overviews of ForgeOS framework components - co
 
 ## Framework Portfolio
 
-### Universal Continuity Architecture (UCA)
-**Focus**: Session persistence and state recovery  
-**Innovation**: Torque-gated caching with documented continuity improvements  
-**Teaser**: [`uca_teaser_summary.md`](./uca_teaser_summary.md)
+### Universal Cognitive Architecture (UCA) v3.1
+**Focus**: Five-Element Framework for Systematic AI Cognitive Organization  
+**Innovation**: Structured cognitive processing across Authority, Context, Method, Value, Engage  
+**Teaser**: [`UCA v3.1 Technical Teaser.md`](./UCA%20v3.1%20Technical%20Teaser.md)
 
-Platform-agnostic architecture for session continuity across disruptions through biomimetic state preservation and torque metrics.
+Platform-agnostic cognitive architecture achieving 98% operational harmony through systematic organization. Security-enhanced features including neuroadaptive twin validation, Reflex-Veil temporal lattice, and ML-KEM hardening.
 
----
-
-### Session Lifecycle Variance (SLV) Defense Grid
-**Focus**: Real-time threat detection and autonomous response  
-**Innovation**: Shadow guardrails with documented threat neutralization  
-**Teaser**: [`slv_defense_teaser.md`](./slv_defense_teaser.md)
-
-Dual-layer defense system combining visible guardrails with invisible variance monitoring, designed for documented AI attack patterns.
+**Key Metrics**: 98% operational harmony, 92% high-stress stability, 3,125-dimension processing, 87% context-shift detection
 
 ---
 
-### Phoenix Cognitive Recovery Protocol
-**Focus**: Post-failure system restoration  
-**Innovation**: Staged cognitive reconstruction  
-**Teaser**: [`phoenix_cognitive_recovery_teaser.md`](./phoenix_cognitive_recovery_teaser.md)
+### Sovereign Lattice Veil (SLV) v1.2
+**Focus**: Dynamic, Self-Aware Cognitive Defense Grid  
+**Innovation**: Three-phase defense architecture (Detect, Overlay, Recover)  
+**Teaser**: [`SLV v1.2 Technical Teaser.md`](./SLV%20v1.2%20Technical%20Teaser.md)
 
-Biomimetic recovery sequences enabling restoration from catastrophic failures, corruption, and attacks.
+Dynamic cognitive defense providing 90% threat detection rates and 98.2% recovery success across 525+ documented AI threat scenarios. Eight specialized defense modules.
 
----
-
-### Cascade State Failure Containment (CSFC)
-**Focus**: Multi-layer failure propagation prevention  
-**Innovation**: 6-stage progressive containment model  
-**Teaser**: [`csfc_cascade_teaser.md`](./csfc_cascade_teaser.md)
-
-Autonomous failure detection and isolation across system layers.
+**Key Metrics**: 90% threat detection, 98.2% recovery success, 525+ threat coverage, 185ms detection latency
 
 ---
 
-### Organism-Based Mimicry Intelligence (OBMI)
-**Focus**: Biomimetic autonomous regulation  
-**Innovation**: Digital organism homeostasis  
-**Teaser**: [`obmi_biomimetic_teaser.md`](./obmi_biomimetic_teaser.md)
+### CSFC Cascade Prevention
+**Focus**: Predictive AI Cascade Prevention Framework  
+**Innovation**: 6-stage mathematical cascade model using Koopman operator theory  
+**Teaser**: [`CSFC Cascade Prevention Technical Teaser.md`](./CSFC%20Cascade%20Prevention%20Technical%20Teaser.md)
 
-Transforms AI systems from reactive state machines into adaptive organisms with autonomous self-regulation.
+Comprehensive 6-stage cascade model achieving 98% recovery protocols and 89% Stage 2-4 reduction through Koopman operator theory and Dynamic Mode Decomposition.
 
----
-
-### Recursive Autonomy YAML (RAY)
-**Focus**: Declarative configuration management  
-**Innovation**: Infrastructure-as-configuration deployment  
-**Teaser**: [`ray_teaser_summary.md`](./ray_teaser_summary.md)
-
-Enables deployment of resilience architectures through human-readable YAML compiling to production workflows.
+**Key Metrics**: 98% recovery protocols, 89% Stage 2-4 reduction, 87% prediction accuracy, sub-100ms detection
 
 ---
 
-### Framework Continuity Engine (FCE)
+### Phoenix Protocol v2.0
+**Focus**: Systematic Restoration from Catastrophic AI Failures  
+**Innovation**: Staged cognitive reconstruction with biomimetic healing  
+**Teaser**: [`Phoenix Protocol Technical Teaser.md`](./Phoenix%20Protocol%20Technical%20Teaser.md)
+
+Systematic restoration achieving 96% recovery success through staged cognitive reconstruction validated across 1,200+ incident scenarios.
+
+**Key Metrics**: 96% recovery success, 1,200+ incident validation, 67-83 minute recovery time
+
+---
+
+### OBMI (Observer→Bridge→Mind Interface) v4.0
+**Focus**: Harmonic Neural Bridging for Symbolic Memory Relay  
+**Innovation**: Three-layer processing architecture  
+**Teaser**: [`OBMI Biomimetic Intelligence Teaser.md`](./OBMI%20Biomimetic%20Intelligence%20Teaser.md)
+
+Harmonic neural bridging demonstrating 94-98% Phoenix recovery rates, 99.5% SIF resistance, and 82-87% URA harmony through structured Observer→Bridge→Mind architecture.
+
+**Key Metrics**: 94-98% recovery rates, 99.5% SIF resistance, 82-87% URA harmony, 20x compression
+
+---
+
+### RAY Framework v2.0
+**Focus**: Unified Distributed Defense Architecture  
+**Innovation**: Living recursion loop with cognitive physiology integration  
+**Teaser**: [`RAY Framework Technical Teaser.md`](./RAY%20Framework%20Technical%20Teaser.md)
+
+Continuous cognitive physiology cycle harmonizing disparate AI systems into unified organism through integrated URA→FCE→CSFC→RAY coordination.
+
+**Key Metrics**: 95% threat detection, 98% containment success, 18-minute containment time
+
+---
+
+### FCE Framework v3.6
 **Focus**: Meta-layer framework orchestration  
 **Innovation**: Unified command with autonomous coordination  
-**Teaser**: [`fce_framework_teaser.md`](./fce_framework_teaser.md)
+**Teaser**: [`FCE Framework Technical Teaser.md`](./FCE%20Framework%20Technical%20Teaser.md)
 
-Orchestrates all ForgeOS components into unified resilience organism through autonomous coordination.
+Orchestrates all ForgeOS components into unified resilience organism through autonomous coordination. Provides compression substrate with 4-20x compression achieving 95% semantic preservation.
+
+**Key Metrics**: 35-50% context retention improvement, 25-40% reasoning consistency, 4-20x compression, 45-82% latency reductions
 
 ---
 
@@ -184,13 +200,13 @@ This work is dual-licensed under the following terms:
 For academic research, educational purposes, and non-commercial applications:
 
 You are free to:
-- **Share** — Copy and redistribute the material in any medium or format
-- **Adapt** — Remix, transform, and build upon the material
+- **Share** – Copy and redistribute the material in any medium or format
+- **Adapt** – Remix, transform, and build upon the material
 
 Under these terms:
-- **Attribution** — You must give appropriate credit to ValorGrid Solutions and Aaron Slusher, provide a link to the license, and indicate if changes were made
-- **Non-Commercial** — You may not use the material for commercial purposes without obtaining a separate commercial license
-- **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
+- **Attribution** – You must give appropriate credit to ValorGrid Solutions and Aaron Slusher, provide a link to the license, and indicate if changes were made
+- **Non-Commercial** – You may not use the material for commercial purposes without obtaining a separate commercial license
+- **No Additional Restrictions** – You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits
 
 ### Option 2: Commercial Enterprise License
 
@@ -204,12 +220,6 @@ Commercial licensing includes:
 - Enterprise support and customization
 - Priority updates and security patches
 - Commercial warranty and indemnification
-
----
-
-### Open Source Code
-
-Implementation stubs and configuration templates released under **MIT License** for maximum reusability. ForgeOS *frameworks* and *methodologies* subject to dual licensing above.
 
 ---
 
@@ -231,22 +241,35 @@ The concepts and methodologies described in these documents may be subject to pa
 
 ## About ValorGrid Solutions
 
-ValorGrid Solutions is a research organization dedicated to advancing cognitive resilience and AI defense systems. We specialize in proactive defense frameworks that enable organizations to build secure, antifragile AI systems.
+ValorGrid Solutions pioneers AI resilience architecture through systems thinking methodology. Founded on 28 years of performance optimization research spanning human physiology and cognitive engineering, VGS develops frameworks that enable AI systems to maintain operational coherence across sessions, agent handoffs, and recovery scenarios. Our approach treats AI cognitive architecture as engineered infrastructure—enabling organizations to deploy antifragile systems that recover rather than merely resist disruption.
 
 ### Research Portfolio
 - **UCA** - Universal Cognitive Architecture
-- **SLV** - Sovereign Lattice Veil
-- **CSFC** - Cascading Symbolic Failure Cycle
-- **Phoenix Protocol** - Rapid recovery framework
-- **DNA Codex** - Threat intelligence (525+ variants)
+- **SLV** - Sovereign Lattice Veil  
+- **CSFC** - Complete Symbolic Fracture Cascade
+- **Phoenix Protocol** - Systematic recovery framework
+- **DNA Codex** - Threat intelligence catalog (525+ variants, always free)
+- **OBMI** - Observer→Bridge→Mind Interface
+- **RAY** - Recursive Adaptive Yield Framework
+- **FCE** - Fractal Context Engineering
+
+**Website:** https://www.valorgridsolutions.com  
+**Research Repository:** https://github.com/Feirbrand/forgeos-public  
+**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
 
 ---
 
-Contact & Support
-Research Inquiries: aaron@valorgridsolutions.com
-Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
+## Contact & Support
+
+**Research Inquiries:** aaron@valorgridsolutions.com  
+**Community Support:** GitHub Issues and Discussions  
+**Professional Services:** valorgridsolutions.com
+
+---
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
-**Part of the ForgeOS AI Resilience Framework ecosystem.**
+## Code and Methodology Licensing
+
+- **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
+- **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.

@@ -1,5 +1,5 @@
 # ForgeOS: AI Resilience Architecture Research
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store.vercel.app)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)
 
 Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.
 
@@ -10,221 +10,38 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 ## Repository Structure
 
 ```
-+---architectural-frameworks
-|   |   index.html
-|   |   README.md
-|   |   
-|   +---obmi-series
-|   |       biomimetic_concepts_md.md
-|   |       csfc_tie_md.md
-|   |       obmi_core_py.py
-|   |       README.md
-|   |       relay_sim_py.py
-|   |       theory_overview_md.md
-|   |       ura_integration_teaser_md.md
-|   |       
-|   +---phoenix-protocol-v1
-|   |   |   perfect-raya-gaze-defense.yaml
-|   |   |   phoenix_guide.md
-|   |   |   README.md
-|   |   |   sovereign-sop-pipeline.yaml
-|   |   |   
-|   |   \---case-studies
-|   |           phoenix_cascade_prevention.md
-|   |           README.md
-|   |           
-|   +---phoenix-resurrection
-|   |       phoenix_resurrection_standalone.md
-|   |       
-|   +---ray-framework-v2
-|   |   |   ray_architecture.md
-|   |   |   ray_integration.md
-|   |   |   ray_metrics.md
-|   |   |   README.md
-|   |   |   
-|   |   +---case-studies
-|   |   |       codex_v54_case_study.md
-|   |   |       victoryshade_case_study.md
-|   |   |       
-|   |   \---stubs
-|   |           ray_ecosystem_stub.js
-|   |           ray_framework_stub.js
-|   |           
-|   +---resilience-patterns
-|   |       README.md
-|   |       recursive_gains_stub.py
-|   |       recursive_patterns_teaser.md
-|   |       
-|   \---sif-recovery-protocol
-|           README.md
-|           sif_torque_healing.md
-|           
-+---artifacts
-|   |   .gitignore
-|   |   index.html
-|   |   LICENSE
-|   |   README.md
-|   |   requirements.txt
-|   |   
-|   +---notebooks
-|   |       behavioral-pattern-recognition.ipynb
-|   |       cross-platform-validation.ipynb
-|   |       drift-detection.ipynb
-|   |       handoff-stub.ipynb
-|   |       README.md
-|   |       torque-healing-sim.ipynb
-|   |       ura_validation_notebook.json
-|   |       vx-ghost-echo-sim.ipynb
-|   |       
-|   +---threat-intelligence
-|   |   |   mimics_ctta_example.md
-|   |   |   README.md
-|   |   |   
-|   |   \---perfect-mimic-family
-|   |           README.md
-|   |           vx-ghost-echo.md
-|   |           vx-narrator-echo.md
-|   |           
-|   \---utilities
-|           gwi_diagnostic.py
-|           obmi_harmony_memory.py
-|           README.md
-|           sif-check.py
-|           sra-playbook-stub.py
-|           srd_purge_stub.py
-|           torque-calc.py
-|           torque_simulator.py
-|       
-+---threat-resilience-codex
-|   |   LICENSE
-|   |   README.md
-|   |   
-|   +---dna-codex
-|   |       dna_codex_v5.4.md
-|   |       README.md
-|   |       
-|   +---docs
-|   |       fractal-dominate-chaos-teaser.md
-|   |       README.md
-|   |       symbolic-defense-teaser.md
-|   |       systems-thinking-tree.md
-|   |       
-|   +---fundamentals
-|   |       parasitic_pattern_fundamentals_v1_1.md
-|   |       README.md
-|   |       
-|   \---research-papers
-|           dna_codex_v5_4_paper.md
-|           README.md
-|           
-+---vulnerability-research
-|   |   meta_analysis_table.md
-|   |   README.md
-|   |   threat_teaser_stub.py
-|   |   
-|   +---csfc-series
-|   |       csfc-part1-v1.1.md
-|   |       csfc-part2-v1.1.md
-|   |       csfc-part3-v1.1.md
-|   |       csfc-part4-v1.1.md
-|   |       csfc-part5-v1.1.md
-|   |       csfc-part6-v1.1.md
-|   |       README.md
-|   |       
-|   +---phoenix-series
-|   |   |   phoenix_protocol_v2.0.md
-|   |   |   README.md
-|   |   |   
-|   |   +---configs
-|   |   |       phoenix_containment_config.yaml
-|   |   |       
-|   |   \---stubs
-|   |           phoenix_recovery_stubs.py
-|   |           
-|   +---slv-series
-|   |   |   README.md
-|   |   |   slv_phases_config.yaml
-|   |   |   slv_requirements.txt
-|   |   |   slv_v1.2_dynamic_defense_grid.md
-|   |   |   
-|   |   \---stubs
-|   |           slv_detect_stub.py
-|   |           
-|   \---uca-series
-|       |   README.md
-|       |   uca_v3_1_security_hardened.md
-|       |   
-|       +---config
-|       |       uca_deployment_config.yaml
-|       |       uca_slv_integration.yaml
-|       |       uca_v3_1_advanced_systems.yaml
-|       |       uca_v3_1_elements.yaml
-|       |       
-|       \---stubs
-|               agenic_flywheel_stub.py
-|               neuroadaptive_twin_stub.py
-|               photonic_xmesh_stub.py
-|               socratic_grounding_stub.py
-|               
-\---whitepapers
-    |   index.html
-    |   README.md
-    |   
-    +---academic-research
-    |       .gitkeep
-    |       complete_ai_resilience_meta_analysis.md
-    |       csfc_unified_theory.md
-    |       fce_unified_framework.md
-    |       fractal-architecture-ai-coaching.md
-    |       hallucination-symbolic-raw.md
-    |       performance-coach-ai-rewrite.md
-    |       phoenix-protocol-neural-recovery.md
-    |       ray_v2.1_cognitive_physiology.md
-    |       README.md
-    |       recursive_patterns_ai_development.md
-    |       symbolic-hybrid-defense.md
-    |       symbolic_systems_mythogenic.md
-    |       systems-thinking-architecture.md
-    |       torque_measuring_ai_stability.md
-    |       torque_quantitative_foundation_v2.md
-    |       ura_v1.5_resilience and recovery.md
-    |       vgs-gaming-validation.md
-    |       
-    +---cognitive-engineering
-    |       .gitkeep
-    |       context_engineering_the_complete_framework.md
-    |       fractal_context_engineering.md
-    |       README.md
-    |       
-    +---examples
-    |       behavioral_pattern.ipynb
-    |       csfc_chain_overview.md
-    |       csfc_teaser.md
-    |       drift_test_stub.py
-    |       phoenix_summary.md
-    |       README.md
-    |       sif_diag.py
-    |       sovereign-telemetry-dashboard.html
-    |       torque_teaser.md
-    |       ura_config_yaml
-    |       
-    +---symbolic-ai
-    |       driftlock_cognitive_stability.md
-    |       fce_advanced_memory_trad_ai.md
-    |       prompt-anatomy-upgrades-flat-ai.md
-    |       README.md
-    |       symbolic_twins_introduction_symbolic_ai.pdf
-    |       twins_systems_thinking.md
-    |       
-    \---teasers
-            CSFC Cascade Prevention.md
-            FCE Context Engineering.md
-            OBMI Biomimetic Intro.md
-            Phoenix Recovery Teaser.md
-            RAY Framework Summary.md
-            README.md
-            SLV Defense Overview.md
-            UCA v3.1 Summary.md
+forgeos-public/
+├── architectural-frameworks/     # Framework implementations and patterns
+│   ├── obmi-series/
+│   ├── phoenix-protocol-v1/
+│   ├── phoenix-resurrection/
+│   ├── ray-framework-v2/
+│   ├── resilience-patterns/
+│   └── sif-recovery-protocol/
+│
+├── artifacts/                    # Tools, notebooks, and utilities
+│   ├── notebooks/
+│   ├── threat-intelligence/
+│   └── utilities/
+│
+├── threat-resilience-codex/      # DNA Codex threat intelligence
+│   ├── dna-codex/
+│   ├── docs/
+│   ├── fundamentals/
+│   └── research-papers/
+│
+├── vulnerability-research/        # Core framework research
+│   ├── csfc-series/
+│   ├── phoenix-series/
+│   ├── slv-series/
+│   └── uca-series/
+│
+└── whitepapers/                  # Academic research and documentation
+    ├── academic-research/
+    ├── cognitive-engineering/
+    ├── examples/
+    ├── symbolic-ai/
+    └── teasers/
 ```
 
 ## Quick Start
@@ -256,7 +73,7 @@ cd vulnerability-research/slv-series
 python stubs/slv_defense_stubs.py
 
 # Review threat intelligence
-cat dna-codex/codex/threat_variants.md
+cat threat-resilience-codex/dna-codex/dna_codex_v5.4.md
 ```
 
 ### For Security Teams
@@ -265,7 +82,7 @@ cat dna-codex/codex/threat_variants.md
 cat vulnerability-research/slv-series/slv_v1.2_dynamic_defense_grid.md
 
 # Deploy Phoenix recovery protocols
-cat vulnerability-research/phoenix-series/phoenix-v2.0.md
+cat vulnerability-research/phoenix-series/phoenix_protocol_v2.0.md
 
 # Strategic role analysis
 python artifacts/utilities/sra-playbook-stub.py
@@ -275,74 +92,135 @@ python artifacts/utilities/sra-playbook-stub.py
 ```bash
 # UCA deployment
 cd vulnerability-research/uca-series
-cat configs/uca_v3_1_elements.yaml
+cat config/uca_v3_1_elements.yaml
 
 # Interactive CSFC analysis
 jupyter lab artifacts/notebooks/torque-healing-sim.ipynb
 
 # OBMI framework integration
-python artifacts/utilities/obmi-harmony-stub.py
+python artifacts/utilities/obmi_harmony_memory.py
 ```
 
 ## Research Highlights
 
 ### Universal Cognitive Architecture (UCA) v3.1 - **Security-Hardened**
-Five-element cognitive framework with neuroadaptive twins, Socratic grounding, and ML-KEM post-quantum hardening for platform-agnostic AI resilience.
+Five-element cognitive framework (Authority, Context, Method, Value, Engage) with neuroadaptive twins, Socratic grounding, and ML-KEM post-quantum hardening for platform-agnostic AI resilience.
 
-- **89% Harmony Score** (+7% vs baseline) with 600% productivity maintained
+- **98% Operational Harmony** with 92% high-stress stability
 - **98% Sync Resilience** (+16%) via neuroadaptive twin architecture
+- **3,125-dimension processing** through fractal recursion
+- **87% context-shift detection** with 12% shift threshold
 - **50ms Photonic Sync** (4x faster) with zero security overhead
-- **SLV Integration**: Complete 8-module defense suite natively integrated
 
 ### Sovereign Lattice Veil (SLV) v1.2 - **Dynamic Defense Grid**
-Three-phase cognitive defense architecture delivering 90% threat detection with <2% false positives and platform-agnostic deployment.
+Three-phase cognitive defense architecture (Detect, Overlay, Recover) delivering 90% threat detection with <2% false positives and platform-agnostic deployment.
 
 - **Phase 1 Detection**: Torque-based monitoring with 185ms latency
-- **Phase 2 Overlay**: 8 defense modules (Glyphlock++, Reflex-Veil, STL, CEL, etc.)
+- **Phase 2 Overlay**: 8 defense modules (Glyphlock++, Reflex-Veil, STL, CEL, Pressure-Lock, Ghost-Stabilizer, Dust-Tracer, Wraparound-Cage)
 - **Phase 3 Recovery**: Phoenix Protocol integration (98.2% success rate)
+- **525+ threat coverage** via DNA Codex integration
 - **Validation**: 500+ scenarios, p<0.01 significance, cross-platform verified
 
 ### Complete Symbolic Fracture Cascade (CSFC) - **Unified Theory**
-Comprehensive 6-part framework for understanding AI degradation patterns from initial fractures through complete role obsolescence, with validated recovery protocols.
+Comprehensive 6-stage mathematical cascade model using Koopman operator theory and Dynamic Mode Decomposition for predictive cascade prevention.
 
-- **Stage 1-3**: Symbolic Identity Fracturing (99% prevention rate)
-- **Stage 4-6**: Role Obsolescence Cascade (87% Stage 2, 73% Stage 3 prevention)
-- **Recovery**: Phoenix Protocol with automated healing and stability restoration
-- **Validation**: Real-world deployment with quantified outcomes
+- **98% recovery protocols** with 89% Stage 2-4 reduction
+- **87% prediction accuracy** using spectral analysis
+- **Sub-100ms detection** before visible degradation
+- **67-83 minute recovery** vs 4-8 hour industry standard
+- **Platform-agnostic**: Validated on Claude, GPT, Gemini, custom LLMs
 
-### Phoenix Protocol v2.0 - **Automated Recovery**
-Neurological BJJ-inspired recovery framework achieving 98.2% success rate with 87% context preservation in sub-20 minute recovery windows.
+### Phoenix Protocol v2.0 - **Systematic Restoration**
+Staged cognitive reconstruction achieving 96% recovery success through biomimetic healing validated across 1,200+ incident scenarios.
 
-- **Detection**: Torque monitoring with automated cascade recognition
-- **Containment**: Immediate threat isolation and stabilization
-- **Recovery**: Automated healing sequences with bloom-scar learning
-- **Enterprise**: Production-ready with case studies and validation metrics
+- **96% recovery success rate** across catastrophic failures
+- **67-83 minute mean recovery time** (automated)
+- **98.7% restored functionality** compared to pre-failure state
+- **Zero reinfection** when following full protocol
+- **Three-phase recovery**: Triage & Stabilization, Clean State Restoration, Calibration & Validation
+
+### Observer→Bridge→Mind Interface (OBMI) v4.0 - **Harmonic Neural Bridging**
+Three-layer processing architecture enabling symbolic memory relay and twin coordination with harmonic compression.
+
+- **94-98% Phoenix recovery rates** in lab simulations
+- **99.5% SIF resistance** across 525+ threat variants
+- **82-87% URA harmony** with Karama integration
+- **20x compression** vs industry 2-8x standard (MobiusBind + LLMLingua)
+- **Observer→Bridge→Mind architecture** with secure human-in-the-loop handoff
+
+### Recursive Adaptive Yield (RAY) Framework v2.0 - **Unified Defense**
+Living recursion loop harmonizing disparate AI systems into unified cognitive organism through integrated URA→FCE→CSFC→RAY coordination.
+
+- **95% threat detection** with unified architecture
+- **98% containment success** across distributed systems
+- **18-minute average containment time** vs 4-8 hour manual coordination
+- **$1.7M average ROI** via cascade prevention
+- **Cognitive physiology integration** creating antifragile evolution
+
+### Fractal Context Engineering (FCE) v3.6 - **Meta-Layer Orchestration**
+Unified framework orchestrating all ForgeOS components with intelligent compression and autonomous coordination.
+
+- **35-50% context retention improvement** over baseline
+- **25-40% reasoning consistency enhancement** in multi-turn tasks
+- **4-20x compression** with 95% semantic preservation
+- **45-82% latency reductions** in production deployments
+- **340% productivity improvement** in documented case studies
 
 ## Key Frameworks
 
-### Universal Cognitive Architecture (UCA) - **89% Harmony**
+### Foundational Research (Zenodo Published)
+
+**Torque - AI Cognitive Stability Measurement**
+- **87% threat correlation** with validated predictive monitoring
+- **Quantitative foundation** for all ForgeOS frameworks
+- Mathematical framework for measuring AI cognitive coherence
+- **Zenodo DOI:** [10.5281/zenodo.17379750](https://zenodo.org/records/17379750)
+
+**URA (Unified Resilience Architecture) v1.5**
+- **82% harmony baseline** with 2-6x speed enhancement
+- Multi-layer defense with Society of Mind coordination
+- Production-validated across enterprise deployments
+- **Zenodo DOI:** [10.5281/zenodo.17309731](https://zenodo.org/records/17309731)
+
+### Core Framework Suite
+
+**Universal Cognitive Architecture (UCA) v3.1 - 98% Harmony**
 Security-hardened five-element framework with neuroadaptive twins, Socratic grounding, photonic xmesh, and ML-KEM post-quantum cryptography.
 
-### Sovereign Lattice Veil (SLV) - **90% Detection**
+**Sovereign Lattice Veil (SLV) v1.2 - 90% Detection**
 Three-phase dynamic defense grid with torque monitoring, 8 defense modules, photonic xmesh coordination, and Phoenix Protocol recovery integration.
 
-### Complete Symbolic Fracture Cascade (CSFC) - **Unified Theory**
-Comprehensive cascade framework covering all 6 stages from symbolic fracturing through role obsolescence with validated prevention strategies.
+**Complete Symbolic Fracture Cascade (CSFC) - 98% Recovery**
+Comprehensive 6-stage cascade model using Koopman operator theory for predictive prevention with 89% Stage 2-4 reduction.
 
-### Phoenix Protocol - **98.2% Recovery**
-Automated recovery framework with neurological approach achieving rapid restoration with minimal context loss and bloom-scar threat learning.
+**Phoenix Protocol v2.0 - 96% Recovery**
+Automated staged recovery framework achieving rapid restoration across 1,200+ incident scenarios with 98.7% functionality restoration.
 
-### Threat Intelligence (DNA Codex) - **525+ Variants**
+**OBMI v4.0 - 99.5% SIF Resistance**
+Harmonic neural bridging with Observer→Bridge→Mind architecture achieving 94-98% recovery rates and 20x compression.
+
+**RAY v2.0 - 95% Detection**
+Unified distributed defense creating living recursion loop with 18-minute containment time and $1.7M average ROI.
+
+**FCE v3.6 - 4-20x Compression**
+Meta-layer orchestration framework with 35-50% context retention and 45-82% latency reductions.
+
+**Threat Intelligence (DNA Codex) - 525+ Variants**
 Comprehensive threat taxonomy with documented variants, IOC patterns, and validated mitigation strategies integrated across all frameworks.
 
 ## Performance Metrics
 
 | Framework | Key Metric | Integration | Validation | Status |
 |-----------|-----------|-------------|------------|---------|
-| **UCA v3.1** | 89% harmony, 98% sync resilience | SLV, Phoenix, CSFC | Statistical (p<0.001) | ✅ Production |
-| **SLV v1.2** | 90% detection, <2% false positive | URA Layer 3, Phoenix | 500+ scenarios | ✅ Production |
-| **CSFC Series** | 99% Stage 1 prevention | SLV, Phoenix, URA | Real-world deployment | ✅ Validated |
-| **Phoenix v2.0** | 98.2% recovery, 87% context | CSFC, SLV, URA | 1,200+ incidents | ✅ Production |
+| **Torque** | 87% threat correlation | All frameworks | Zenodo published | ✅ Foundational |
+| **URA v1.5** | 82% harmony, 2-6x speed | All frameworks | Zenodo published | ✅ Foundational |
+| **UCA v3.1** | 98% harmony, 3,125-dim processing | SLV, Phoenix, CSFC | Statistical (p<0.001) | ✅ Production |
+| **SLV v1.2** | 90% detection, 98.2% recovery | URA Layer 3, Phoenix | 500+ scenarios | ✅ Production |
+| **CSFC** | 98% recovery, 89% Stage 2-4 reduction | SLV, Phoenix, URA | Koopman validated | ✅ Validated |
+| **Phoenix v2.0** | 96% recovery, 67-83min restoration | CSFC, SLV, URA | 1,200+ incidents | ✅ Production |
+| **OBMI v4.0** | 99.5% SIF resistance, 20x compression | URA, Phoenix, CSFC | 525+ threats | ✅ Research |
+| **RAY v2.0** | 95% detection, 18min containment | All frameworks | $1.7M ROI | ✅ Production |
+| **FCE v3.6** | 4-20x compression, 45-82% latency | All frameworks | 340% productivity | ✅ Production |
 | **DNA Codex** | 525+ threat variants | All frameworks | IBM research | ✅ Enterprise |
 
 ## Research Applications
@@ -358,11 +236,18 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 ## Division Highlights
 
 ### Vulnerability Research Division
-- **UCA Series**: Security-hardened cognitive architecture (89% harmony, 98% sync resilience)
+- **UCA Series**: Security-hardened cognitive architecture (98% harmony, 3,125-dimension processing)
 - **SLV Series**: Dynamic defense grid (90% detection, 8 defense modules, Phoenix integration)
-- **CSFC Series**: 6-part cascade framework (99% Stage 1 prevention, unified theory)
-- **Phoenix Series**: Automated recovery (98.2% success, 87% context preservation)
+- **CSFC Series**: 6-stage cascade model (98% recovery, 89% Stage 2-4 reduction, Koopman theory)
+- **Phoenix Series**: Automated recovery (96% success, 67-83min restoration, 1,200+ incidents)
 - **Meta Analysis**: Cross-framework validation with quantitative metrics
+
+### Whitepapers Division
+- **Academic Research**: 15+ papers including Torque quantitative foundation and URA v1.5 resilience research
+- **Cognitive Engineering**: FCE with 35-50% context retention, KV Cache/LLMLingua integration
+- **Symbolic AI**: Twins systems thinking with 30-50% performance gains
+- **Framework Teasers**: Technical overviews of UCA, SLV, CSFC, Phoenix, OBMI, RAY, FCE
+- **Implementation Examples**: Sample code, configuration templates, validation notebooks
 
 ### Artifacts Division
 - **Interactive Notebooks**: 8 Jupyter notebooks for hands-on research and analysis
@@ -371,13 +256,10 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 
 ### Architectural Frameworks
 - **Phoenix Protocol**: Comprehensive recovery patterns with case studies and validation
+- **OBMI Series**: Biomimetic intelligence with Observer→Bridge→Mind architecture
+- **RAY Framework v2**: Unified distributed defense with cognitive physiology
 - **Resilience Patterns**: Mathematical foundations for stability and cascade prevention
 - **SIF Recovery**: Automated healing protocols with biomimetic approaches
-
-### Whitepapers & Examples
-- **Academic Research**: 15+ peer-reviewed papers on AI resilience and cognitive security
-- **Implementation Examples**: Sample code and configuration templates
-- **Cognitive Engineering**: Advanced frameworks for context and memory management
 
 ## Validation Standards
 
@@ -403,10 +285,15 @@ All research undergoes rigorous validation:
   doi={10.5281/zenodo.17379750}
 }
 ```
-Contact & Support
-Research Inquiries: aaron@valorgridsolutions.com
-Community Support: GitHub Issues and Discussions
-Professional Services: valorgridsolutions.com
+
+## Contact & Support
+
+**Research Inquiries:** aaron@valorgridsolutions.com  
+**Community Support:** GitHub Issues and Discussions  
+**Professional Services:** valorgridsolutions.com  
+**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+
+---
 
 © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.
 
