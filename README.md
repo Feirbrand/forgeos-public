@@ -10,6 +10,17 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 ## Repository Structure
 
 ```
+Folder PATH listing for volume M.2
+Volume serial number is DEA7-FEFD
+C:.
+|   .nojekyll
+|   index.html
+|   mit_license.txt
+|   New file.txt
+|   new_tree.txt
+|   README.md
+|   requirements_file.txt
+|   
 +---architectural-frameworks
 |   |   index.html
 |   |   README.md
@@ -94,7 +105,7 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 |           srd_purge_stub.py
 |           torque-calc.py
 |           torque_simulator.py
-|       
+|           
 +---threat-resilience-codex
 |   |   LICENSE
 |   |   README.md
@@ -126,26 +137,17 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 |   |       csfc-part1-v1.1.md
 |   |       csfc-part2-v1.1.md
 |   |       csfc-part3-v1.1.md
-|   |       csfc-part4-v1.1.md
-|   |       csfc-part5-v1.1.md
-|   |       csfc-part6-v1.1.md
 |   |       README.md
 |   |       
 |   +---phoenix-series
-|   |   |   phoenix_protocol_v2.0.md
 |   |   |   README.md
 |   |   |   
-|   |   +---configs
-|   |   |       phoenix_containment_config.yaml
-|   |   |       
 |   |   \---stubs
 |   |           phoenix_recovery_stubs.py
 |   |           
 |   +---slv-series
 |   |   |   README.md
-|   |   |   slv_phases_config.yaml
 |   |   |   slv_requirements.txt
-|   |   |   slv_v1.2_dynamic_defense_grid.md
 |   |   |   
 |   |   \---stubs
 |   |           slv_detect_stub.py
@@ -154,12 +156,6 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 |       |   README.md
 |       |   uca_v3_1_security_hardened.md
 |       |   
-|       +---config
-|       |       uca_deployment_config.yaml
-|       |       uca_slv_integration.yaml
-|       |       uca_v3_1_advanced_systems.yaml
-|       |       uca_v3_1_elements.yaml
-|       |       
 |       \---stubs
 |               agenic_flywheel_stub.py
 |               neuroadaptive_twin_stub.py

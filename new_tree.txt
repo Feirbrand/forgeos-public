@@ -8,7 +8,6 @@ C:.
 |   new_tree.txt
 |   README.md
 |   requirements_file.txt
-|   tree.txt
 |   
 +---architectural-frameworks
 |   |   index.html
@@ -95,9 +94,6 @@ C:.
 |           torque-calc.py
 |           torque_simulator.py
 |           
-+---open-source
-|       README.md
-|       
 +---threat-resilience-codex
 |   |   LICENSE
 |   |   README.md
@@ -129,26 +125,17 @@ C:.
 |   |       csfc-part1-v1.1.md
 |   |       csfc-part2-v1.1.md
 |   |       csfc-part3-v1.1.md
-|   |       csfc-part4-v1.1.md
-|   |       csfc-part5-v1.1.md
-|   |       csfc-part6-v1.1.md
 |   |       README.md
 |   |       
 |   +---phoenix-series
-|   |   |   phoenix_protocol_v2.0.md
 |   |   |   README.md
 |   |   |   
-|   |   +---configs
-|   |   |       phoenix_containment_config.yaml
-|   |   |       
 |   |   \---stubs
 |   |           phoenix_recovery_stubs.py
 |   |           
 |   +---slv-series
 |   |   |   README.md
-|   |   |   slv_phases_config.yaml
 |   |   |   slv_requirements.txt
-|   |   |   slv_v1.2_dynamic_defense_grid.md
 |   |   |   
 |   |   \---stubs
 |   |           slv_detect_stub.py
@@ -157,12 +144,6 @@ C:.
 |       |   README.md
 |       |   uca_v3_1_security_hardened.md
 |       |   
-|       +---config
-|       |       uca_deployment_config.yaml
-|       |       uca_slv_integration.yaml
-|       |       uca_v3_1_advanced_systems.yaml
-|       |       uca_v3_1_elements.yaml
-|       |       
 |       \---stubs
 |               agenic_flywheel_stub.py
 |               neuroadaptive_twin_stub.py
