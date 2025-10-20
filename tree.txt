@@ -4,6 +4,7 @@ C:.
 |   .nojekyll
 |   index.html
 |   mit_license.txt
+|   New file.txt
 |   README.md
 |   requirements_file.txt
 |   tree.txt
@@ -26,11 +27,19 @@ C:.
 |   |       phoenix_resurrection_standalone.md
 |   |       
 |   +---ray-framework-v2
-|   |   |   ray-framework-v2.md
+|   |   |   ray_architecture.md
+|   |   |   ray_integration.md
+|   |   |   ray_metrics.md
 |   |   |   README.md
 |   |   |   
 |   |   +---case-studies
+|   |   |       codex_v54_case_study.md
+|   |   |       victoryshade_case_study.md
+|   |   |       
 |   |   \---stubs
+|   |           ray_ecosystem_stub.js
+|   |           ray_framework_stub.js
+|   |           
 |   +---resilience-patterns
 |   |       README.md
 |   |       recursive_gains_stub.py
@@ -70,6 +79,8 @@ C:.
 |   \---utilities
 |           gwi_diagnostic.py
 |           obmi_harmony_memory.py
+|           ray_codex_loader_py.py
+|           ray_validator_py.py
 |           README.md
 |           sif-check.py
 |           sra-playbook-stub.py
@@ -181,6 +192,7 @@ C:.
     |       hallucination-symbolic-raw.md
     |       performance-coach-ai-rewrite.md
     |       phoenix-protocol-neural-recovery.md
+    |       ray_v2.1_cognitive_physiology.md
     |       README.md
     |       recursive_patterns_ai_development.md
     |       symbolic-hybrid-defense.md
