@@ -10,18 +10,6 @@ ForgeOS represents a comprehensive research initiative into building reliable AI
 ## Repository Structure
 
 ```
-Folder PATH listing for volume M.2
-Volume serial number is DEA7-FEFD
-C:.
-|   .nojekyll
-|   index.html
-|   mit_license.txt
-|   New file.txt
-|   new_tree.txt
-|   README.md
-|   requirements_file.txt
-|   tree.txt
-|   
 +---architectural-frameworks
 |   |   index.html
 |   |   README.md
@@ -106,9 +94,6 @@ C:.
 |           srd_purge_stub.py
 |           torque-calc.py
 |           torque_simulator.py
-|           
-+---open-source
-|       README.md
 |       
 +---threat-resilience-codex
 |   |   LICENSE
