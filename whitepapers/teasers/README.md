@@ -140,6 +140,38 @@ Orchestrates all ForgeOS components into unified resilience organism through aut
 
 ---
 
+## Additional Resources
+
+### Cross-Framework Validation & Threat Analysis
+
+**Meta-Analysis Table**
+**Resource**: [`meta_analysis_teaser.md`](./meta_analysis_teaser.md)
+
+Cross-case validation table aggregating 500+ threat vectors across Claude SIF Recovery, Gemini Hybrid Defense, Grok Realtime Defense, Perplexity Corruption, URA v1.5, VOX Paradox Attack, and VX Hydra Professor scenarios. Demonstrates **34.5% performance uplift** and **47% cascade reduction** with systems thinking integration (feedback loops, leverage points, stock/flow dynamics).
+
+**Key Metrics Aggregated**:
+- 95% metacognitive recovery (Claude)
+- 89% reduction with 47% cut (Gemini)
+- 87% prediction accuracy (Grok)
+- 82% accuracy with 2-6x speed (URA v1.5)
+- 95% hallucination accuracy (VOX)
+
+---
+
+**Threat Intelligence Stub**
+**Resource**: [`threat_intelligence_teaser.py`](./threat_intelligence_teaser.py)
+
+Python implementation stub demonstrating parasitic pattern analysis using **Torque quantitative foundation** with CSFC stage classification. Includes `ParasiticPatternAnalyzer` class showing:
+
+- **Torque calculation** from drift components (v_drift, theta_align, tau_repair, mu_metacog)
+- **SIF detection** using 0.15 threshold
+- **SDC/ROC propagation classification** based on torque values and cycle patterns
+- **Integration recommendations** for SLV Phase 1 (Reflex-Veil) activation
+
+**Validation**: 87% accuracy across 500+ DNA Codex threat vectors with p<0.001 significance. Demonstrates quantitative assessment methodology linking Torque metrics to CSFC cascade stages and SLV defense activation.
+
+---
+
 ## What's in a Teaser
 
 Each teaser document provides:

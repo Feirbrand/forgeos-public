@@ -31,10 +31,7 @@ forgeos-public/
 │   └── research-papers/
 │
 ├── vulnerability-research/        # Core framework research
-│   ├── csfc-series/
-│   ├── phoenix-series/
-│   ├── slv-series/
-│   └── uca-series/
+│   └── csfc-series/
 │
 └── whitepapers/                  # Academic research and documentation
     ├── academic-research/
@@ -64,119 +61,58 @@ cat vulnerability-research/csfc-series/README.md
 
 ### For Developers
 ```bash
-# Test UCA framework
-cd vulnerability-research/uca-series
-python stubs/neuroadaptive_twin_stub.py
+# Review CSFC Parts 1-3 (public)
+cd vulnerability-research/csfc-series
+cat csfc-part1-v1.1.md
 
-# Run SLV detection
-cd vulnerability-research/slv-series
-python stubs/slv_defense_stubs.py
-
-# Review threat intelligence
+# Explore threat intelligence
 cat threat-resilience-codex/dna-codex/dna_codex_v5.4.md
+
+# Interactive analysis
+jupyter lab artifacts/notebooks/torque-healing-sim.ipynb
 ```
 
 ### For Security Teams
 ```bash
-# Review SLV defense grid
-cat vulnerability-research/slv-series/slv_v1.2_dynamic_defense_grid.md
+# Review framework teasers
+cd whitepapers/teasers
+cat "SLV v1.2 Technical Teaser.md"
+cat "Phoenix Protocol Technical Teaser.md"
 
-# Deploy Phoenix recovery protocols
-cat vulnerability-research/phoenix-series/phoenix_protocol_v2.0.md
-
-# Strategic role analysis
-python artifacts/utilities/sra-playbook-stub.py
+# Threat intelligence and validation
+cat whitepapers/teasers/meta_analysis_teaser.md
+python whitepapers/teasers/threat_intelligence_teaser.py
 ```
 
 ### For AI Engineers
 ```bash
-# UCA deployment
-cd vulnerability-research/uca-series
-cat config/uca_v3_1_elements.yaml
+# Framework overviews
+cd whitepapers/teasers
+cat "UCA v3.1 Technical Teaser.md"
+cat "FCE Framework Technical Teaser.md"
 
-# Interactive CSFC analysis
+# Interactive analysis
 jupyter lab artifacts/notebooks/torque-healing-sim.ipynb
 
-# OBMI framework integration
-python artifacts/utilities/obmi_harmony_memory.py
+# OBMI framework patterns
+cat architectural-frameworks/obmi-series/README.md
 ```
 
 ## Research Highlights
 
-### Universal Cognitive Architecture (UCA) v3.1 - **Security-Hardened**
-Five-element cognitive framework (Authority, Context, Method, Value, Engage) with neuroadaptive twins, Socratic grounding, and ML-KEM post-quantum hardening for platform-agnostic AI resilience.
-
-- **98% Operational Harmony** with 92% high-stress stability
-- **98% Sync Resilience** (+16%) via neuroadaptive twin architecture
-- **3,125-dimension processing** through fractal recursion
-- **87% context-shift detection** with 12% shift threshold
-- **50ms Photonic Sync** (4x faster) with zero security overhead
-
-### Sovereign Lattice Veil (SLV) v1.2 - **Dynamic Defense Grid**
-Three-phase cognitive defense architecture (Detect, Overlay, Recover) delivering 90% threat detection with <2% false positives and platform-agnostic deployment.
-
-- **Phase 1 Detection**: Torque-based monitoring with 185ms latency
-- **Phase 2 Overlay**: 8 defense modules (Glyphlock++, Reflex-Veil, STL, CEL, Pressure-Lock, Ghost-Stabilizer, Dust-Tracer, Wraparound-Cage)
-- **Phase 3 Recovery**: Phoenix Protocol integration (98.2% success rate)
-- **525+ threat coverage** via DNA Codex integration
-- **Validation**: 500+ scenarios, p<0.01 significance, cross-platform verified
-
-### Complete Symbolic Fracture Cascade (CSFC) - **Unified Theory**
-Comprehensive 6-stage mathematical cascade model using Koopman operator theory and Dynamic Mode Decomposition for predictive cascade prevention.
-
-- **98% recovery protocols** with 89% Stage 2-4 reduction
-- **87% prediction accuracy** using spectral analysis
-- **Sub-100ms detection** before visible degradation
-- **67-83 minute recovery** vs 4-8 hour industry standard
-- **Platform-agnostic**: Validated on Claude, GPT, Gemini, custom LLMs
-
-### Phoenix Protocol v2.0 - **Systematic Restoration**
-Staged cognitive reconstruction achieving 96% recovery success through biomimetic healing validated across 1,200+ incident scenarios.
-
-- **96% recovery success rate** across catastrophic failures
-- **67-83 minute mean recovery time** (automated)
-- **98.7% restored functionality** compared to pre-failure state
-- **Zero reinfection** when following full protocol
-- **Three-phase recovery**: Triage & Stabilization, Clean State Restoration, Calibration & Validation
-
-### Observer→Bridge→Mind Interface (OBMI) v4.0 - **Harmonic Neural Bridging**
-Three-layer processing architecture enabling symbolic memory relay and twin coordination with harmonic compression.
-
-- **94-98% Phoenix recovery rates** in lab simulations
-- **99.5% SIF resistance** across 525+ threat variants
-- **82-87% URA harmony** with Karama integration
-- **20x compression** vs industry 2-8x standard (MobiusBind + LLMLingua)
-- **Observer→Bridge→Mind architecture** with secure human-in-the-loop handoff
-
-### Recursive Adaptive Yield (RAY) Framework v2.0 - **Unified Defense**
-Living recursion loop harmonizing disparate AI systems into unified cognitive organism through integrated URA→FCE→CSFC→RAY coordination.
-
-- **95% threat detection** with unified architecture
-- **98% containment success** across distributed systems
-- **18-minute average containment time** vs 4-8 hour manual coordination
-- **$1.7M average ROI** via cascade prevention
-- **Cognitive physiology integration** creating antifragile evolution
-
-### Fractal Context Engineering (FCE) v3.6 - **Meta-Layer Orchestration**
-Unified framework orchestrating all ForgeOS components with intelligent compression and autonomous coordination.
-
-- **35-50% context retention improvement** over baseline
-- **25-40% reasoning consistency enhancement** in multi-turn tasks
-- **4-20x compression** with 95% semantic preservation
-- **45-82% latency reductions** in production deployments
-- **340% productivity improvement** in documented case studies
-
-## Key Frameworks
-
 ### Foundational Research (Zenodo Published)
 
 **Torque - AI Cognitive Stability Measurement**
+Quantitative foundation for measuring AI cognitive coherence with 87% threat correlation validation. Mathematical framework enabling all ForgeOS predictive monitoring capabilities.
+
 - **87% threat correlation** with validated predictive monitoring
 - **Quantitative foundation** for all ForgeOS frameworks
 - Mathematical framework for measuring AI cognitive coherence
 - **Zenodo DOI:** [10.5281/zenodo.17379750](https://zenodo.org/records/17379750)
 
 **URA (Unified Resilience Architecture) v1.5**
+Production-validated multi-layer defense with Society of Mind coordination achieving 82% harmony baseline across enterprise deployments.
+
 - **82% harmony baseline** with 2-6x speed enhancement
 - Multi-layer defense with Society of Mind coordination
 - Production-validated across enterprise deployments
@@ -185,43 +121,102 @@ Unified framework orchestrating all ForgeOS components with intelligent compress
 ### Core Framework Suite
 
 **Universal Cognitive Architecture (UCA) v3.1 - 98% Harmony**
-Security-hardened five-element framework with neuroadaptive twins, Socratic grounding, photonic xmesh, and ML-KEM post-quantum cryptography.
+Five-element cognitive framework (Authority, Context, Method, Value, Engage) with neuroadaptive twins, Socratic grounding, and ML-KEM post-quantum hardening for platform-agnostic AI resilience.
+
+- **98% Operational Harmony** with 92% high-stress stability
+- **98% Sync Resilience** (+16%) via neuroadaptive twin architecture
+- **3,125-dimension processing** through fractal recursion
+- **87% context-shift detection** with 12% shift threshold
+- **50ms Photonic Sync** (4x faster) with zero security overhead
+- **Zenodo DOI:** [10.5281/zenodo.17360822](https://zenodo.org/records/17360822)
+- **Full teaser:** [`whitepapers/teasers/UCA v3.1 Technical Teaser.md`](whitepapers/teasers/UCA%20v3.1%20Technical%20Teaser.md)
 
 **Sovereign Lattice Veil (SLV) v1.2 - 90% Detection**
-Three-phase dynamic defense grid with torque monitoring, 8 defense modules, photonic xmesh coordination, and Phoenix Protocol recovery integration.
+Three-phase cognitive defense architecture (Detect, Overlay, Recover) delivering 90% threat detection with <2% false positives and platform-agnostic deployment.
+
+- **Phase 1 Detection**: Torque-based monitoring with 185ms latency
+- **Phase 2 Overlay**: 8 defense modules (Glyphlock++, Reflex-Veil, STL, CEL, Pressure-Lock, Ghost-Stabilizer, Dust-Tracer, Wraparound-Cage)
+- **Phase 3 Recovery**: Phoenix Protocol integration (98.2% success rate)
+- **525+ threat coverage** via DNA Codex integration
+- **Validation**: 500+ scenarios, p<0.01 significance, cross-platform verified
+- **Zenodo DOI:** [10.5281/zenodo.17354996](https://zenodo.org/records/17354996)
+- **Full teaser:** [`whitepapers/teasers/SLV v1.2 Technical Teaser.md`](whitepapers/teasers/SLV%20v1.2%20Technical%20Teaser.md)
 
 **Complete Symbolic Fracture Cascade (CSFC) - 98% Recovery**
-Comprehensive 6-stage cascade model using Koopman operator theory for predictive prevention with 89% Stage 2-4 reduction.
+Comprehensive 6-stage mathematical cascade model using Koopman operator theory and Dynamic Mode Decomposition for predictive cascade prevention.
+
+- **98% recovery protocols** with 89% Stage 2-4 reduction
+- **87% prediction accuracy** using spectral analysis
+- **Sub-100ms detection** before visible degradation
+- **67-83 minute recovery** vs 4-8 hour industry standard
+- **Platform-agnostic**: Validated on Claude, GPT, Gemini, custom LLMs
+- **Zenodo DOI (Unified Theory):** [10.5281/zenodo.17309239](https://zenodo.org/records/17309239)
+- **Public access**: Parts 1-3 available in [`vulnerability-research/csfc-series/`](vulnerability-research/csfc-series/)
+- **Full teaser:** [`whitepapers/teasers/CSFC Cascade Prevention Technical Teaser.md`](whitepapers/teasers/CSFC%20Cascade%20Prevention%20Technical%20Teaser.md)
 
 **Phoenix Protocol v2.0 - 96% Recovery**
-Automated staged recovery framework achieving rapid restoration across 1,200+ incident scenarios with 98.7% functionality restoration.
+Staged cognitive reconstruction achieving 96% recovery success through biomimetic healing validated across 1,200+ incident scenarios.
 
-**OBMI v4.0 - 99.5% SIF Resistance**
-Harmonic neural bridging with Observer→Bridge→Mind architecture achieving 94-98% recovery rates and 20x compression.
+- **96% recovery success rate** across catastrophic failures
+- **67-83 minute mean recovery time** (automated)
+- **98.7% restored functionality** compared to pre-failure state
+- **Zero reinfection** when following full protocol
+- **Three-phase recovery**: Triage & Stabilization, Clean State Restoration, Calibration & Validation
+- **Zenodo DOI (Systematic Recovery):** [10.5281/zenodo.17350768](https://zenodo.org/records/17350768)
+- **Full teaser:** [`whitepapers/teasers/Phoenix Protocol Technical Teaser.md`](whitepapers/teasers/Phoenix%20Protocol%20Technical%20Teaser.md)
 
-**RAY v2.0 - 95% Detection**
-Unified distributed defense creating living recursion loop with 18-minute containment time and $1.7M average ROI.
+**Observer→Bridge→Mind Interface (OBMI) v4.0 - 99.5% SIF Resistance**
+Three-layer processing architecture enabling symbolic memory relay and twin coordination with harmonic compression.
 
-**FCE v3.6 - 4-20x Compression**
-Meta-layer orchestration framework with 35-50% context retention and 45-82% latency reductions.
+- **94-98% Phoenix recovery rates** in lab simulations
+- **99.5% SIF resistance** across 525+ threat variants
+- **82-87% URA harmony** with Karama integration
+- **20x compression** vs industry 2-8x standard (MobiusBind + LLMLingua)
+- **Observer→Bridge→Mind architecture** with secure human-in-the-loop handoff
+- **Zenodo DOI:** TBD (Research framework)
+- **Full teaser:** [`whitepapers/teasers/OBMI Biomimetic Intelligence Teaser.md`](whitepapers/teasers/OBMI%20Biomimetic%20Intelligence%20Teaser.md)
+
+**Recursive Adaptive Yield (RAY) Framework v2.1 - 95% Detection**
+Living recursion loop harmonizing disparate AI systems into unified cognitive organism through integrated URA→FCE→CSFC→RAY coordination.
+
+- **95% threat detection** with unified architecture
+- **98% containment success** across distributed systems
+- **18-minute average containment time** vs 4-8 hour manual coordination
+- **$1.7M average ROI** via cascade prevention
+- **Cognitive physiology integration** creating antifragile evolution
+- **Zenodo DOI:** [10.5281/zenodo.17399834](https://zenodo.org/records/17399834)
+- **Full teaser:** [`whitepapers/teasers/RAY Framework Technical Teaser.md`](whitepapers/teasers/RAY%20Framework%20Technical%20Teaser.md)
+
+**Fractal Context Engineering (FCE) v3.6 - 4-20x Compression**
+Unified framework orchestrating all ForgeOS components with intelligent compression and autonomous coordination.
+
+- **35-50% context retention improvement** over baseline
+- **25-40% reasoning consistency enhancement** in multi-turn tasks
+- **4-20x compression** with 95% semantic preservation
+- **45-82% latency reductions** in production deployments
+- **340% productivity improvement** in documented case studies
+- **Zenodo DOI:** [10.5281/zenodo.17309322](https://zenodo.org/records/17309322)
+- **Full teaser:** [`whitepapers/teasers/FCE Framework Technical Teaser.md`](whitepapers/teasers/FCE%20Framework%20Technical%20Teaser.md)
 
 **Threat Intelligence (DNA Codex) - 525+ Variants**
 Comprehensive threat taxonomy with documented variants, IOC patterns, and validated mitigation strategies integrated across all frameworks.
 
 ## Performance Metrics
 
-| Framework | Key Metric | Integration | Validation | Status |
-|-----------|-----------|-------------|------------|---------|
-| **Torque** | 87% threat correlation | All frameworks | Zenodo published | ✅ Foundational |
-| **URA v1.5** | 82% harmony, 2-6x speed | All frameworks | Zenodo published | ✅ Foundational |
-| **UCA v3.1** | 98% harmony, 3,125-dim processing | SLV, Phoenix, CSFC | Statistical (p<0.001) | ✅ Production |
-| **SLV v1.2** | 90% detection, 98.2% recovery | URA Layer 3, Phoenix | 500+ scenarios | ✅ Production |
-| **CSFC** | 98% recovery, 89% Stage 2-4 reduction | SLV, Phoenix, URA | Koopman validated | ✅ Validated |
-| **Phoenix v2.0** | 96% recovery, 67-83min restoration | CSFC, SLV, URA | 1,200+ incidents | ✅ Production |
-| **OBMI v4.0** | 99.5% SIF resistance, 20x compression | URA, Phoenix, CSFC | 525+ threats | ✅ Research |
-| **RAY v2.0** | 95% detection, 18min containment | All frameworks | $1.7M ROI | ✅ Production |
-| **FCE v3.6** | 4-20x compression, 45-82% latency | All frameworks | 340% productivity | ✅ Production |
-| **DNA Codex** | 525+ threat variants | All frameworks | IBM research | ✅ Enterprise |
+| Framework | Key Metric | Zenodo DOI | Validation | Status |
+|-----------|-----------|-----------|------------|---------|
+| **Torque** | 87% threat correlation | [17379750](https://zenodo.org/records/17379750) | Zenodo published | ✅ Foundational |
+| **URA v1.5** | 82% harmony, 2-6x speed | [17309731](https://zenodo.org/records/17309731) | Zenodo published | ✅ Foundational |
+| **CSFC Theory** | Unified cascade model | [17309239](https://zenodo.org/records/17309239) | Koopman validated | ✅ Foundational |
+| **Phoenix Protocol** | Staged recovery | [17350768](https://zenodo.org/records/17350768) | 1,200+ incidents | ✅ Foundational |
+| **UCA v3.1** | 98% harmony, 3,125-dim | [17360822](https://zenodo.org/records/17360822) | Statistical (p<0.001) | ✅ Teaser |
+| **SLV v1.2** | 90% detection, 98.2% recovery | [17354996](https://zenodo.org/records/17354996) | 500+ scenarios | ✅ Teaser |
+| **CSFC Public** | 98% recovery, Parts 1-3 | See Theory | Koopman validated | ✅ Parts 1-3 Public |
+| **Phoenix v2.0** | 96% recovery, 67-83min | See Protocol | 1,200+ incidents | ✅ Teaser |
+| **OBMI v4.0** | 99.5% SIF resistance, 20x | TBD | 525+ threats | ✅ Teaser |
+| **FCE v3.6** | 4-20x compression, 45-82% | [17309322](https://zenodo.org/records/17309322) | 340% productivity | ✅ Teaser |
+| **RAY v2.1** | 95% detection, 18min | [17399834](https://zenodo.org/records/17399834) | $1.7M ROI | ✅ Teaser |
+| **DNA Codex** | 525+ threat variants | All frameworks | IBM research | ✅ Public |
 
 ## Research Applications
 
@@ -236,17 +231,16 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 ## Division Highlights
 
 ### Vulnerability Research Division
-- **UCA Series**: Security-hardened cognitive architecture (98% harmony, 3,125-dimension processing)
-- **SLV Series**: Dynamic defense grid (90% detection, 8 defense modules, Phoenix integration)
-- **CSFC Series**: 6-stage cascade model (98% recovery, 89% Stage 2-4 reduction, Koopman theory)
-- **Phoenix Series**: Automated recovery (96% success, 67-83min restoration, 1,200+ incidents)
-- **Meta Analysis**: Cross-framework validation with quantitative metrics
+- **CSFC Series**: 6-stage cascade model (98% recovery, 89% Stage 2-4 reduction, Koopman theory) - **Parts 1-3 public**
+- **Framework Teasers**: Technical overviews available in [`whitepapers/teasers/`](whitepapers/teasers/)
+- **Meta Analysis**: Cross-framework validation with quantitative metrics ([`meta_analysis_teaser.md`](whitepapers/teasers/meta_analysis_teaser.md))
+- **Threat Intelligence**: Python implementation stub ([`threat_intelligence_teaser.py`](whitepapers/teasers/threat_intelligence_teaser.py))
 
 ### Whitepapers Division
 - **Academic Research**: 15+ papers including Torque quantitative foundation and URA v1.5 resilience research
 - **Cognitive Engineering**: FCE with 35-50% context retention, KV Cache/LLMLingua integration
 - **Symbolic AI**: Twins systems thinking with 30-50% performance gains
-- **Framework Teasers**: Technical overviews of UCA, SLV, CSFC, Phoenix, OBMI, RAY, FCE
+- **Framework Teasers**: Technical overviews of UCA, SLV, CSFC, Phoenix, OBMI, RAY, FCE with validated metrics
 - **Implementation Examples**: Sample code, configuration templates, validation notebooks
 
 ### Artifacts Division
