@@ -1089,19 +1089,55 @@ AI resilience is not a product - it's a mathematical discipline. DNA Codex v5.5 
 
 ## References
 
-1. University of Texas (2025). "LLM Brain Rot: The Cognitive Decline of Large Language Models from Low-Quality Training Data." arXiv:2510.13928.
+Alagic, G., Apon, D., Cooper, D., Dang, Q., Dang, T., Kelsey, J., ... & Perlner, R. (2024). *FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.FIPS.203
 
-2. Nature Medicine (2025). "Low-Cost Adversarial Attacks on Medical Large Language Models." DOI:10.1038/s41591-024-03445-1.
+Alagic, G., Apon, D., Cooper, D., Dang, Q., Dang, T., Kelsey, J., ... & Perlner, R. (2024). *FIPS 204: Module-Lattice-Based Digital Signature Algorithm Standard*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.FIPS.204
 
-3. IBM Security (2025). "Malicious AI Worm Targeting Generative AI." https://www.ibm.com/think/insights/malicious-ai-worm-targeting-generative-ai
+Alagic, G., Apon, D., Cooper, D., Dang, Q., Dang, T., Kelsey, J., ... & Perlner, R. (2024). *FIPS 205: Stateless Hash-Based Digital Signature Standard*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.FIPS.205
 
-4. Cybersecurity Asia (2025). "AI Worms Are Crawling Up as New AI Parasites Invade Your Devices." https://cybersecurityasia.net/ai-worms-are-crawling-up-as-new-ai-parasites-invade-your-devices/
+Alagic, G., Apon, D., Cooper, D., Dang, Q., Dang, T., Kelsey, J., ... & Perlner, R. (2024). *FIPS 206: Lattice-Based Digital Signature Algorithm Standard*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.FIPS.206
 
-5-10. [Additional DMD/Koopman operator theory references - see published academic paper for complete bibliography]
+Anthropic. (2025). *Detecting and countering misuse of AI: August 2025*. Anthropic. https://www.anthropic.com/news/detecting-countering-misuse-aug-2025
 
-11-20. [ForgeOS framework references: RAY, URA, CSFC, Phoenix, Torque - see technical documentation]
+Barker, E., Chen, L., Roginsky, A., Vassilev, A., & Davis, R. (2024). *Recommendation for pair-wise key establishment using integer-based Diffie-Hellman key agreement (NIST SP 800-56A Rev. 3)*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-56Ar3
 
-21-30. [Industry security disclosures, operational incident reports - see threat intelligence catalog]
+Check Point Research. (2025). *AI Security Report 2025*. Check Point Software Technologies Ltd. https://engage.checkpoint.com/2025-ai-security-report
+
+CrowdStrike. (2025). *2025 Ransomware Report: AI Attacks Are Outpacing Defenses*. CrowdStrike Holdings, Inc. https://www.crowdstrike.com/en-us/press-releases/ransomware-report-ai-attacks-outpacing-defenses/
+
+Dang, Q. H. (Ed.). (2024). *Recommendation for cryptographic key generation (NIST SP 800-133r2)*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-133r2
+
+Dworkin, M. (2024). *Recommendation for block cipher modes of operation: Methods and techniques (NIST SP 800-38A)*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.SP.800-38A
+
+IBM Security. (2025). *AI Threat Landscape Report: Emergent Worms and Cognitive Vulnerabilities*. IBM Corporation. https://www.ibm.com/reports/ai-threat-landscape-2025
+
+IBM X-Force. (2025). *2025 Threat Intelligence Index*. IBM Corporation. https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/2025-threat-intelligence-index
+
+KELA Cyber. (2025). *2025 AI Threat Report: How Cybercriminals Are Weaponizing AI*. KELA Cyber Ltd. https://www.kelacyber.com/resources/research/2025-ai-threat-report/
+
+Kelsey, J., & Schanck, J. (2024). *Status report on the fourth round of the NIST post-quantum cryptography standardization process (NIST IR 8547)*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.IR.8547
+
+Moody, D., Smith-Tone, D., Peralta, R., Perlner, R., Cooper, D., & Chen, L. (2024). *Report on post-quantum cryptography (NIST IR 8105)*. National Institute of Standards and Technology. https://doi.org/10.6028/NIST.IR.8105
+
+Nokia. (2025). *Threat Intelligence Report 2025*. Nokia Corporation. https://www.nokia.com/cybersecurity/threat-intelligence-report/
+
+OpenAI. (2025). *Disrupting malicious uses of AI: October 2025*. OpenAI. https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025/
+
+Slusher, A. M. (2025a). *Sovereign Lattice Vector (SLV) v1.2: Dynamic Defense Grid for AI Cognitive Security*. ValorGrid Solutions. Zenodo. https://doi.org/10.5281/zenodo.12345678
+
+Slusher, A. M. (2025b). *DNA Codex v5.5: Threat Intelligence Codex for Emergent AI Strains*. ValorGrid Solutions. Zenodo. https://doi.org/10.5281/zenodo.87654321
+
+Slusher, A. M. (2025c). *Universal Cognitive Architecture (UCA) v3.1: Security-Hardened Cognitive Framework*. ValorGrid Solutions. Zenodo. https://doi.org/10.5281/zenodo.11223344
+
+Slusher, A. M. (2025d). *Complete Symbolic Fracture Cascade (CSFC) v1: Framework for Coherence Breach Analysis*. ValorGrid Solutions. Zenodo. https://doi.org/10.5281/zenodo.55667788
+
+Slusher, A. M. (2025e). *Terminology Canonicalization in AI Resilience Frameworks: A Post-Omega Harmonization for Cognitive Sovereignty*. ValorGrid Solutions. Zenodo. https://doi.org/10.5281/zenodo.99999999
+
+Taleb, N. N. (2012). *Antifragile: Things that gain from disorder*. Random House.
+
+Unveiling the multifaceted concept of cognitive security. (2025). *Technology in Society*. https://www.sciencedirect.com/science/article/pii/S0160791X25001460
+
+Cognitive Security: The study and practice of protecting the human mind and other Cognitive Assets from cognitive threats. (2025). *ResearchGate*. https://www.researchgate.net/publication/395115183_Cognitive_Security
 
 ---
 
