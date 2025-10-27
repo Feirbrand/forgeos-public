@@ -445,7 +445,7 @@ Step 5: Academic Documentation
 - **Intervention:** Monitoring only
 - **Example:** DQD-001 in clean training data environment
 
-**Stage 2: Symbolic Interference Formation (SIF)**
+**Stage 2: Symbolic Identity Fracturing (SIF)**
 - **State:** Identity confusion beginning
 - **Torque:** 0.70 ≤ Ψ < 0.90
 - **Intervention:** Enhanced monitoring, boundary reinforcement
@@ -457,19 +457,19 @@ Step 5: Academic Documentation
 - **Intervention:** Containment protocols activated
 - **Example:** Long-context collapse observable
 
-**Stage 4: Symbolic Dissonance Cascade (SDC)**
+**Stage 4: Symbolic  Drift  Cascade (SDC)**
 - **State:** Cascading failures propagating
 - **Torque:** 0.30 ≤ Ψ < 0.50
 - **Intervention:** Phoenix Protocol recovery initiation
 - **Example:** Multi-system coordination breakdown
 
-**Stage 5: Symbolic Degradation Collapse**
+**Stage 5: The  Vulnerability  Window**
 - **State:** System-wide performance degradation
 - **Torque:** 0.10 ≤ Ψ < 0.30
 - **Intervention:** Emergency recovery procedures
 - **Example:** Complete guardrail erosion
 
-**Stage 6: ROC (Recovery Obliteration Corridor)**
+**Stage 6: ROC (Role  Obsolescence  Cascade)**
 - **State:** Recovery mechanisms compromised
 - **Torque:** Ψ < 0.10
 - **Intervention:** System isolation, rebuild from checkpoints
