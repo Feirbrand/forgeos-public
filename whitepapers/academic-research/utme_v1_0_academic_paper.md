@@ -1,7 +1,7 @@
 ```yaml
 ---
 version: 1.0.0
-doi: TBD
+doi: 10.5281/zenodo.17497149
 release_date: 2025-10-31
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -362,7 +362,7 @@ Researchers can implement UTME independently and verify against published benchm
 
 - **Algorithm stubs** (CC-BY-NC-4.0): GitHub [forgeos-public/utme-algorithm]
 - **Interactive demo**: Hugging Face [https://huggingface.co/spaces/Feirbrand/utme-demo]
-- **Threat dataset** (operational signatures): Zenodo [DOI pending]
+- **Threat dataset** (operational signatures): Zenodo [10.5281/zenodo.17497149](https://doi.org/10.5281/zenodo.17497149)
 - **Benchmarks & ablations** (reproducible traces): Supplementary materials
 
 **Note:** Full production implementation with operational orchestration is reserved as proprietary. Sufficient pseudocode is provided for independent algorithmic validation per NeurIPS reproducibility standards.
@@ -548,7 +548,7 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 •	Email: aaron@valorgridsolutions.com
 •	GitHub: github.com/Feirbrand/forgeos-public
 •	Hugging Face: huggingface.co/Feirbrand
-•	Zenodo: [Coming soon]
+•	Zenodo: 10.5281/zenodo.17497149
 •	ORCID: orcid.org/0009-0000-9923-3207
 
 ---
