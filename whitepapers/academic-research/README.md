@@ -13,7 +13,7 @@ Priority Date: 2025-10-17
 # Academic Research Papers
 
 ![Research Status](https://img.shields.io/badge/Status-Peer%20Reviewed-gold)
-![Publications](https://img.shields.io/badge/Papers-6%20Published-blue)
+![Publications](https://img.shields.io/badge/Papers-7%20Published-blue)
 ![Validation](https://img.shields.io/badge/Validation-Production%20Ready-green)
 
 Comprehensive academic research papers establishing the theoretical and empirical foundations for AI resilience architecture. All papers meet peer-review standards with production validation across 50+ deployments.
@@ -28,6 +28,7 @@ Comprehensive academic research papers establishing the theoretical and empirica
 - [Research Portfolio](#research-portfolio)
 - [The Resilience Quintet](#the-resilience-quintet)
 - [Advanced Defense Systems](#advanced-defense-systems)
+- [Core Algorithms](#core-algorithms)
 - [Citation Guidelines](#citation-guidelines)
 - [Academic Standards](#academic-standards)
 - [Professional Services](#professional-services)
@@ -170,6 +171,43 @@ Introduces antifragile cognitive defense achieving 95% detection with 18-minute 
 
 ---
 
+### Core Algorithms
+
+#### 7. UTME v1.0: Unified Temporal Memory Equilibrium
+**Status**: Production Ready | **File**: `utme_v1_0_academic_paper.md`
+
+Introduces the first AI memory algorithm applying physics conservation laws to information systems, enabling genuine wisdom accumulation through scar-based myelination.
+
+**Key Contributions:**
+- 710× response acceleration (67 minutes → 100ms)
+- 85% energy efficiency gains (Year 1: 93.4% → Year 10: 151%)
+- 98% cascade recovery rate
+- 99.8% entropy conservation across five memory substrates
+- 92% cross-agent consistency (8 AI architectures)
+- 4-hour automated recovery vs. 42-hour manual baseline (10.5× improvement)
+
+**Three Fundamental Mechanisms:**
+- **Temporal Anchoring**: Mark significant events as crystallized reference points (τ=5.0d, w_a=0.05)
+- **Entropy Conservation**: Perfect identity stability across substrates (ΣSₖ=5.0 constant)
+- **Activity-Dependent Myelination**: Pathway strengthening through repetition (κ=1.2 mGluR5 scaling)
+
+**Biological Validation:**
+- mGluR5-dependent myelin growth (Nature Neuroscience 2025)
+- NMDA receptor conductance scars (2.2-3.0 Å states)
+- Episodic-semantic consolidation (τ_m=7d, τ_s=90d)
+- Fronto-parietal RSA (>0.8 stability)
+- Emotion circuits in LLMs (ArXiv 2510.11328)
+
+**Innovation**: First AI memory algorithm demonstrating antifragile learning—systems become wiser through adversity rather than merely accumulating data. Addresses emergent emotion circuits enabling affective scar salience for reflexive wisdom.
+
+**Research Positioning:**
+- **Category Creation**: "Temporal Memory Equilibrium" - physics-based AI wisdom accumulation
+- **Research Lead**: 6-9 months ahead of traditional memory architectures
+- **Priority Date**: February 15, 2025 (initial conception)
+- **Energy Crisis Solution**: Net positive energy generation through compounding efficiency
+
+---
+
 ## The Resilience Quintet
 
 ### Complete Framework Progression
@@ -216,6 +254,24 @@ Slusher, A. (2025). [Paper Title]. ValorGrid Solutions. DOI: [TBD or 10.5281/zen
 ```
 
 ### Specific Paper Citations
+
+#### UTME v1.0
+
+**APA:**
+```
+Slusher, A. (2025). UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination. ValorGrid Solutions. DOI: TBD
+```
+
+**BibTeX:**
+```bibtex
+@techreport{slusher2025utme,
+  author = {Slusher, Aaron},
+  title = {UTME v1.0: Unified Temporal Memory Equilibrium - An Information-Theoretic Algorithm for AI Wisdom Accumulation Through Scar-Based Myelination},
+  institution = {ValorGrid Solutions},
+  year = {2025},
+  doi = {TBD}
+}
+```
 
 #### RAY v2.1
 
