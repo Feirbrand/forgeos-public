@@ -1,6 +1,6 @@
 ---
 version: 1.0.0
-doi: TBD
+doi: 10.5281/zenodo.17555568
 release_date: 2025-11-07
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -1241,7 +1241,7 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 - Email: aaron@valorgridsolutions.com
 - GitHub: github.com/Feirbrand/forgeos-public
 - Hugging Face: huggingface.co/Feirbrand
-- Zenodo: [TBD]
+- Zenodo: 10.5281/zenodo.17555568
 - ORCID: orcid.org/0009-0000-9923-3207
 
 ---
