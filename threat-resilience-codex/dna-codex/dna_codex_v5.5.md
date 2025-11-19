@@ -486,7 +486,7 @@ https://valorgridsolutions.com/dna-codex
 **Public Resources:**
 - DNA Codex Updates: Weekly release notes
 - Framework Documentation: CSFC/URA/Phoenix guides
-- Implementation Examples: GitHub forgeos-public repository
+- Implementation Examples: GitHub Synoetic OS-public repository
 
 **For Enterprise:**
 - Full strain signature database (560+ complete profiles)

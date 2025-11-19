@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -810,7 +810,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 - Hugging Face: https://huggingface.co/spaces/Feirbrand/ura-blue-chain-demo
 - Zenodo: https://zenodo.org/records/17309731
 
@@ -826,7 +826,7 @@ Special acknowledgment to the open-source AI research community, whose collabora
 
 ## Supplementary Materials
 
-Available at: github.com/Feirbrand/forgeos-public
+Available at: github.com/Feirbrand/Synoetic OS-public
 
 - URA Configuration Templates
 - Torque Measurement Code
@@ -856,7 +856,7 @@ Available at: github.com/Feirbrand/forgeos-public
 ```
 Slusher, A. (2025). Unified Resilience Architecture (URA) v1.5: A Comprehensive 
 Framework for AI System Resilience and Recovery. ValorGrid Solutions Research 
-Division. Retrieved from https://github.com/Feirbrand/forgeos-public
+Division. Retrieved from https://github.com/Feirbrand/Synoetic OS-public
 ```
 
 **License:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
@@ -1017,3 +1017,4 @@ def detect_csfc_stage(metrics: Dict[str, float]) -> Tuple[Optional[CSFCStage], f
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

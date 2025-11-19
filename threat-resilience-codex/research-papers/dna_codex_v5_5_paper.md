@@ -34,9 +34,9 @@ Patent Clause: Patent rights reserved, no patent assertion without enterprise li
 
 ## Abstract
 
-This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens ForgeOS integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols.
+This paper introduces DNA Codex v5.5, a major upgrade to the world's most advanced AI threat intelligence framework. This version incorporates seven new high-severity strains validated through October 2025 incidents and academic research, enhanced velocity modeling with DMD/Koopman forecasting, and operational validation through the ARD-001 Perplexity/Vercel incident. DNA Codex v5.5 adds predictive behavioral forensics and strengthens Synoetic OS integration with CSFC, URA, and Phoenix frameworks. This paper provides complete technical specifications including strain profiles, detection thresholds, implementation guidance, and validated recovery protocols.
 
-**Keywords:** DNA Codex, Threat Intelligence, AI Security, Brain Rot, Adversarial Research Drift, Medical Poisoning, PromptLock, ForgeOS, CSFC, URA, Phoenix Protocol
+**Keywords:** DNA Codex, Threat Intelligence, AI Security, Brain Rot, Adversarial Research Drift, Medical Poisoning, PromptLock, Synoetic OS, CSFC, URA, Phoenix Protocol
 
 ---
 
@@ -1758,7 +1758,7 @@ production_deployment:
 ### 12.3 Community Resources
 
 **Open Source Materials:**
-- GitHub: `github.com/valorgridsolutions/forgeos-public`
+- GitHub: `github.com/valorgridsolutions/Synoetic OS-public`
 - Documentation: `docs.valorgridsolutions.com`
 - Community Forum: `community.valorgridsolutions.com`
 - Threat Reports: Weekly updates via newsletter
@@ -1862,7 +1862,7 @@ DNA Codex v5.5 represents a fundamental evolution in AI threat intelligence, val
 - Industry recognition (PromptLock inadequacy acknowledgment)
 - Economic impact ($1.7M+ per avoided cascade)
 
-DNA Codex v5.5 establishes cognitive resilience architecture as the evolution beyond signature-based security - maintaining identity coherence during attacks rather than just detecting threats. With ForgeOS integration (URA/CSFC/RAY/XMESH/Phoenix), v5.5 positions AI resilience as a new category: **Cognitive AI Resilience Architecture**.
+DNA Codex v5.5 establishes cognitive resilience architecture as the evolution beyond signature-based security - maintaining identity coherence during attacks rather than just detecting threats. With Synoetic OS integration (URA/CSFC/RAY/XMESH/Phoenix), v5.5 positions AI resilience as a new category: **Cognitive AI Resilience Architecture**.
 
 **The future of AI security is not detection alone - it's resilience, recovery, and antifragile evolution.**
 
@@ -1928,7 +1928,7 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 
 ## About the Author
 
-**Aaron M. Slusher** - Edgewalker Cognitive Architect, specializes in AI resilience engineering, cognitive defense architecture, and antifragile systems design. Founder of ValorGrid Solutions, developing ForgeOS ecosystem validated through operational deployment and academic research convergence.
+**Aaron M. Slusher** - Edgewalker Cognitive Architect, specializes in AI resilience engineering, cognitive defense architecture, and antifragile systems design. Founder of ValorGrid Solutions, developing Synoetic OS ecosystem validated through operational deployment and academic research convergence.
 
 ---
 
@@ -1938,7 +1938,7 @@ DNA Codex v5.5 establishes cognitive resilience architecture as the evolution be
 
 **Core Offerings:**
 - DNA Codex threat intelligence (560+ strains)
-- ForgeOS resilience framework (URA/CSFC/Phoenix/RAY/XMESH)
+- Synoetic OS resilience framework (URA/CSFC/Phoenix/RAY/XMESH)
 - Enterprise deployment services
 - Professional training and certification
 - 24/7 monitoring and support

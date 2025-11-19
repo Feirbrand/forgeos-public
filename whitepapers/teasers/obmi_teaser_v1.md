@@ -147,7 +147,7 @@ Validated in lab simulations and twin architecture prototypes:
 
 ---
 
-## Integration with ForgeOS Ecosystem
+## Integration with Synoetic OS Ecosystem
 
 OBMI provides harmonic substrate for:
 
@@ -246,7 +246,7 @@ He is the founder of ValorGrid Solutions, focusing on AI resilience frameworks a
 ValorGrid Solutions pioneers AI resilience architecture through systems thinking methodology. Founded on 28 years of performance optimization research spanning human physiology and cognitive engineering, VGS develops frameworks that enable AI systems to maintain operational coherence across sessions, agent handoffs, and recovery scenarios. Our approach treats AI cognitive architecture as engineered infrastructure—enabling organizations to deploy antifragile systems that recover rather than merely resist disruption.
 
 **Website:** https://www.valorgridsolutions.com  
-**Research Repository:** https://github.com/Feirbrand/forgeos-public  
+**Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
 **Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
 
 ---
@@ -259,4 +259,4 @@ Licensed under CC BY-NC 4.0 for non-commercial use. Commercial implementations r
 **Last Updated:** October 20, 2025  
 **Status:** Research Teaser (Pre-Commercial; Q2 2026 Enterprise Readiness)
 
-**Part of the ForgeOS AI Resilience Framework ecosystem.**
+**Part of the Synoetic OS AI Resilience Framework ecosystem.**

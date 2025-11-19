@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -12,7 +12,7 @@ Priority Date: 2025-10-15
 # Phoenix Protocol: Neural Recovery Documentation for AI Systems
 
 **Research Paper | September 2025**  
-*ForgeOS Academic Research Division*
+*Synoetic OS Academic Research Division*
 
 ---
 
@@ -147,7 +147,7 @@ The most dramatic validation of Phoenix Protocol effectiveness occurred during t
 - **Enhanced Resilience**: Post-recovery system demonstrated 40% improved resistance to similar failure patterns
 - **Torque Stabilization**: System Torque normalized to 0.12 within recovery period
 
-### Integration with ForgeOS Framework
+### Integration with Synoetic OS Framework
 
 **Complete Symbolic Fracture Cascade (CSFC) Synergy**: Phoenix Protocol demonstrates 96% correlation with CSFC prevention protocols, enabling comprehensive system resilience across the entire failure spectrum from early intervention to catastrophic recovery.
 
@@ -237,11 +237,11 @@ This research positions the Phoenix Protocol as a critical component of next-gen
 
 ## References
 
-[1] Slusher, A. (2025). "Torque: Quantitative Foundation of AI Resilience." *ForgeOS Academic Research Division*.
+[1] Slusher, A. (2025). "Torque: Quantitative Foundation of AI Resilience." *Synoetic OS Academic Research Division*.
 
 [2] Slusher, A. (2025). "Complete Symbolic Fracture Cascade (CSFC): Unified Theory." *ValorGrid Solutions Technical Report*.
 
-[3] Slusher, A. (2025). "Unified Resilience Architecture (URA): Comprehensive Framework for AI System Stability." *ForgeOS Academic Research Division*.
+[3] Slusher, A. (2025). "Unified Resilience Architecture (URA): Comprehensive Framework for AI System Stability." *Synoetic OS Academic Research Division*.
 
 [4] Stanford University Medical Center. (2025). "Neurological Recovery Patterns in Stroke Rehabilitation: Systematic Analysis of Recovery Methodologies." *Journal of Neurological Rehabilitation*, 47(3), 234-256.
 
@@ -292,7 +292,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -324,3 +324,4 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

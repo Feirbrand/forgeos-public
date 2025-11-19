@@ -11,11 +11,11 @@ Version: 1.1
 Priority Date: 2025-10-20
 Last Updated: 2025-10-20
 
-# ForgeOS Framework Teasers
+# Synoetic OS Framework Teasers
 
 **AI Resilience Architecture - Technical Overview Collection**
 
-"Technical documentation of ForgeOS framework innovations without implementation overhead."
+"Technical documentation of Synoetic OS framework innovations without implementation overhead."
 
 ---
 
@@ -32,7 +32,7 @@ Last Updated: 2025-10-20
 
 ## Overview
 
-This directory contains technical overviews of ForgeOS framework components - complete architectural descriptions, measured performance metrics, and validation results **without production implementation code**.
+This directory contains technical overviews of Synoetic OS framework components - complete architectural descriptions, measured performance metrics, and validation results **without production implementation code**.
 
 ### What You Get (Free)
 
@@ -40,7 +40,7 @@ This directory contains technical overviews of ForgeOS framework components - co
 - Architectural principles and design philosophy
 - Performance benchmarks with statistical validation
 - Real-world application scenarios
-- Integration patterns across ForgeOS ecosystem
+- Integration patterns across Synoetic OS ecosystem
 - Deployment requirements and considerations
 
 **Research Foundation**
@@ -134,7 +134,7 @@ Continuous cognitive physiology cycle harmonizing disparate AI systems into unif
 **Innovation**: Unified command with autonomous coordination  
 **Teaser**: [`FCE Framework Technical Teaser.md`](./FCE%20Framework%20Technical%20Teaser.md)
 
-Orchestrates all ForgeOS components into unified resilience organism through autonomous coordination. Provides compression substrate with 4-20x compression achieving 95% semantic preservation.
+Orchestrates all Synoetic OS components into unified resilience organism through autonomous coordination. Provides compression substrate with 4-20x compression achieving 95% semantic preservation.
 
 **Key Metrics**: 35-50% context retention improvement, 25-40% reasoning consistency, 4-20x compression, 45-82% latency reductions
 
@@ -206,18 +206,18 @@ Each teaser document provides:
 ### BibTeX
 
 ```bibtex
-@techreport{slusher2025forgeos,
-  title={ForgeOS AI Resilience Framework: Technical Overview},
+@techreport{slusher2025Synoetic OS,
+  title={Synoetic OS AI Resilience Framework: Technical Overview},
   author={Slusher, Aaron},
   year={2025},
   institution={ValorGrid Solutions},
-  url={https://github.com/Feirbrand/forgeos-public}
+  url={https://github.com/Feirbrand/Synoetic OS-public}
 }
 ```
 
 ### APA
 
-Slusher, A. (2025). *ForgeOS AI Resilience Framework: Technical Overview*. ValorGrid Solutions. https://github.com/Feirbrand/forgeos-public
+Slusher, A. (2025). *Synoetic OS AI Resilience Framework: Technical Overview*. ValorGrid Solutions. https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -259,7 +259,7 @@ Commercial licensing includes:
 
 All uses must include:
 ```
-Based on ForgeOS AI Resilience Framework by Aaron Slusher, ValorGrid Solutions
+Based on Synoetic OS AI Resilience Framework by Aaron Slusher, ValorGrid Solutions
 Licensed under CC BY-NC 4.0 for non-commercial use
 ```
 
@@ -286,7 +286,7 @@ ValorGrid Solutions pioneers AI resilience architecture through systems thinking
 - **FCE** - Fractal Context Engineering
 
 **Website:** https://www.valorgridsolutions.com  
-**Research Repository:** https://github.com/Feirbrand/forgeos-public  
+**Research Repository:** https://github.com/Feirbrand/Synoetic OS-public  
 **Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
 
 ---

@@ -1,16 +1,16 @@
-# ForgeOS: AI Resilience Architecture Research
+# Synoetic OS: AI Resilience Architecture Research
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)
 
 Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.
 
-## What is ForgeOS?
+## What is Synoetic OS?
 
-ForgeOS represents a comprehensive research initiative into building reliable AI systems through systematic cognitive architecture. Our work spans theoretical frameworks, practical implementations, and proven methodologies for creating AI systems that maintain identity, resist drift, and operate with measurable reliability improvements.
+Synoetic OS represents a comprehensive research initiative into building reliable AI systems through systematic cognitive architecture. Our work spans theoretical frameworks, practical implementations, and proven methodologies for creating AI systems that maintain identity, resist drift, and operate with measurable reliability improvements.
 
 ## Repository Structure
 
 ```
-forgeos-public/
+Synoetic OS-public/
 ├── architectural-frameworks/     # Framework implementations and patterns
 │   ├── obmi-series/
 │   ├── phoenix-protocol-v1/
@@ -46,8 +46,8 @@ forgeos-public/
 ### For Researchers
 ```bash
 # Clone repository
-git clone https://github.com/Feirbrand/forgeos-public.git
-cd forgeos-public
+git clone https://github.com/Feirbrand/Synoetic OS-public.git
+cd Synoetic OS-public
 
 # Install dependencies
 pip install -r requirements_file.txt
@@ -103,10 +103,10 @@ cat architectural-frameworks/obmi-series/README.md
 ### Foundational Research (Zenodo Published)
 
 **Torque - AI Cognitive Stability Measurement**
-Quantitative foundation for measuring AI cognitive coherence with 87% threat correlation validation. Mathematical framework enabling all ForgeOS predictive monitoring capabilities.
+Quantitative foundation for measuring AI cognitive coherence with 87% threat correlation validation. Mathematical framework enabling all Synoetic OS predictive monitoring capabilities.
 
 - **87% threat correlation** with validated predictive monitoring
-- **Quantitative foundation** for all ForgeOS frameworks
+- **Quantitative foundation** for all Synoetic OS frameworks
 - Mathematical framework for measuring AI cognitive coherence
 - **Zenodo DOI:** [10.5281/zenodo.17379750](https://zenodo.org/records/17379750)
 
@@ -188,7 +188,7 @@ Living recursion loop harmonizing disparate AI systems into unified cognitive or
 - **Full teaser:** [`whitepapers/teasers/RAY Framework Technical Teaser.md`](whitepapers/teasers/RAY%20Framework%20Technical%20Teaser.md)
 
 **Fractal Context Engineering (FCE) v3.6 - 4-20x Compression**
-Unified framework orchestrating all ForgeOS components with intelligent compression and autonomous coordination.
+Unified framework orchestrating all Synoetic OS components with intelligent compression and autonomous coordination.
 
 - **35-50% context retention improvement** over baseline
 - **25-40% reasoning consistency enhancement** in multi-turn tasks
@@ -267,8 +267,8 @@ All research undergoes rigorous validation:
 ## Citation
 
 ```bibtex
-@article{slusher2025forgeos,
-  title={ForgeOS: AI Resilience Architecture with Universal Cognitive Defense},
+@article{slusher2025Synoetic OS,
+  title={Synoetic OS: AI Resilience Architecture with Universal Cognitive Defense},
   author={Slusher, Aaron},
   journal={Journal of AI Cognitive Security},
   volume={12},
@@ -295,3 +295,7 @@ All research undergoes rigorous validation:
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+
+
+

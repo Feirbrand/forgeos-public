@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -12,7 +12,7 @@ Priority Date: 2025-10-15
 # Performance Coach AI Rewrite: Methodology Evolution Documentation
 
 **Research Documentation | September 2025**  
-*ForgeOS Academic Research Division*
+*Synoetic OS Academic Research Division*
 
 ---
 
@@ -330,7 +330,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -362,3 +362,4 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

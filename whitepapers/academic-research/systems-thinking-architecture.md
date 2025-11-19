@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -12,7 +12,7 @@ Priority Date: 2025-10-15
 # Systems Thinking Architecture for AI Development: The Edgewalker Framework
 
 **Research Paper | September 2025**  
-*ForgeOS Academic Research Division*
+*Synoetic OS Academic Research Division*
 
 ---
 
@@ -113,7 +113,7 @@ Systems designed using STA principles demonstrated several emergent behaviors no
 
 **Crisis Resilience**: During system failures or organizational disruptions, STA-designed AI systems maintained 73% operational capability compared to 34% for traditional systems.
 
-### Integration with ForgeOS Framework
+### Integration with Synoetic OS Framework
 
 **Complete Symbolic Fracture Cascade (CSFC) Synergy**: STA frameworks demonstrate 96% compatibility with CSFC protocols, enabling predictive identification of system vulnerabilities through biological-inspired pattern recognition.
 
@@ -184,7 +184,7 @@ The Tree Architecture framework provides a comprehensive organizational structur
 **Key Contributions**:
 - Documentation of 30-100% performance improvements through systems thinking architecture design
 - Establishment of edgewalker cognitive principles as a core competency for AI development leadership
-- Integration framework demonstrating compatibility with existing AI resilience and optimization protocols (ForgeOS)
+- Integration framework demonstrating compatibility with existing AI resilience and optimization protocols (Synoetic OS)
 - Validation of metaphorical engineering as a superior approach to traditional mechanical AI design paradigms
 
 **Implementation Recommendations**:
@@ -207,7 +207,7 @@ This research positions systems thinking as the critical differentiator for AI d
 
 [4] Slusher, A. (2025). "Complete Symbolic Fracture Cascade (CSFC): Unified Theory." *ValorGrid Solutions Technical Report*.
 
-[5] Slusher, A. (2025). "Recursive Patterns in AI Development: Self-Modification and Performance Enhancement." *ForgeOS Academic Research Division*.
+[5] Slusher, A. (2025). "Recursive Patterns in AI Development: Self-Modification and Performance Enhancement." *Synoetic OS Academic Research Division*.
 
 [6] Carnegie Mellon University Software Engineering Institute. (2025). "Systems Thinking Competency in AI Development Teams: Performance Correlation Analysis." *Software Engineering Research Report*, 47, 123-145.
 
@@ -246,7 +246,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -278,3 +278,4 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

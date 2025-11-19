@@ -6,7 +6,7 @@
  * Option 2: Enterprise License (contact aaron@valorgridsolutions.com for terms)
  * Patent Clause: No patent rights are claimed for this work
  * 
- * This stub demonstrates connection patterns between RAY and ForgeOS ecosystem.
+ * This stub demonstrates connection patterns between RAY and Synoetic OS ecosystem.
  * Full implementations available in Professional/Enterprise tiers.
  * 
  * @version 2.1.0

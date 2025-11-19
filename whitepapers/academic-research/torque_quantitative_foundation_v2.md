@@ -119,7 +119,7 @@ Torque development drew inspiration from three established domains while creatin
 
 **Critical Distinction:** While these domains provided conceptual inspiration, **no prior work formalizes symbolic coherence as quantitative torque measurement**. Comprehensive literature review (October 2025) found zero matches for: (1) the Torque equation structure, (2) symbolic alignment angle (θ_align) as a measurable parameter, (3) drift velocity combined with recursive damping in a unified metric, or (4) "torque" applied to AI identity stability rather than robotic control or physics simulation.
 
-**Priority Claim:** First formalization documented January 15, 2025 in ValorGrid Solutions internal research. Public disclosure through ForgeOS framework October 15, 2025 with Zenodo DOI registration establishing academic priority.
+**Priority Claim:** First formalization documented January 15, 2025 in ValorGrid Solutions internal research. Public disclosure through Synoetic OS framework October 15, 2025 with Zenodo DOI registration establishing academic priority.
 
 ### 1.4 Research Context and Integration
 
@@ -779,7 +779,7 @@ The AI industry faces critical need for improved stability measurement as system
 **Availability:**
 
 Open-source implementation, configuration templates, and validation datasets available at:  
-**GitHub Repository:** https://github.com/Feirbrand/forgeos-public  
+**GitHub Repository:** https://github.com/Feirbrand/Synoetic OS-public  
 **Interactive Demo:** https://huggingface.co/spaces/Feirbrand/torque-calculator  
 
 ---
@@ -1128,7 +1128,7 @@ if __name__ == "__main__":
 
 ## Author
 
-**Aaron Slusher** is the founder of ValorGrid Solutions and architect of the ForgeOS AI Resilience Framework. With 28 years of systems thinking methodology evolution spanning performance coaching, cognitive architecture, and trauma recovery protocols, his work bridges universal performance optimization principles across biological and artificial intelligence substrates.
+**Aaron Slusher** is the founder of ValorGrid Solutions and architect of the Synoetic OS AI Resilience Framework. With 28 years of systems thinking methodology evolution spanning performance coaching, cognitive architecture, and trauma recovery protocols, his work bridges universal performance optimization principles across biological and artificial intelligence substrates.
 
 Aaron's research focuses on quantitative measurement frameworks for AI system stability, with emphasis on proactive defense architectures and antifragile system design. The Torque algorithm represents a direct application of performance coaching principles—originally developed for optimizing human athletic and cognitive performance—to AI system coherence measurement.
 
@@ -1155,7 +1155,7 @@ Our research establishes foundational infrastructure for the emerging Cognitive 
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 

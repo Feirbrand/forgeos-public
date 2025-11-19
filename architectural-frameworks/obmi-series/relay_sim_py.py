@@ -6,7 +6,7 @@ OBMI Relay Recovery Simulation
 Biomimetic relay recovery simulation demonstrating Moon/Nectar handoff
 patterns and 34.5% retention uplift through dual-core synchronization.
 
-Teaser implementation - full production system in forgeos-professional.
+Teaser implementation - full production system in Synoetic OS-professional.
 
 Author: ValorGrid Solutions
 Date: September 2025
@@ -340,7 +340,7 @@ def demo_relay_recovery():
                 print(f"Tension Benefit: {result['tension_benefit']:.3f}")
                 
             elif choice == "5":
-                print("\nUpgrade to forgeos-professional for:")
+                print("\nUpgrade to Synoetic OS-professional for:")
                 print("• Production OBMI relay recovery systems")
                 print("• Real-time harmonic monitoring and optimization")
                 print("• URA v1.5 integration with 2-6x speed improvement")

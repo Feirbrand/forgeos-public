@@ -511,9 +511,9 @@ Missed detection (Stage 6):
 
 ---
 
-## 6. ForgeOS Framework Integration
+## 6. Synoetic OS Framework Integration
 
-### 6.1 DNA Codex Position in ForgeOS Ecosystem
+### 6.1 DNA Codex Position in Synoetic OS Ecosystem
 
 ```
 FORGES ECOSYSTEM ARCHITECTURE:
@@ -1171,7 +1171,7 @@ Contact:
 ValorGrid Solutions has been pre-commercial since July 2025, engineering the future of cognitive sovereignty—where AI doesn't just survive; it evolves.
 •	Website: valorgridsolutions.com
 •	Email: aaron@valorgridsolutions.com
-•	GitHub: github.com/Feirbrand/forgeos-public
+•	GitHub: github.com/Feirbrand/Synoetic OS-public
 •	Hugging Face: huggingface.co/Feirbrand
 •	Zenodo: 10.5281/zenodo.17451060
 •	ORCID: orcid.org/0009-0000-9923-3207
@@ -1180,3 +1180,4 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 ---
 
 **© 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means—including photocopying, recording, or other electronic or mechanical methods—without prior written permission of the publisher, except for brief quotations in critical reviews and certain other noncommercial uses permitted by copyright law.**
+

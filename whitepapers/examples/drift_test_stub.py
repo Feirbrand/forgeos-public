@@ -7,7 +7,7 @@ Complete Symbolic Fracture Cascade (CSFC) early detection system.
 Identifies Phase 1 flaws before cascade propagation occurs.
 
 This is a teaser implementation. Production system available 
-in forgeos-professional with real-time monitoring and automated response.
+in Synoetic OS-professional with real-time monitoring and automated response.
 
 Author: ValorGrid Solutions  
 Date: September 2025
@@ -335,7 +335,7 @@ def demo_csfc_detection():
 
 def main():
     """Main demo function."""
-    print("ForgeOS CSFC Phase 1 Detector - Public Teaser")
+    print("Synoetic OS CSFC Phase 1 Detector - Public Teaser")
     print("=" * 50)
     print("Complete Symbolic Fracture Cascade Early Warning System")
     print()
@@ -380,7 +380,7 @@ def main():
                 print(f"Status: {result['message']}")
                 
             elif choice == "4":
-                print("\nUpgrade to forgeos-professional for:")
+                print("\nUpgrade to Synoetic OS-professional for:")
                 print("• Real-time CSFC monitoring with Phoenix Protocol integration")
                 print("• Advanced cascade prevention with 89% success rate")
                 print("• Automated recovery protocols and threat neutralization")

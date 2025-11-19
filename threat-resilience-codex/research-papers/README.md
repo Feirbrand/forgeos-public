@@ -30,7 +30,7 @@ research-papers/
 
 ## Overview
 
-The research-papers section provides comprehensive technical documentation of threat intelligence methodologies, behavioral classification frameworks, and empirical validation studies. These publications establish the theoretical foundation and practical implementation guidance for the DNA Codex threat taxonomy and ForgeOS framework integrations.
+The research-papers section provides comprehensive technical documentation of threat intelligence methodologies, behavioral classification frameworks, and empirical validation studies. These publications establish the theoretical foundation and practical implementation guidance for the DNA Codex threat taxonomy and Synoetic OS framework integrations.
 
 ---
 
@@ -285,7 +285,7 @@ When using code examples:
 - **Community**: community.valorgridsolutions.com
 
 ### Community Resources
-- **GitHub**: github.com/valorgridsolutions/forgeos-public
+- **GitHub**: github.com/valorgridsolutions/Synoetic OS-public
 - **Discussions**: GitHub Discussions for technical questions
 - **Issue Tracking**: GitHub Issues for bug reports and feature requests
 - **Updates**: Weekly threat intelligence updates via newsletter

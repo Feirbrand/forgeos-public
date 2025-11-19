@@ -392,4 +392,4 @@ Production-ready frameworks with professional deployment support:
 
 **Copyright © 2025 Aaron Slusher, ValorGrid Solutions. All rights reserved.**
 
-*Part of the ForgeOS research ecosystem. Building the theoretical and practical foundations for antifragile AI systems.*
+*Part of the Synoetic OS research ecosystem. Building the theoretical and practical foundations for antifragile AI systems.*

@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -208,7 +208,7 @@ For enterprise CSFC assessment and implementation:
 - **Ongoing Support**: Continuous monitoring and optimization services
 
 **Contact**: aaron@valorgridsolutions.com  
-**Repository**: [ForgeOS Public](https://github.com/Feirbrand/forgeos-public)
+**Repository**: [Synoetic OS Public](https://github.com/Feirbrand/Synoetic OS-public)
 
 ---
 
@@ -235,3 +235,4 @@ For enterprise CSFC assessment and implementation:
 
 Author: [Your Name or Team]
 Contact: [email or site]
+

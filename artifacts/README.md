@@ -14,7 +14,7 @@ Priority Date: 2025-10-17
 
 **Interactive Research Tools & Threat Intelligence**
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Jupyter](https://img.shields.io/badge/Jupyter-Lab%205.0-orange)](https://jupyter.org) [![ForgeOS](https://img.shields.io/badge/ForgeOS-CSFC%20v1.0-red)](https://valorgridsolutions.com)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Jupyter](https://img.shields.io/badge/Jupyter-Lab%205.0-orange)](https://jupyter.org) [![Synoetic OS](https://img.shields.io/badge/Synoetic OS-CSFC%20v1.0-red)](https://valorgridsolutions.com)
 
 ---
 
@@ -293,17 +293,17 @@ Complete CSFC compatibility with Phoenix Protocol integration for comprehensive 
 
 ```bibtex
 @techreport{slusher2025artifacts,
-  title={ForgeOS Artifacts: Interactive Tools for AI Resilience Research},
+  title={Synoetic OS Artifacts: Interactive Tools for AI Resilience Research},
   author={Slusher, Aaron},
   year={2025},
   institution={ValorGrid Solutions},
-  url={https://github.com/Feirbrand/forgeos-public}
+  url={https://github.com/Feirbrand/Synoetic OS-public}
 }
 ```
 
 ### APA
 
-Slusher, A. (2025). *ForgeOS Artifacts: Interactive Tools for AI Resilience Research*. ValorGrid Solutions. https://github.com/Feirbrand/forgeos-public
+Slusher, A. (2025). *Synoetic OS Artifacts: Interactive Tools for AI Resilience Research*. ValorGrid Solutions. https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -345,3 +345,4 @@ Professional Services: valorgridsolutions.com
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

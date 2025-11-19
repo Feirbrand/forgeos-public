@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -9,18 +9,18 @@ DOI: TBD
 Version: TBD
 Priority Date: 2025-10-15
 
-# ForgeOS Examples & Teasers Division
+# Synoetic OS Examples & Teasers Division
 
 **Sample Implementations & Research Previews**
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![ForgeOS](https://img.shields.io/badge/ForgeOS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Examples](https://img.shields.io/badge/Type-Sample%20Code-green)](https://github.com/Feirbrand/forgeos-public)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Synoetic OS](https://img.shields.io/badge/Synoetic OS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Examples](https://img.shields.io/badge/Type-Sample%20Code-green)](https://github.com/Feirbrand/Synoetic OS-public)
 
 ## Division Overview
 
-**Research Focus**: Sample implementations, proof-of-concept demonstrations, and research teasers showcasing ForgeOS capabilities. Quick-start examples for developers and researchers exploring CSFC (Complete Symbolic Fracture Cascade) frameworks.
+**Research Focus**: Sample implementations, proof-of-concept demonstrations, and research teasers showcasing Synoetic OS capabilities. Quick-start examples for developers and researchers exploring CSFC (Complete Symbolic Fracture Cascade) frameworks.
 
 **Core Capabilities**:
-- **Sample Implementations**: Working examples of core ForgeOS components
+- **Sample Implementations**: Working examples of core Synoetic OS components
 - **Research Previews**: Simplified versions of production tools for learning
 - **Configuration Templates**: Ready-to-use setup files and configuration examples
 - **Educational Resources**: Step-by-step tutorials and implementation guides
@@ -43,14 +43,14 @@ examples/
 ## Research Portfolio
 
 ### Sample Implementations - **Educational Focus**
-Working examples demonstrating core ForgeOS concepts with simplified, easy-to-understand implementations for learning and prototyping.
+Working examples demonstrating core Synoetic OS concepts with simplified, easy-to-understand implementations for learning and prototyping.
 
 - **Pattern Recognition**: Behavioral analysis examples with visualization
 - **Diagnostic Samples**: Simplified versions of production detection tools
 - **Configuration Templates**: Ready-to-use setup files for rapid deployment
 
 ### Research Teasers - **Methodology Previews**
-Introductory documentation and simplified implementations showcasing full ForgeOS capabilities and research methodologies.
+Introductory documentation and simplified implementations showcasing full Synoetic OS capabilities and research methodologies.
 
 - **CSFC Framework**: Complete methodology overview with implementation examples
 - **Phoenix Protocol**: Recovery and resilience pattern documentation
@@ -139,7 +139,7 @@ nano my_ura_config.yaml
 **Educational Examples**: Simplified implementations for learning and prototyping
 **Research Teasers**: Methodology overviews and conceptual introductions
 **Configuration Templates**: Production-ready setup files and examples
-**Sample Code**: Working demonstrations of core ForgeOS capabilities
+**Sample Code**: Working demonstrations of core Synoetic OS capabilities
 
 ## Educational Standards
 
@@ -147,7 +147,7 @@ All examples designed for accessibility:
 - **Beginner Friendly**: Clear documentation and simplified implementations
 - **Step-by-Step**: Detailed explanations and commented code
 - **Modular Design**: Examples can be combined and extended
-- **Production Path**: Clear upgrade path to full ForgeOS implementation
+- **Production Path**: Clear upgrade path to full Synoetic OS implementation
 
 ## Contents
 
@@ -196,7 +196,7 @@ Examples → Production Tools:
 
 MIT License - Educational and research use encouraged
 
-**Citation**: Slusher, A. (2025). "ForgeOS Examples: Educational Resources for AI Resilience." *Educational Technology in AI*, 4(1), 78-92.
+**Citation**: Slusher, A. (2025). "Synoetic OS Examples: Educational Resources for AI Resilience." *Educational Technology in AI*, 4(1), 78-92.
 
 ---
 

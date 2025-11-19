@@ -781,7 +781,7 @@ ValorGrid Solutions specializes in AI resilience frameworks, cognitive security 
 - DD Enhancement Deployment and Optimization
 - Cognitive Security Architecture Design
 - Enterprise AI Resilience Consulting
-- ForgeOS Ecosystem Deployment
+- Synoetic OS Ecosystem Deployment
 - ReasoningBank Self-Evolution Training
 
 **Research Portfolio:**
@@ -794,9 +794,9 @@ ValorGrid Solutions specializes in AI resilience frameworks, cognitive security 
 
 **Website:** valorgridsolutions.com  
 **Email:** aaron@valorgridsolutions.com  
-**GitHub:** github.com/Feirbrand/forgeos-public  
+**GitHub:** github.com/Feirbrand/Synoetic OS-public  
 **Hugging Face:** huggingface.co/Feirbrand  
-**Zenodo:** zenodo.org/communities/forgeos
+**Zenodo:** zenodo.org/communities/Synoetic OS
 
 ---
 

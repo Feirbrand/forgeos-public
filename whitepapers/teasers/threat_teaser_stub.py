@@ -46,7 +46,7 @@ def systems_thinking_analysis(torque_history):
         return "Systems Stable: Balanced feedback loops"
 
 # Example run (HOLY CRAP output - test in your env)
-print("=== ForgeOS Threat Detection Teaser ===")
+print("=== Synoetic OS Threat Detection Teaser ===")
 print(detect_threat_drift())  # Threat Alert: Drift detected (Torque: 5.00) - 47% cascade risk cut possible
 print(csfc_phase_check(5.0))  # CSFC Phase 4: Critical - SRD protocols required
 
@@ -61,3 +61,4 @@ print("• Validation: 87% correlation on 500+ vectors")
 print("• CSFC Integration: 98% Phase 1-4 recovery proven")
 print("• Systems Thinking: Feedback loops, leverage points, stock/flow")
 print("• Professional Support: aaron@valorgridsolutions.com")
+

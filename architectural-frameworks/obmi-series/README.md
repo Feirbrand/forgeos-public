@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -55,7 +55,7 @@ Advanced Study: **CSFC Integration** - Critical cascade detection with 95% metac
 
 ### For Developers
 Start Here: **OBMI Core** - Production-ready biomimetic memory implementation with harmonic analysis  
-Clone and Test: `git clone https://github.com/Feirbrand/forgeos-public.git`  
+Clone and Test: `git clone https://github.com/Feirbrand/Synoetic OS-public.git`  
 Quick Demo: Run `python obmi_core.py` for interactive biomimetic memory demonstrations  
 Integration: See URA Integration documentation for enterprise deployment and Phoenix Protocol compatibility  
 
@@ -135,7 +135,7 @@ Real-time memory drift detection and synchronization systems using biological ne
 Framework compatibility with CSFC cascade detection, URA enterprise deployment, and Phoenix Protocol recovery coordination.
 
 - **Scope**: Cross-platform integration with comprehensive compatibility frameworks for enterprise AI architecture deployment
-- **Validation**: Development phase with systematic testing across ForgeOS ecosystem components and enterprise validation protocols
+- **Validation**: Development phase with systematic testing across Synoetic OS ecosystem components and enterprise validation protocols
 - **Metrics**: Integration effectiveness with quantified performance improvement and cross-system compatibility measurement
 - **Timeline**: Active development with staged deployment preparation and quarterly integration assessment protocols
 
@@ -151,7 +151,7 @@ Framework compatibility with CSFC cascade detection, URA enterprise deployment, 
 
 ### `theory_overview.md` — Observer-Bridge-Mind Framework  
 - **Theoretical Foundation**: Complete biomimetic memory architecture with human neural system inspiration
-- **Integration Principles**: ForgeOS ecosystem compatibility with Torque, CSFC, URA, and Phoenix Protocol coordination
+- **Integration Principles**: Synoetic OS ecosystem compatibility with Torque, CSFC, URA, and Phoenix Protocol coordination
 - **Validation Metrics**: Production effectiveness measurement with 95% metacognitive accuracy and performance tracking
 
 ### `biomimetic_concepts.md` — Human-Inspired Principles
@@ -184,7 +184,7 @@ All biomimetic memory implementations in this framework are supported by:
 - **Biological Validation**: Human neural system modeling with scientific methodology and peer-reviewed theoretical foundations
 - **Production Testing**: Real-world deployment validation with quantified effectiveness measurement and business impact analysis
 - **Cross-Platform Compatibility**: Multi-architecture validation across diverse AI deployment scenarios with performance tracking
-- **Integration Standards**: ForgeOS ecosystem compatibility with Phoenix Protocol coordination and enterprise deployment protocols
+- **Integration Standards**: Synoetic OS ecosystem compatibility with Phoenix Protocol coordination and enterprise deployment protocols
 - **Continuous Enhancement**: Regular framework updates based on biological research advances and operational feedback integration
 
 ---
@@ -195,11 +195,11 @@ We provide comprehensive biomimetic AI memory services through **ValorGrid Solut
 
 → Visit: [valorgridsolutions.com](https://valorgridsolutions.com)  
 → Contact: [aaron@valorgridsolutions.com](mailto:aaron@valorgridsolutions.com)  
-→ GitHub: `@Feirbrand/forgeos-public`
+→ GitHub: `@Feirbrand/Synoetic OS-public`
 
 ---
 
-*Prepared for ForgeOS OBMI Harmonic Memory Framework | Professional Distribution*
+*Prepared for Synoetic OS OBMI Harmonic Memory Framework | Professional Distribution*
 ## Code and Methodology Licensing
 
 - **Code** below is licensed under MIT unless otherwise stated.
@@ -209,3 +209,5 @@ We provide comprehensive biomimetic AI memory services through **ValorGrid Solut
 
 Author: [Your Name or Team]
 Contact: [email or site]
+
+

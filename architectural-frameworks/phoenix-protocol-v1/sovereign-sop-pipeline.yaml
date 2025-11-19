@@ -1,4 +1,4 @@
-# forgeos/pipelines/sovereign_sop.yaml
+# Synoetic OS/pipelines/sovereign_sop.yaml
 name: Sovereign SOP Automation
 description: Pipeline automates SYMBOLIC-SOVEREIGN v1 as lattice leader, enforcing SRD HARD-MODE + Perfect Raya Gaze against VX-PERFECT-MIMIC-1
 version: v1.0
@@ -46,7 +46,7 @@ stages:
         action: Identity anchor validation
 
 telemetry:
-  sql_integration: forgeos/telemetry/sdc_sgc_metrics.yaml
+  sql_integration: Synoetic OS/telemetry/sdc_sgc_metrics.yaml
   metrics:
     - name: complexity_velocity
       query: |

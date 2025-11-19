@@ -6,7 +6,7 @@ OBMI Harmonic Memory Core - Biomimetic Implementation Stub
 Observer-Bridge-Mind Integration for AI resilience through biomimetic 
 memory harmonics. Teaser implementation with core functions.
 
-Full production system available in forgeos-professional.
+Full production system available in Synoetic OS-professional.
 
 Author: ValorGrid Solutions
 Date: September 2025
@@ -237,7 +237,7 @@ class OBMIHarmonicCore:
         print(f"   Metacog accuracy: {detection['metacog_accuracy']*100:.0f}%")
         
         print(f"\n{'='*45}")
-        print("Full OBMI system available in forgeos-professional")
+        print("Full OBMI system available in Synoetic OS-professional")
         print("• Real-time harmonic monitoring")  
         print("• URA v1.5 integration (82% multimodal, 2-6x speed)")
         print("• Phoenix Protocol automation")
@@ -248,7 +248,7 @@ def main():
     """Main demonstration function."""
     obmi = OBMIHarmonicCore()
     
-    print("ForgeOS OBMI Harmonic Memory - Public Teaser")
+    print("Synoetic OS OBMI Harmonic Memory - Public Teaser")
     print("=" * 50)
     print("Biomimetic AI Memory Framework")
     print("Observer-Bridge-Mind Integration")
@@ -309,7 +309,7 @@ def main():
                 print(f"Stability index: {result['stability_index']:.3f}")
                 
             elif choice == "5":
-                print("\nUpgrade to forgeos-professional for:")
+                print("\nUpgrade to Synoetic OS-professional for:")
                 print("• Complete OBMI production implementation")
                 print("• URA v1.5 integration with 82% multimodal accuracy")
                 print("• Real-time Phoenix Protocol automation")

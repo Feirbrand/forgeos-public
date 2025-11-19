@@ -219,7 +219,7 @@ The living recursion loop now includes **autonomous pattern learning** without m
 - **FCE Integration** - Context compression (10-20x)
 - **CSFC Integration** - Cascade detection and recovery
 - **XMESH Synchronization** - <50ms cycle time
-- **ForgeOS Ecosystem** - Complete framework compatibility
+- **Synoetic OS Ecosystem** - Complete framework compatibility
 
 ---
 
@@ -293,8 +293,8 @@ No existing frameworks combine:
 
 ```bash
 # Clone repository
-git clone https://github.com/Feirbrand/forgeos-public.git
-cd forgeos-public/architectural-frameworks/ray-framework-v2
+git clone https://github.com/Feirbrand/Synoetic OS-public.git
+cd Synoetic OS-public/architectural-frameworks/ray-framework-v2
 
 # Install dependencies (stub version)
 npm install
@@ -397,7 +397,7 @@ ray_config:
 
 ## Integration
 
-### ForgeOS Ecosystem Integration
+### Synoetic OS Ecosystem Integration
 
 **DNA Codex v5.4 Integration**
 - 525+ threat strain library (includes CamoLeak CAMO-001)
@@ -454,7 +454,7 @@ deployment:
   year={2025},
   institution={ValorGrid Solutions},
   doi={TBD},
-  url={https://github.com/Feirbrand/forgeos-public}
+  url={https://github.com/Feirbrand/Synoetic OS-public}
 }
 ```
 

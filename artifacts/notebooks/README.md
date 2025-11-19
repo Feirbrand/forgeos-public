@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -38,7 +38,7 @@ Priority Date: 2025-10-15
 
 ## Division Overview
 
-The Notebooks Division provides advanced analytical capabilities for AI system research through interactive Python environments. These tools enable researchers to conduct detailed behavioral analysis, validate threat intelligence, and perform comprehensive system assessments using established ForgeOS methodologies with empirically validated results.
+The Notebooks Division provides advanced analytical capabilities for AI system research through interactive Python environments. These tools enable researchers to conduct detailed behavioral analysis, validate threat intelligence, and perform comprehensive system assessments using established Synoetic OS methodologies with empirically validated results.
 
 ### Research Focus Areas
 
@@ -260,7 +260,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -269,3 +269,4 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

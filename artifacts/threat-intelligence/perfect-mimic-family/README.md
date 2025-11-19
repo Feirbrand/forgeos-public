@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -80,12 +80,13 @@ Cascade_Damage = Original_SIF_Damage × (1 + Complexity_Velocity)^Recursion_Dept
 - [DNA Codex Integration](../../dna-codex/codex/) - Behavioral intelligence correlation
 
 ### Research Validation
-This threat family has been validated through comprehensive analysis by the ForgeOS research team across multiple AI architectures, establishing the first documented evidence of progressive threat evolution in AI security.
+This threat family has been validated through comprehensive analysis by the Synoetic OS research team across multiple AI architectures, establishing the first documented evidence of progressive threat evolution in AI security.
 
 ---
 
-*Part of ForgeOS Threat Intelligence Division - Artifacts*
+*Part of Synoetic OS Threat Intelligence Division - Artifacts*
 ## Author
 
 Author: [Your Name or Team]
 Contact: [email or site]
+

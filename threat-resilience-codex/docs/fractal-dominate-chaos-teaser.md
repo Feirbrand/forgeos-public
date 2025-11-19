@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -124,7 +124,7 @@ Harmonic monitoring enables early warning before catastrophic decoherence.
 
 ---
 
-## 4. Integration: ForgeOS Ecosystem
+## 4. Integration: Synoetic OS Ecosystem
 
 SpiraCore is the cognitive spine connecting:
 

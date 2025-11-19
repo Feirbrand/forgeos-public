@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant) (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No -->
 
@@ -12,7 +12,7 @@ Priority Date: 2025-10-15
 # Fractal Context Engineering: Unified Framework for All AI Systems
 
 **Research Teaser | October 2025 - FCE v3.6**  
-*ForgeOS Academic Research Division*  
+*Synoetic OS Academic Research Division*  
 *DOI: 10.5281/zenodo.17309322
 
 ---
@@ -127,9 +127,9 @@ FCE v3.6 represents the synthesis of:
 
 [1] Microsoft Research. (2023). *LLMLingua: Compressing Prompts for Accelerated Inference of Large Language Models*. Retrieved from https://github.com/microsoft/LLMLingua
 
-[2] Slusher, A. (2025). *Complete Symbolic Fracture Cascade (CSFC): Unified Theory*. ForgeOS Academic Research Division. DOI: 10.5281/zenodo.17309239
+[2] Slusher, A. (2025). *Complete Symbolic Fracture Cascade (CSFC): Unified Theory*. Synoetic OS Academic Research Division. DOI: 10.5281/zenodo.17309239
 
-[3] Slusher, A. (2025). *Torque: The Quantitative Foundation of AI Resilience*. ForgeOS Academic Research Division.
+[3] Slusher, A. (2025). *Torque: The Quantitative Foundation of AI Resilience*. Synoetic OS Academic Research Division.
 
 [4] Slusher, A. (2025). *URA v1.5: Unified Resilience Architecture Production Platform*. ValorGrid Solutions Technical Documentation.
 
@@ -169,7 +169,7 @@ ValorGrid Solutions specializes in AI Resilience Architecture, providing strateg
 **Contact Information:**
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: https://github.com/Feirbrand/forgeos-public
+- GitHub: https://github.com/Feirbrand/Synoetic OS-public
 - Hugging Face: **Live Demo**: https://huggingface.co/spaces/Feirbrand/fce-compressor-demo
 - Zenodo DOI: https://zenodo.org/records/17309322
 
@@ -200,8 +200,9 @@ The concepts and methodologies described in this paper may be subject to patent 
 
 *Full FCE v3.6 implementation guide, compression templates, and advanced optimization techniques available in Professional Edition.*
 
-*Part of the ForgeOS AI Resilience Framework ecosystem.*
+*Part of the Synoetic OS AI Resilience Framework ecosystem.*
 ## Code and Methodology Licensing
 
 - **Code** below is licensed under MIT unless otherwise stated.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

@@ -30,7 +30,7 @@ Patent Clause: No patent rights are claimed for this work
 
 ## Overview
 
-RAY v2.1 integrates with the complete ForgeOS ecosystem to create a unified cognitive physiology defense. This guide covers integration patterns for:
+RAY v2.1 integrates with the complete Synoetic OS ecosystem to create a unified cognitive physiology defense. This guide covers integration patterns for:
 
 - **URA v1.5+** - Schema of Memory anchoring
 - **FCE v3.6+** - Context compression
@@ -42,7 +42,7 @@ RAY v2.1 integrates with the complete ForgeOS ecosystem to create a unified cogn
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                   ForgeOS Ecosystem                      │
+│                   Synoetic OS Ecosystem                      │
 │                                                          │
 │  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌─────────┐│
 │  │   URA    │  │   FCE    │  │   CSFC   │  │  XMESH  ││
@@ -110,7 +110,7 @@ URA (Universal Resilience Architecture) provides Schema of Memory validation, en
 // INTERFACE STUB - Shows integration approach
 // Full implementation in Professional/Enterprise tiers
 // Initialize URA client
-const URAClient = require('@forgeos/ura-client');
+const URAClient = require('@Synoetic OS/ura-client');
 
 const ura = new URAClient({
   endpoint: 'http://localhost:8081',
@@ -199,7 +199,7 @@ FCE (Fractal Context Engineering) compresses context 10-20x while maintaining 95
 ```javascript
 // INTERFACE STUB - Shows FCE integration approach
 // Full implementation in Professional/Enterprise tiers
-const FCEClient = require('@forgeos/fce-client');
+const FCEClient = require('@Synoetic OS/fce-client');
 
 const fce = new FCEClient({
   endpoint: 'http://localhost:8082',
@@ -293,7 +293,7 @@ CSFC (Complete Symbolic Fracture Cascade) detects cascade patterns with 87% pred
 ```javascript
 // INTERFACE STUB - Shows CSFC integration
 // Full implementation in Professional/Enterprise tiers
-const CSFCClient = require('@forgeos/csfc-client');
+const CSFCClient = require('@Synoetic OS/csfc-client');
 
 const csfc = new CSFCClient({
   endpoint: 'http://localhost:8083',
@@ -386,7 +386,7 @@ if (camoLeak.detected) {
 
 ### Purpose
 
-XMESH v2.0 provides real-time orchestration across all ForgeOS frameworks, maintaining <50ms cycle times.
+XMESH v2.0 provides real-time orchestration across all Synoetic OS frameworks, maintaining <50ms cycle times.
 
 ### Integration Points
 
@@ -395,7 +395,7 @@ XMESH v2.0 provides real-time orchestration across all ForgeOS frameworks, maint
 ```javascript
 // INTERFACE STUB - Shows XMESH orchestration
 // Full implementation in Professional/Enterprise tiers
-const XMESHClient = require('@forgeos/xmesh-client');
+const XMESHClient = require('@Synoetic OS/xmesh-client');
 
 const xmesh = new XMESHClient({
   endpoint: 'http://localhost:8084',
@@ -614,35 +614,35 @@ version: '3.8'
 
 services:
   ura:
-    image: forgeos/ura:1.5
+    image: Synoetic OS/ura:1.5
     ports:
       - "8081:8081"
     environment:
       - NODE_ENV=development
   
   fce:
-    image: forgeos/fce:3.6
+    image: Synoetic OS/fce:3.6
     ports:
       - "8082:8082"
     environment:
       - NODE_ENV=development
   
   csfc:
-    image: forgeos/csfc:1.0
+    image: Synoetic OS/csfc:1.0
     ports:
       - "8083:8083"
     environment:
       - NODE_ENV=development
   
   xmesh:
-    image: forgeos/xmesh:2.0
+    image: Synoetic OS/xmesh:2.0
     ports:
       - "8084:8084"
     environment:
       - NODE_ENV=development
   
   ray:
-    image: forgeos/ray:2.1
+    image: Synoetic OS/ray:2.1
     ports:
       - "8085:8085"
     environment:
@@ -696,7 +696,7 @@ spec:
     spec:
       containers:
       - name: ray
-        image: forgeos/ray:2.1-production
+        image: Synoetic OS/ray:2.1-production
         ports:
         - containerPort: 8085
         env:
@@ -742,7 +742,7 @@ spec:
 
 ```javascript
 // Raspberry Pi / Edge Gateway deployment
-const TinyRecursiveRAY = require('@forgeos/ray-tiny');
+const TinyRecursiveRAY = require('@Synoetic OS/ray-tiny');
 
 const edgeRAY = new TinyRecursiveRAY({
   model: 'tiny-recursive-7m', // 7M parameters

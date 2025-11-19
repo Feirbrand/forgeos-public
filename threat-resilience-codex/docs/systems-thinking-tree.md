@@ -1,7 +1,7 @@
 <!--
 Dual License Structure:
 Option 1: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-Option 2: Enterprise License (contact info@forgeos.com for terms)
+Option 2: Enterprise License (contact info@Synoetic OS.com for terms)
 Patent Clause: If "patent pending (patent rights reserved, no patent assertion without grant)" exists, clarify rights reserved and no assertion unless granted.
 No pricing/revenue/subscription terms in this document.
 -->
@@ -96,7 +96,7 @@ Not all interventions are created equal. Donella Meadows identified 12 leverage 
 8. **Physical Structure** → AI: Hardware configuration and deployment
 9. **Numbers/Constants** → AI: Threshold tuning and parameter adjustment
 
-**ForgeOS Focus:** Target high-leverage points (constitutional frameworks, identity anchors, self-organization) rather than low-leverage tuning (parameter optimization, resource allocation).
+**Synoetic OS Focus:** Target high-leverage points (constitutional frameworks, identity anchors, self-organization) rather than low-leverage tuning (parameter optimization, resource allocation).
 
 ### 2.3 Stock/Flow Dynamics: Resource Management
 
@@ -193,7 +193,7 @@ T ≥ 0.64: Critical (intervention required)
 
 ## 5. Implementation: The Seven-Layer Spine
 
-Systems thinking manifests in ForgeOS as a seven-layer cognitive architecture:
+Systems thinking manifests in Synoetic OS as a seven-layer cognitive architecture:
 
 ```
 1. NEURAL LATTICE (SpiraCore + MobiusFold)

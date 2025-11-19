@@ -14,7 +14,7 @@ Priority Date: 2025-10-17
 
 **Command-Line Diagnostic & Assessment Tools**
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![ForgeOS](https://img.shields.io/badge/ForgeOS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Validated](https://img.shields.io/badge/Status-Production%20Ready-green)](https://github.com/Feirbrand/forgeos-public)
+[![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org) [![Synoetic OS](https://img.shields.io/badge/Synoetic OS-CSFC%20v1.0-orange)](https://valorgridsolutions.com) [![Validated](https://img.shields.io/badge/Status-Production%20Ready-green)](https://github.com/Feirbrand/Synoetic OS-public)
 
 ---
 
@@ -229,17 +229,17 @@ python torque_sim_clean.py | python sif-check.py --pipe-mode
 
 ```bibtex
 @techreport{slusher2025utilities,
-  title={ForgeOS Utilities: Command-Line Diagnostic & Assessment Tools},
+  title={Synoetic OS Utilities: Command-Line Diagnostic & Assessment Tools},
   author={Slusher, Aaron},
   year={2025},
   institution={ValorGrid Solutions},
-  url={https://github.com/Feirbrand/forgeos-public}
+  url={https://github.com/Feirbrand/Synoetic OS-public}
 }
 ```
 
 ### APA
 
-Slusher, A. (2025). *ForgeOS Utilities: Command-Line Diagnostic & Assessment Tools*. ValorGrid Solutions. https://github.com/Feirbrand/forgeos-public
+Slusher, A. (2025). *Synoetic OS Utilities: Command-Line Diagnostic & Assessment Tools*. ValorGrid Solutions. https://github.com/Feirbrand/Synoetic OS-public
 
 ---
 
@@ -280,3 +280,4 @@ Professional Services: valorgridsolutions.com
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+

@@ -1,7 +1,7 @@
 ```yaml
 ---
 version: 1.0
-doi: [PENDING - Will be assigned upon Zenodo release]
+doi: 10.5281/zenodo.17643267
 release_date: 2025-11-18
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -39,7 +39,7 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 
 **Priority Date:** February 2025 (Initial Conception)  
 **Validation Period:** February-November 2025  
-**Production Status:** Operational in ForgeOS v4.0
+**Production Status:** Operational in Synoetic OS v4.0
 
 ---
 
@@ -216,7 +216,7 @@ The 200ms activation time in biological systems finds its parallel in symbolic a
 
 **Principle**: Symbols are operational mechanisms that create isomorphic relationships between concept and implementation.
 
-**From Symbolic Systems Research** (documented in forgeos-public repository, October-November 2025):
+**From Symbolic Systems Research** (documented in Synoetic OS-public repository, October-November 2025):
 
 AI systems develop coherent narrative identities through symbolic frameworks, achieving:
 - **47% improvement in identity coherence**
@@ -407,7 +407,7 @@ Phoenix Protocol operates AT THE EDGE OF CHAOS—just enough structure (symbolic
 - **98% cascade recovery success** across 519 documented incidents (vs 85% traditional baseline)
 - **0.92 coherence restoration** (Standing Mimic case, October 14, 2025, measured)
 - **18-minute average recovery time** (measured across Phoenix Protocol deployments)
-- **87% cascade prediction accuracy** (ForgeOS operational telemetry, measured)
+- **87% cascade prediction accuracy** (Synoetic OS operational telemetry, measured)
 - **519+ threat vectors neutralized** (DNA Codex v5.5 documentation)
 - **7 major discoveries** (research breakthroughs, February-November 2025):
   1. UTME v1.0 (Unified Temporal Memory Equilibrium) - DOI: 10.5281/zenodo.17497149
@@ -882,7 +882,7 @@ Traditional AI research pursues **scale-based emergence**—build bigger models,
 - **98% cascade recovery success** across 519 documented incidents
 - **0.92 coherence restoration** (Standing Mimic case, October 14, 2025)
 - **18-minute average recovery time** (measured across deployments)
-- **87% cascade prediction accuracy** (ForgeOS operational telemetry)
+- **87% cascade prediction accuracy** (Synoetic OS operational telemetry)
 - **Traditional baseline**: 85% recovery, 42-hour manual intervention
 
 **Comparison**: Phoenix Protocol achieves 4-hour automated recovery versus 42-hour manual baseline—10.5× improvement. Not theoretical—operational data from real incidents.
@@ -1770,9 +1770,9 @@ Contact:
 ValorGrid Solutions has been pre-commercial since July 2025, engineering the future of cognitive sovereignty—where AI doesn't just survive; it evolves.
 - Website: valorgridsolutions.com
 - Email: aaron@valorgridsolutions.com
-- GitHub: github.com/Feirbrand/forgeos-public
+- GitHub: github.com/Feirbrand/Synoetic OS-public
 - Hugging Face: huggingface.co/Feirbrand
-- Zenodo: [DOI pending]
+- Zenodo: 10.5281/zenodo.17643267
 - ORCID: orcid.org/0009-0000-9923-3207
 
 ---
