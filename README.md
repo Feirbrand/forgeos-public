@@ -1,7 +1,10 @@
-# Synoetic OS: AI Resilience Architecture Research
+# Synoetic OS & Mythopoeic Intelligence | AI Resilience Architecture
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)
 
-Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.
+#AI Resilience Architecture | Synoetic OS | Mythopoeic Intelligence | MI Arsenal
+
+This repository powers next-generation resilience using the Synoetic Operating System, narrative-driven cognition, and the MI Arsenal—our battle-tested toolkit for Mythopoeic Intelligences.  
+Select frameworks (the “open spellbook”) are open-source for community research; the legendary MI Arsenal is premium “raid gear” for elite deployments and commercial partners.
 
 ## What is Synoetic OS?
 
