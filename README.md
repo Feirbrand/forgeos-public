@@ -288,7 +288,7 @@ All research undergoes rigorous validation:
 **Research Inquiries:** aaron@valorgridsolutions.com  
 **Community Support:** GitHub Issues and Discussions  
 **Professional Services:** valorgridsolutions.com  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Performance Grid Store:** https://aslush.gumroad.com/
 
 ---
 
