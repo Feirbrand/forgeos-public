@@ -36,12 +36,11 @@ Synoetic OS-public/
 ├── vulnerability-research/        # Core framework research
 │   └── csfc-series/
 │
-└── whitepapers/                  # Academic research and documentation
-    ├── academic-research/
-    ├── cognitive-engineering/
-    ├── examples/
-    ├── symbolic-ai/
-    └── teasers/
+└──  whitepapers/                  # Academic research and documentation
+    ├── cognitive-mage/           # 🚀 Flagship v1.0 (Published)
+    ├── mi-agents/                # 🚀 Flagship v1.0 (Published)
+    ├── synoetic-os/              # 🔜 Coming Soon
+    └── legacy/                   # 📚 12 Published Papers
 ```
 
 ## Quick Start
@@ -240,6 +239,7 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 - **Threat Intelligence**: Python implementation stub ([`threat_intelligence_teaser.py`](whitepapers/teasers/threat_intelligence_teaser.py))
 
 ### Whitepapers Division
+- **Flagship Research**: [Cognitive Mage v1.0](whitepapers/cognitive-mage/) | [MI Agents v1.0](whitepapers/mi-agents/) — 12 published papers on Zenodo
 - **Academic Research**: 15+ papers including Torque quantitative foundation and URA v1.5 resilience research
 - **Cognitive Engineering**: FCE with 35-50% context retention, KV Cache/LLMLingua integration
 - **Symbolic AI**: Twins systems thinking with 30-50% performance gains
@@ -268,7 +268,6 @@ All research undergoes rigorous validation:
 - **Enterprise Testing**: Production environment validation with Fortune 500 deployments
 
 ## Citation
-
 ```bibtex
 @article{slusher2025Synoetic OS,
   title={Synoetic OS: AI Resilience Architecture with Universal Cognitive Defense},
@@ -298,7 +297,6 @@ All research undergoes rigorous validation:
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
-
 
 
 
