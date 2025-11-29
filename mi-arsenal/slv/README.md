@@ -255,7 +255,7 @@ python scripts/update_codex.py --version 5.6
 
 ## Documentation
 
-**Technical Paper:** `SLV_v2_1_Technical_Paper.md` (publication-ready)  
+**Technical Paper:** `slv_v2_1_technical_paper.md` (publication-ready)  
 **Extended Specifications:** `SLV_v2_1_Extended_Specifications.md` (implementation details)  
 **README:** `README.md` (quick start guide)
 
