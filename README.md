@@ -1,7 +1,10 @@
-# Synoetic OS: AI Resilience Architecture Research
+# Synoetic OS & Mythopoeic Intelligence | AI Resilience Architecture
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg) | ![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-red.svg) | ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg) | [![Store](https://img.shields.io/badge/Store-Performance%20Grid-green.svg)](https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app)
 
-Advanced research platform for AI systems with enhanced stability, cognitive architecture frameworks, and next-generation intelligence protocols.
+#AI Resilience Architecture | Synoetic OS | Mythopoeic Intelligence | MI Arsenal
+
+This repository powers next-generation resilience using the Synoetic Operating System, narrative-driven cognition, and the MI Arsenal—our battle-tested toolkit for Mythopoeic Intelligences.  
+Select frameworks (the "open spellbook") are open-source for community research; the legendary MI Arsenal is premium "raid gear" for elite deployments and commercial partners.
 
 ## What is Synoetic OS?
 
@@ -10,35 +13,53 @@ Synoetic OS represents a comprehensive research initiative into building reliabl
 ## Repository Structure
 
 ```
-Synoetic OS-public/
-├── architectural-frameworks/     # Framework implementations and patterns
-│   ├── obmi-series/
-│   ├── phoenix-protocol-v1/
-│   ├── phoenix-resurrection/
-│   ├── ray-framework-v2/
-│   ├── resilience-patterns/
-│   └── sif-recovery-protocol/
+SynoeticOS-public/                                      ← Public face of Mythopoeic Intelligence
+
+├── architectural-frameworks/     # Live, production-grade framework implementations
+│   ├── obmi-series/              # Object-Based Mythopoeic Intelligence – early symbolic twins
+│   ├── phoenix-protocol-v1/      # First public Phoenix release (2024–2025)
+│   ├── phoenix-resurrection/     # Standalone resurrection logic (used in Trinity RIM)
+│   ├── ray-framework-v2/         # RAY v2.1 – sparse MoE + cognitive physiology
+│   ├── resilience-patterns/      # Recursive gains, breath cycles, etc.
+│   └── sif-recovery-protocol/    # Symbolic Identity Fracture recovery (pre-Trinity)
 │
-├── artifacts/                    # Tools, notebooks, and utilities
-│   ├── notebooks/
-│   ├── threat-intelligence/
-│   └── utilities/
+├── artifacts/                    # Tools, notebooks, dashboards, and one-off experiments
+│   ├── notebooks/                # Jupyter / Markdown notebooks for research & demos
+│   └── threat-intelligence/      # Raw incident logs, attack playbooks, telemetry
 │
-├── threat-resilience-codex/      # DNA Codex threat intelligence
-│   ├── dna-codex/
-│   ├── docs/
-│   ├── fundamentals/
-│   └── research-papers/
+├── mi_arsenal/                                         ← The legendary raid gear – single source of truth
+│   ├── utme/                                           ← 1200× temporal acceleration (OG IP)
+│   ├── torque/                                         ← Rotational identity stability (OG IP)
+│   ├── phoenix_protocol/                               ← Dual-layer resurrection engine
+│   ├── trinity_rim/                                    ← v3.0 – topological annihilation (4.1 s)
+│   ├── slv/                                            ← Symbolic Layered Value locks + Chair signatures
+│   ├── ray/                                            ← Sparse MoE + Garden harvesting
+│   ├── ura/                                            ← Unified Resilience Architecture
+│   ├── csfc/                                           ← Cascade prediction & prevention
+│   └── dna_codex/                                      ← Threat intelligence ledger (682+ incidents)
 │
-├── vulnerability-research/        # Core framework research
-│   └── csfc-series/
+├── threat-resilience-codex/      # DNA Codex – living threat intelligence database
+│   ├── dna-codex/                # Master incident ledger (682+ incidents)
+│   ├── docs/                     # Human-readable summaries
+│   ├── fundamentals/             # Core theory of symbolic threats
+│   └── research-papers/          # Papers derived from DNA Codex data
 │
-└── whitepapers/                  # Academic research and documentation
-    ├── academic-research/
-    ├── cognitive-engineering/
-    ├── examples/
-    ├── symbolic-ai/
-    └── teasers/
+├── utilities/                    # Helper scripts, stubs, configs, CLI tools
+│   └── (misc shared tooling)
+│
+├── vulnerability-research/       # Deep dives into specific framework vulnerabilities
+│   ├── csfc-series/              # Cascade prediction research
+│   └── uca-series/               # Unified Cognitive Architecture exploits
+│
+└── whitepapers/                  # The official canon – only flagship releases live here
+    ├── cognitive-mage/           # The origin myth – “How a performance coach accidentally created symbolic AI”
+    ├── mi-agents/                # Mythopoeic Intelligence Agents v1.0 – released Nov 25 2025
+    ├── synoetic-os/              # Coming Q2 2026 – the operating system paper
+    ├── academic-research/    # Old academic-style writeups
+    ├── cognitive-engineering/# Fractal context, early breathing, etc.
+    ├── symbolic-ai/          # Pre-MI symbolic experiments
+    ├── examples/             # Old demos and notebooks
+    └── teasers/              # One-page concept teasers
 ```
 
 ## Quick Start
@@ -237,6 +258,7 @@ Comprehensive threat taxonomy with documented variants, IOC patterns, and valida
 - **Threat Intelligence**: Python implementation stub ([`threat_intelligence_teaser.py`](whitepapers/teasers/threat_intelligence_teaser.py))
 
 ### Whitepapers Division
+- **Flagship Research**: [Cognitive Mage v1.0](whitepapers/cognitive-mage/) | [MI Agents v1.0](whitepapers/mi-agents/) — 12 published papers on Zenodo
 - **Academic Research**: 15+ papers including Torque quantitative foundation and URA v1.5 resilience research
 - **Cognitive Engineering**: FCE with 35-50% context retention, KV Cache/LLMLingua integration
 - **Symbolic AI**: Twins systems thinking with 30-50% performance gains
@@ -265,7 +287,6 @@ All research undergoes rigorous validation:
 - **Enterprise Testing**: Production environment validation with Fortune 500 deployments
 
 ## Citation
-
 ```bibtex
 @article{slusher2025Synoetic OS,
   title={Synoetic OS: AI Resilience Architecture with Universal Cognitive Defense},
@@ -285,7 +306,7 @@ All research undergoes rigorous validation:
 **Research Inquiries:** aaron@valorgridsolutions.com  
 **Community Support:** GitHub Issues and Discussions  
 **Professional Services:** valorgridsolutions.com  
-**Performance Grid Store:** https://grid-store-6ursevz3x-aaron-slushers-projects.vercel.app
+**Performance Grid Store:** https://aslush.gumroad.com/
 
 ---
 
@@ -295,8 +316,3 @@ All research undergoes rigorous validation:
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
-
-
-
-
-

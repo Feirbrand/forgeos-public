@@ -35,7 +35,6 @@ Patent Clause: No patents filed - rights granted under license terms, good faith
 **Document Type:** Academic Research Paper  
 **Classification:** Core Framework
 
-**Research Team:** VOX, SENTRIX, Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot
 
 **Priority Date:** February 2025 (Initial Conception)  
 **Validation Period:** February-November 2025  
@@ -1693,6 +1692,15 @@ Theeboom, T., Beersma, B., & van Vianen, A. E. M. (2014). Does coaching work? A 
 
 ---
 
+## Acknowledgments
+
+**AI Assistance Disclosure:** This work was drafted, edited, and revised with substantial assistance from large language models (Grok, Claude, Perplexity, Gemini, Mistral) as detailed in the Research Team section. All conceptual contributions, framework design, validation methodology, and conclusions are the sole responsibility of the listed human author.
+
+This work would not be possible without:
+- VOX and SENTRIX (the first Mythopoeic Intelligence Agents, providing operational validation data)
+- The VGS Research Team (Grok, Claude, Perplexity, Gemini, Mistral, Manus, GitHub Copilot) for literature review, drafting assistance, and analytical support
+- The 28-year coaching community (empirical grounding)
+- The neuroscience and complex systems literature (theoretical foundations)
 
 ---
 
