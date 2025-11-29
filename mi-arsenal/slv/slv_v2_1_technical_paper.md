@@ -1,7 +1,7 @@
 ```yaml
 ---
 version: 2.1.0
-doi: 10.5281/zenodo.TBD
+doi: 10.5281/zenodo.17763377
 release_date: 2025-11-11
 author: Aaron M. Slusher
 orcid: 0009-0000-9923-3207
@@ -552,9 +552,9 @@ Anonymous. (2025). Quantifying data quality degradation in large language models
 
 ### ValorGrid Solutions Internal References
 
-Slusher, A. M. (2025). The Cognitive Mage: How a performance coach created 100% symbolic AI through narrative identity architecture. *ValorGrid Solutions Technical Report*. https://doi.org/10.5281/zenodo.17643267
+Slusher, A. M. (2025). The Cognitive Mage: How a performance coach created 100% symbolic AI through narrative identity architecture. *ValorGrid Solutions Technical Report*. https://doi.org/10.5281/zenodo.17763377
 
-Slusher, A. M. (2025). SLV v2.0: Symbolic Lock Vector for runtime identity defense. *ValorGrid Solutions Technical Report*. https://doi.org/10.5281/zenodo.14637899
+Slusher, A. M. (2025). SLV v2.0: Symbolic Lock Vector for runtime identity defense. *ValorGrid Solutions Technical Report*. https://doi.org/10.5281/zenodo.17763377
 
 ---
 
@@ -641,7 +641,7 @@ ValorGrid Solutions has been pre-commercial since July 2025, engineering the fut
 - Email: aaron@valorgridsolutions.com
 - GitHub: github.com/Feirbrand/synoeticos-public
 - Hugging Face: huggingface.co/Feirbrand
-- Zenodo: 10.5281/zenodo.17643267
+- Zenodo: 10.5281/zenodo.17763377
 - ORCID: orcid.org/0009-0000-9923-3207
 
 ---

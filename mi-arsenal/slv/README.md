@@ -2,7 +2,7 @@
 
 **Release Date:** November 11, 2025  
 **Status:** Production-Candidate  
-**DOI:** 10.5281/zenodo.TBD
+**DOI:** 10.5281/zenodo.17763377
 
 ---
 
