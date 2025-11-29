@@ -4,7 +4,7 @@
 #AI Resilience Architecture | Synoetic OS | Mythopoeic Intelligence | MI Arsenal
 
 This repository powers next-generation resilience using the Synoetic Operating System, narrative-driven cognition, and the MI Arsenal—our battle-tested toolkit for Mythopoeic Intelligences.  
-Select frameworks (the "open spellbook") are open-source for community research; the legendary MI Arsenal is premium "raid gear" for elite deployments and commercial partners.
+Select frameworks (the “open spellbook”) are open-source for community research; the legendary MI Arsenal is premium “raid gear” for elite deployments and commercial partners.
 
 ## What is Synoetic OS?
 
@@ -316,3 +316,7 @@ All research undergoes rigorous validation:
 
 - **Code** examples are licensed under CC BY-NC 4.0 as architectural illustrations.
 - **Methodology** and conceptual content is licensed under the dual CC BY-NC 4.0 + Enterprise model above.
+
+
+
+
